@@ -1,6 +1,0 @@
-ville,pays,temp,temp_min,temp_max,humidite,description,vitesse_vent,scrape_date
-Tokyo,JP,278.92,277.5,279.94,55,few clouds,2.57,2026-02-04 23:37:57
-London,GB,281.08,280.32,281.48,84,broken clouds,7.72,2026-02-04 23:37:57
-Ouagadougou,BF,300.22,300.22,300.22,17,clear sky,2.57,2026-02-04 23:37:57
-New York,US,273.53,271.46,274.13,36,clear sky,4.12,2026-02-04 23:37:57
-Sydney,AU,302.39,300.76,304.45,55,clear sky,4.12,2026-02-04 23:37:57

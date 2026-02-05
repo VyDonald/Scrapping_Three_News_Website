@@ -1,5 +1,0 @@
-{"ville":"Tokyo","pays":"JP","temp":278.92,"temp_min":277.5,"temp_max":279.94,"humidite":55,"description":"few clouds","vitesse_vent":2.57,"scrape_date":1770248277000}
-{"ville":"London","pays":"GB","temp":281.08,"temp_min":280.32,"temp_max":281.48,"humidite":84,"description":"broken clouds","vitesse_vent":7.72,"scrape_date":1770248277000}
-{"ville":"Ouagadougou","pays":"BF","temp":300.22,"temp_min":300.22,"temp_max":300.22,"humidite":17,"description":"clear sky","vitesse_vent":2.57,"scrape_date":1770248277000}
-{"ville":"New York","pays":"US","temp":273.53,"temp_min":271.46,"temp_max":274.13,"humidite":36,"description":"clear sky","vitesse_vent":4.12,"scrape_date":1770248277000}
-{"ville":"Sydney","pays":"AU","temp":302.39,"temp_min":300.76,"temp_max":304.45,"humidite":55,"description":"clear sky","vitesse_vent":4.12,"scrape_date":1770248277000}
