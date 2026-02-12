@@ -1,3 +1,4 @@
+import hashlib
 import json
 import os
 import pandas as pd
@@ -5,38 +6,28 @@ from config.logger import setup_logger
 from datetime import datetime
 logger = setup_logger()
 
-RAW_DIR = "data"
+RAW_DIR = "data/raw"
 
 def load_data():
     logger.info("[TRANSFORM] Starting transformation")
-
-    rows = []
-
-    for file in os.listdir(RAW_DIR):
-        if not file.endswith(".json"):
-            continue
-
-        with open(os.path.join(RAW_DIR, file), "r") as f:
+    try: 
+        file_path = os.path.join(RAW_DIR, "extracted_data.json")
+        with open(file_path, "r") as f:
             data = json.load(f)
+        df = pd.DataFrame(data)
+        logger.info(f"[TRANSFORM] Loaded data with {df.shape[0]} rows and {df.shape[1]} columns")
+        return df
+    except Exception as e:
+        logger.error(f"[TRANSFORM] Error loading data: {e}")
+        raise
 
-        try:
-            rows.append({
-                "ville": data["name"],
-                "pays": data["sys"]["country"],
-                "temp": data["main"]["temp"],
-                "temp_min": data["main"]["temp_min"],
-                "temp_max": data["main"]["temp_max"],
-                "humidite": data["main"]["humidity"],
-                "description": data["weather"][0]["description"],
-                "vitesse_vent": data["wind"]["speed"]
-            })
-        except KeyError as e:
-            logger.error(f"[TRANSFORM] Missing key in {file}: {e}")
+#def generate_id(row):
+    #source = str(row.get("source", "")).strip().lower()
+    #lien = str(row.get("lien", "")).strip()
+    #unique_string = source + "|" + lien
+    #return hashlib.sha256(unique_string.encode("utf-8")).hexdigest()
 
-    df = pd.DataFrame(rows)
-    logger.info(f"[TRANSFORM] DataFrame created with shape {df.shape}")
-
-    return df
+#df["id"] = df.apply(generate_id, axis=1)
 
 
 def transform_data(df: pd.DataFrame) -> pd.DataFrame:
@@ -45,21 +36,28 @@ def transform_data(df: pd.DataFrame) -> pd.DataFrame:
 
         before = df.shape[0]
 
-        df = df.drop_duplicates()
-        df = df.dropna(subset=["temp", "humidite"])
+        df = df.drop_duplicates(subset=["source", "lien"]).copy()
+        df["date"] = pd.to_datetime(df["date"], errors="coerce",utc=True)
 
-        numeric_cols = [
-            "temp", "temp_min", "temp_max",
-            "humidite", "vitesse_vent"
-        ]
+        df["scraped_at"] = pd.Timestamp.utcnow()
 
-        for col in numeric_cols:
-            df[col] = pd.to_numeric(df[col], errors="coerce")
-        df["scrape_date"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        df["date"] = df["date"].fillna(df["scraped_at"])
+
         after = df.shape[0]
         logger.info(f"[TRANSFORM] Rows before: {before} → after: {after}")
 
-        df.to_csv("data_clean/clean.csv", index=False)
+        
+        df["title"] = df["title"].fillna("").str.strip()
+        df["auteur"] = df["auteur"].fillna("Unknown").str.strip()
+
+        df["id"] = (
+        df["source"].str.lower().str.strip() + "|" +
+        df["lien"].str.strip()
+            ).apply(lambda x: hashlib.sha256(x.encode()).hexdigest())
+
+        
+
+        df.to_csv("data/clean/clean.csv", index=False)
         logger.info("[TRANSFORM] Cleaned data saved to clean.csv")
         return df
 
@@ -72,4 +70,5 @@ if __name__ == "__main__":
     df_raw = load_data()
     df_clean = transform_data(df_raw)
     print(df_clean.head())
-    
+    print(df_clean.isnull().sum())
+    print(df_clean.dtypes)

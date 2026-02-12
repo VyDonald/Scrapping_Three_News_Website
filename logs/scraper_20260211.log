@@ -21705,3 +21705,1728 @@
 2026-02-11 20:24:11,496 - INFO - [EXTRACT] Extracted source: Dan Goodin
 2026-02-11 20:24:11,497 - INFO - [EXTRACT] Total number of articles extracted: 431
 2026-02-11 20:24:11,509 - INFO - [EXTRACT] Extracted data saved to data/raw/extracted_data.json
+2026-02-11 21:21:50,366 - INFO - Logger configured.
+2026-02-11 21:21:50,368 - INFO - Logger configured.
+2026-02-11 21:21:50,369 - INFO - Logger configured.
+2026-02-11 21:21:50,369 - INFO - Logger configured.
+2026-02-11 21:21:50,369 - INFO - [EXTRACT] Fetching data from: https://techcrunch.com/latest/page/1/?offset=10
+2026-02-11 21:21:51,986 - INFO - [EXTRACT] Successfully extracted data from page 1
+2026-02-11 21:21:51,988 - INFO - [EXTRACT] Extracted title: Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed
+2026-02-11 21:21:51,988 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/
+2026-02-11 21:21:51,988 - INFO - [EXTRACT] Extracted date: 3 hours ago
+2026-02-11 21:21:51,989 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:51,989 - INFO - [EXTRACT] Extracted title: Google releases the first beta of Android 17, adopts a continuous developer release plan
+2026-02-11 21:21:51,989 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/
+2026-02-11 21:21:51,989 - INFO - [EXTRACT] Extracted date: 3 hours ago
+2026-02-11 21:21:51,989 - INFO - [EXTRACT] Extracted source: Ivan Mehta
+2026-02-11 21:21:51,989 - INFO - [EXTRACT] Extracted title: How AI changes the math for startups, according to a Microsoft VP
+2026-02-11 21:21:51,989 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/
+2026-02-11 21:21:51,990 - INFO - [EXTRACT] Extracted date: 3 hours ago
+2026-02-11 21:21:51,990 - INFO - [EXTRACT] Extracted source: Russell Brandom
+2026-02-11 21:21:51,990 - INFO - [EXTRACT] Extracted title: UpScrolled’s social network is struggling to moderate hate speech after fast growth
+2026-02-11 21:21:51,990 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/
+2026-02-11 21:21:51,990 - INFO - [EXTRACT] Extracted date: 3 hours ago
+2026-02-11 21:21:51,990 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:51,990 - INFO - [EXTRACT] Extracted title: Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV
+2026-02-11 21:21:51,990 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/
+2026-02-11 21:21:51,991 - INFO - [EXTRACT] Extracted date: 5 hours ago
+2026-02-11 21:21:51,991 - INFO - [EXTRACT] Extracted source: Tim De Chant
+2026-02-11 21:21:51,991 - INFO - [EXTRACT] Extracted title: Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce
+2026-02-11 21:21:51,991 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/
+2026-02-11 21:21:51,991 - INFO - [EXTRACT] Extracted date: 5 hours ago
+2026-02-11 21:21:51,991 - INFO - [EXTRACT] Extracted source: Julie Bort
+2026-02-11 21:21:51,991 - INFO - [EXTRACT] Extracted title: Upside Robotics is reducing fertilizer use and waste in corn crops
+2026-02-11 21:21:51,991 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/
+2026-02-11 21:21:51,992 - INFO - [EXTRACT] Extracted date: 5 hours ago
+2026-02-11 21:21:51,992 - INFO - [EXTRACT] Extracted source: Rebecca Szkutak
+2026-02-11 21:21:51,992 - INFO - [EXTRACT] Extracted title: Amazon Pharmacy to expand same-day delivery to nearly 4,500 US cities
+2026-02-11 21:21:51,992 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/amazon-pharmacy-to-expand-same-day-delivery-to-nearly-4500-us-cities/
+2026-02-11 21:21:51,992 - INFO - [EXTRACT] Extracted date: 5 hours ago
+2026-02-11 21:21:51,992 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:51,992 - INFO - [EXTRACT] Extracted title: Build a pipeline and close deals with an exhibit table at TechCrunch Disrupt 2026
+2026-02-11 21:21:51,992 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/build-a-pipeline-and-close-deals-with-an-exhibit-table-at-techcrunch-disrupt-2026/
+2026-02-11 21:21:51,993 - INFO - [EXTRACT] Extracted date: 6 hours ago
+2026-02-11 21:21:51,993 - INFO - [EXTRACT] Extracted source: TechCrunch Events
+2026-02-11 21:21:51,993 - INFO - [EXTRACT] Extracted title: TikTok launches an opt-in Local Feed in the US leveraging users’ precise location
+2026-02-11 21:21:51,993 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/tiktok-launches-an-opt-in-local-feed-in-the-u-s-leveraging-users-precise-location/
+2026-02-11 21:21:51,993 - INFO - [EXTRACT] Extracted date: 7 hours ago
+2026-02-11 21:21:51,993 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:51,993 - INFO - [EXTRACT] Extracted title: Integrate raises $17M to move defense project management into the 21st century
+2026-02-11 21:21:51,993 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/integrate-raises-17m-to-move-defense-project-management-into-the-21st-century/
+2026-02-11 21:21:51,994 - INFO - [EXTRACT] Extracted date: 7 hours ago
+2026-02-11 21:21:51,994 - INFO - [EXTRACT] Extracted source: Marina Temkin
+2026-02-11 21:21:51,994 - INFO - [EXTRACT] Extracted title: Complyance raises $20M to help companies manage risk and compliance
+2026-02-11 21:21:51,994 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/complyance-raises-20m-to-help-companies-manage-risk-and-compliance/
+2026-02-11 21:21:51,994 - INFO - [EXTRACT] Extracted date: 7 hours ago
+2026-02-11 21:21:51,994 - INFO - [EXTRACT] Extracted source: Dominic-Madori Davis
+2026-02-11 21:21:51,994 - INFO - [EXTRACT] Extracted title: Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation
+2026-02-11 21:21:51,995 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/humanoid-robot-startup-apptronik-has-now-raised-935m-at-a-5b-valuation/
+2026-02-11 21:21:51,995 - INFO - [EXTRACT] Extracted date: 7 hours ago
+2026-02-11 21:21:51,995 - INFO - [EXTRACT] Extracted source: Julie Bort
+2026-02-11 21:21:51,995 - INFO - [EXTRACT] Extracted title: Meridian raises $17 million to remake the agentic spreadsheet
+2026-02-11 21:21:51,995 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/meridian-ai-raises-17-million-to-remake-the-agentic-spreadsheet/
+2026-02-11 21:21:51,995 - INFO - [EXTRACT] Extracted date: 7 hours ago
+2026-02-11 21:21:51,995 - INFO - [EXTRACT] Extracted source: Russell Brandom
+2026-02-11 21:21:51,996 - INFO - [EXTRACT] Extracted title: Samsung to hold its Galaxy S26 event on February 25
+2026-02-11 21:21:51,996 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/
+2026-02-11 21:21:51,996 - INFO - [EXTRACT] Extracted date: 14 hours ago
+2026-02-11 21:21:51,996 - INFO - [EXTRACT] Extracted source: Ivan Mehta
+2026-02-11 21:21:51,996 - INFO - [EXTRACT] Extracted title: With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon
+2026-02-11 21:21:51,996 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/
+2026-02-11 21:21:51,996 - INFO - [EXTRACT] Extracted date: 16 hours ago
+2026-02-11 21:21:51,997 - INFO - [EXTRACT] Extracted source: Connie Loizos
+2026-02-11 21:21:51,997 - INFO - [EXTRACT] Extracted title: OpenAI policy exec who opposed chatbot’s ‘adult mode’ reportedly fired on discrimination claim
+2026-02-11 21:21:51,997 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/
+2026-02-11 21:21:51,997 - INFO - [EXTRACT] Extracted date: 19 hours ago
+2026-02-11 21:21:51,997 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:51,997 - INFO - [EXTRACT] Extracted title: Okay, now exactly half of xAI’s founding team has left the company
+2026-02-11 21:21:51,997 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/okay-now-exactly-half-of-xais-founding-team-has-left-the-company/
+2026-02-11 21:21:51,997 - INFO - [EXTRACT] Extracted date: 19 hours ago
+2026-02-11 21:21:51,998 - INFO - [EXTRACT] Extracted source: Russell Brandom
+2026-02-11 21:21:51,998 - INFO - [EXTRACT] Extracted title: Amazon may launch a marketplace where media sites can sell their content to AI companies
+2026-02-11 21:21:51,998 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/
+2026-02-11 21:21:51,998 - INFO - [EXTRACT] Extracted date: 22 hours ago
+2026-02-11 21:21:51,998 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:51,998 - INFO - [EXTRACT] Extracted title: An ice dance duo skated to AI music at the Olympics
+2026-02-11 21:21:51,998 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/
+2026-02-11 21:21:51,999 - INFO - [EXTRACT] Extracted date: 23 hours ago
+2026-02-11 21:21:51,999 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:51,999 - INFO - [EXTRACT] Extracted title: The first signs of burnout are coming from the people who embrace AI the most
+2026-02-11 21:21:51,999 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/
+2026-02-11 21:21:51,999 - INFO - [EXTRACT] Extracted source: Connie Loizos
+2026-02-11 21:21:51,999 - INFO - [EXTRACT] Extracted title: MrBeast’s company buys Gen Z-focused fintech app Step
+2026-02-11 21:21:51,999 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/
+2026-02-11 21:21:52,000 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:52,000 - INFO - [EXTRACT] Extracted title: YouTube TV introduces cheaper bundles, including a $65/month sports package
+2026-02-11 21:21:52,000 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/
+2026-02-11 21:21:52,000 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:52,000 - INFO - [EXTRACT] Extracted title: Discord to roll out age verification next month
+2026-02-11 21:21:52,000 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/
+2026-02-11 21:21:52,000 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:52,001 - INFO - [EXTRACT] Extracted title: The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be
+2026-02-11 21:21:52,001 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/
+2026-02-11 21:21:52,001 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:52,001 - INFO - [EXTRACT] Extracted title: OpenAI launches new agentic coding model only minutes after Anthropic drops its own
+2026-02-11 21:21:52,001 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/
+2026-02-11 21:21:52,001 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:52,001 - INFO - [EXTRACT] Extracted title: Anthropic releases Opus 4.6 with new ‘agent teams’
+2026-02-11 21:21:52,001 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/
+2026-02-11 21:21:52,002 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:52,002 - INFO - [EXTRACT] Fetching data from: https://techcrunch.com/latest/page/2/?offset=10
+2026-02-11 21:21:52,934 - INFO - [EXTRACT] Successfully extracted data from page 2
+2026-02-11 21:21:52,936 - INFO - [EXTRACT] Extracted title: Here’s how Rivian changed the rear door manual release on the R2
+2026-02-11 21:21:52,936 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/heres-how-rivian-changed-the-rear-door-manual-release-on-the-r2/
+2026-02-11 21:21:52,936 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,936 - INFO - [EXTRACT] Extracted source: Sean O'Kane
+2026-02-11 21:21:52,936 - INFO - [EXTRACT] Extracted title: Facebook adds new AI features, animated profile photos, and backgrounds for text posts
+2026-02-11 21:21:52,936 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/
+2026-02-11 21:21:52,936 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,937 - INFO - [EXTRACT] Extracted source: Lauren Forristal
+2026-02-11 21:21:52,937 - INFO - [EXTRACT] Extracted title: Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip
+2026-02-11 21:21:52,937 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/
+2026-02-11 21:21:52,937 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,937 - INFO - [EXTRACT] Extracted source: Ivan Mehta
+2026-02-11 21:21:52,937 - INFO - [EXTRACT] Extracted title: Singapore says China-backed hackers targeted its four largest phone companies
+2026-02-11 21:21:52,937 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/
+2026-02-11 21:21:52,937 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,938 - INFO - [EXTRACT] Extracted source: Zack Whittaker
+2026-02-11 21:21:52,938 - INFO - [EXTRACT] Extracted title: Vega raises $120M Series B to rethink how enterprises detect cyber threats
+2026-02-11 21:21:52,938 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/
+2026-02-11 21:21:52,938 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,938 - INFO - [EXTRACT] Extracted source: Rebecca Bellan
+2026-02-11 21:21:52,938 - INFO - [EXTRACT] Extracted title: What to know about Netflix’s landmark acquisition of Warner Bros.
+2026-02-11 21:21:52,938 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/
+2026-02-11 21:21:52,938 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,939 - INFO - [EXTRACT] Extracted source: Lauren Forristal
+2026-02-11 21:21:52,939 - INFO - [EXTRACT] Extracted title: Google expands tools to let users remove sensitive data about themselves from Search
+2026-02-11 21:21:52,939 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/
+2026-02-11 21:21:52,939 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,939 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:52,939 - INFO - [EXTRACT] Extracted title: Trump EPA reportedly seeks to revoke landmark air pollution rule
+2026-02-11 21:21:52,939 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/
+2026-02-11 21:21:52,940 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,940 - INFO - [EXTRACT] Extracted source: Tim De Chant
+2026-02-11 21:21:52,940 - INFO - [EXTRACT] Extracted title: YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying
+2026-02-11 21:21:52,940 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/
+2026-02-11 21:21:52,940 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,941 - INFO - [EXTRACT] Extracted source: Lauren Forristal
+2026-02-11 21:21:52,941 - INFO - [EXTRACT] Extracted title: Hauler Hero collects $16M for its AI waste management software
+2026-02-11 21:21:52,941 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/
+2026-02-11 21:21:52,941 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,941 - INFO - [EXTRACT] Extracted source: Rebecca Szkutak
+2026-02-11 21:21:52,941 - INFO - [EXTRACT] Extracted title: India orders social media platforms to take down deepfakes faster
+2026-02-11 21:21:52,941 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/
+2026-02-11 21:21:52,941 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,941 - INFO - [EXTRACT] Extracted source: Jagmeet Singh
+2026-02-11 21:21:52,942 - INFO - [EXTRACT] Extracted title: Former GitHub CEO raises record $60M dev tool seed round at $300M valuation
+2026-02-11 21:21:52,942 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/
+2026-02-11 21:21:52,942 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,942 - INFO - [EXTRACT] Extracted source: Julie Bort
+2026-02-11 21:21:52,942 - INFO - [EXTRACT] Extracted title: Spotify hits a record 751M monthly users thanks to Wrapped, new free features
+2026-02-11 21:21:52,942 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/
+2026-02-11 21:21:52,942 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,942 - INFO - [EXTRACT] Extracted source: Ivan Mehta
+2026-02-11 21:21:52,942 - INFO - [EXTRACT] Extracted title: Primary Ventures raises healthy $625M Fund V to focus on seed investing
+2026-02-11 21:21:52,943 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/primary-ventures-raises-massive-625m-fund-v-to-focus-on-seed-investing/
+2026-02-11 21:21:52,943 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,943 - INFO - [EXTRACT] Extracted source: Dominic-Madori Davis
+2026-02-11 21:21:52,943 - INFO - [EXTRACT] Extracted title: Proptech startup Smart Bricks raises $5M pre-seed led by a16z speedrun
+2026-02-11 21:21:52,943 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/proptech-startup-smart-bricks-raises-5-million-pre-seed-in-round-led-by-a16z/
+2026-02-11 21:21:52,943 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,943 - INFO - [EXTRACT] Extracted source: Dominic-Madori Davis
+2026-02-11 21:21:52,943 - INFO - [EXTRACT] Extracted title: AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models
+2026-02-11 21:21:52,943 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/
+2026-02-11 21:21:52,944 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,944 - INFO - [EXTRACT] Extracted source: Rebecca Bellan
+2026-02-11 21:21:52,944 - INFO - [EXTRACT] Extracted title: YouTube rolls out an AI playlist generator for Premium users
+2026-02-11 21:21:52,944 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/
+2026-02-11 21:21:52,944 - INFO - [EXTRACT] Extracted date: 1 day ago
+2026-02-11 21:21:52,945 - INFO - [EXTRACT] Extracted source: Ivan Mehta
+2026-02-11 21:21:52,945 - INFO - [EXTRACT] Extracted title: The first signs of burnout are coming from the people who embrace AI the most
+2026-02-11 21:21:52,945 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/
+2026-02-11 21:21:52,945 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:52,945 - INFO - [EXTRACT] Extracted source: Connie Loizos
+2026-02-11 21:21:52,945 - INFO - [EXTRACT] Extracted title: Tem raises $75M to remake electricity markets using AI
+2026-02-11 21:21:52,945 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/
+2026-02-11 21:21:52,945 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:52,945 - INFO - [EXTRACT] Extracted source: Tim De Chant
+2026-02-11 21:21:52,946 - INFO - [EXTRACT] Extracted title: India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain
+2026-02-11 21:21:52,946 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/
+2026-02-11 21:21:52,946 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:52,946 - INFO - [EXTRACT] Extracted source: Jagmeet Singh
+2026-02-11 21:21:52,946 - INFO - [EXTRACT] Extracted title: The first signs of burnout are coming from the people who embrace AI the most
+2026-02-11 21:21:52,946 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/
+2026-02-11 21:21:52,946 - INFO - [EXTRACT] Extracted source: Connie Loizos
+2026-02-11 21:21:52,946 - INFO - [EXTRACT] Extracted title: MrBeast’s company buys Gen Z-focused fintech app Step
+2026-02-11 21:21:52,947 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/
+2026-02-11 21:21:52,947 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:52,947 - INFO - [EXTRACT] Extracted title: YouTube TV introduces cheaper bundles, including a $65/month sports package
+2026-02-11 21:21:52,947 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/
+2026-02-11 21:21:52,947 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:52,947 - INFO - [EXTRACT] Extracted title: Discord to roll out age verification next month
+2026-02-11 21:21:52,947 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/
+2026-02-11 21:21:52,947 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:52,948 - INFO - [EXTRACT] Extracted title: The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be
+2026-02-11 21:21:52,948 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/
+2026-02-11 21:21:52,948 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:52,948 - INFO - [EXTRACT] Extracted title: OpenAI launches new agentic coding model only minutes after Anthropic drops its own
+2026-02-11 21:21:52,948 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/
+2026-02-11 21:21:52,948 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:52,948 - INFO - [EXTRACT] Extracted title: Anthropic releases Opus 4.6 with new ‘agent teams’
+2026-02-11 21:21:52,948 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/
+2026-02-11 21:21:52,949 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:52,949 - INFO - [EXTRACT] Fetching data from: https://techcrunch.com/latest/page/3/?offset=10
+2026-02-11 21:21:53,849 - INFO - [EXTRACT] Successfully extracted data from page 3
+2026-02-11 21:21:53,851 - INFO - [EXTRACT] Extracted title: India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain
+2026-02-11 21:21:53,851 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/
+2026-02-11 21:21:53,851 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,852 - INFO - [EXTRACT] Extracted source: Jagmeet Singh
+2026-02-11 21:21:53,852 - INFO - [EXTRACT] Extracted title: Waymo is testing driverless robotaxis in Nashville
+2026-02-11 21:21:53,852 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/
+2026-02-11 21:21:53,852 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,852 - INFO - [EXTRACT] Extracted source: Kirsten Korosec
+2026-02-11 21:21:53,852 - INFO - [EXTRACT] Extracted title: MrBeast’s company buys Gen Z-focused fintech app Step
+2026-02-11 21:21:53,852 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/
+2026-02-11 21:21:53,852 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,853 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:53,853 - INFO - [EXTRACT] Extracted title: Bluesky finally adds drafts
+2026-02-11 21:21:53,853 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/
+2026-02-11 21:21:53,853 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,853 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:53,853 - INFO - [EXTRACT] Extracted title: Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant
+2026-02-11 21:21:53,853 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/
+2026-02-11 21:21:53,853 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,854 - INFO - [EXTRACT] Extracted source: Julie Bort
+2026-02-11 21:21:53,854 - INFO - [EXTRACT] Extracted title: Anthropic’s India expansion collides with a local company that already had the name
+2026-02-11 21:21:53,854 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/
+2026-02-11 21:21:53,854 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,854 - INFO - [EXTRACT] Extracted source: Jagmeet Singh
+2026-02-11 21:21:53,854 - INFO - [EXTRACT] Extracted title: ChatGPT rolls out ads
+2026-02-11 21:21:53,854 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/
+2026-02-11 21:21:53,854 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,854 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:53,855 - INFO - [EXTRACT] Extracted title: Lidar-maker Ouster buys vision company StereoLabs as sensor consolidation continues
+2026-02-11 21:21:53,855 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/
+2026-02-11 21:21:53,855 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,855 - INFO - [EXTRACT] Extracted source: Sean O'Kane
+2026-02-11 21:21:53,855 - INFO - [EXTRACT] Extracted title: So, what’s going on with Musicboard?
+2026-02-11 21:21:53,855 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/so-whats-going-on-with-musicboard/
+2026-02-11 21:21:53,855 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,856 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:53,856 - INFO - [EXTRACT] Extracted title: Harvey reportedly raising at $11B valuation just months after it hit $8B
+2026-02-11 21:21:53,856 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/
+2026-02-11 21:21:53,856 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,856 - INFO - [EXTRACT] Extracted source: Julie Bort
+2026-02-11 21:21:53,856 - INFO - [EXTRACT] Extracted title: Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO
+2026-02-11 21:21:53,856 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/
+2026-02-11 21:21:53,856 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,857 - INFO - [EXTRACT] Extracted source: Rebecca Szkutak
+2026-02-11 21:21:53,857 - INFO - [EXTRACT] Extracted title: Lyft opens its ride-hailing app to teens
+2026-02-11 21:21:53,857 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/
+2026-02-11 21:21:53,857 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,857 - INFO - [EXTRACT] Extracted source: Kirsten Korosec
+2026-02-11 21:21:53,857 - INFO - [EXTRACT] Extracted title: Hacked, leaked, exposed: Why you should never use stalkerware apps
+2026-02-11 21:21:53,857 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/
+2026-02-11 21:21:53,857 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,857 - INFO - [EXTRACT] Extracted source: Lorenzo Franceschi-Bicchierai
+2026-02-11 21:21:53,858 - INFO - [EXTRACT] Extracted title: Anthropic closes in on $20B round
+2026-02-11 21:21:53,858 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/
+2026-02-11 21:21:53,858 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,858 - INFO - [EXTRACT] Extracted source: Tim Fernholz
+2026-02-11 21:21:53,858 - INFO - [EXTRACT] Extracted title: Ex-Googlers are building infrastructure to help companies understand their video data
+2026-02-11 21:21:53,858 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/
+2026-02-11 21:21:53,858 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,858 - INFO - [EXTRACT] Extracted source: Kate Park
+2026-02-11 21:21:53,859 - INFO - [EXTRACT] Extracted title: Snapchat now lets you inform others when you have arrived at your destination
+2026-02-11 21:21:53,859 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination/
+2026-02-11 21:21:53,859 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,859 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:53,859 - INFO - [EXTRACT] Extracted title: Hacktivist scrapes over 500,000 stalkerware customers’ payment records
+2026-02-11 21:21:53,859 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/
+2026-02-11 21:21:53,859 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,859 - INFO - [EXTRACT] Extracted source: Zack Whittaker
+2026-02-11 21:21:53,863 - INFO - [EXTRACT] Extracted title: YouTube TV introduces cheaper bundles, including a $65/month sports package
+2026-02-11 21:21:53,863 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/
+2026-02-11 21:21:53,863 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,863 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:53,863 - INFO - [EXTRACT] Extracted title: Discord to roll out age verification next month
+2026-02-11 21:21:53,863 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/
+2026-02-11 21:21:53,863 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,863 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:53,864 - INFO - [EXTRACT] Extracted title: Uber to buy delivery arm of Turkey’s Getir
+2026-02-11 21:21:53,864 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/uber-to-buy-delivery-arm-of-turkeys-getir/
+2026-02-11 21:21:53,864 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:53,864 - INFO - [EXTRACT] Extracted source: Ram Iyer
+2026-02-11 21:21:53,864 - INFO - [EXTRACT] Extracted title: The first signs of burnout are coming from the people who embrace AI the most
+2026-02-11 21:21:53,864 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/
+2026-02-11 21:21:53,864 - INFO - [EXTRACT] Extracted source: Connie Loizos
+2026-02-11 21:21:53,864 - INFO - [EXTRACT] Extracted title: MrBeast’s company buys Gen Z-focused fintech app Step
+2026-02-11 21:21:53,865 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/
+2026-02-11 21:21:53,865 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:53,865 - INFO - [EXTRACT] Extracted title: YouTube TV introduces cheaper bundles, including a $65/month sports package
+2026-02-11 21:21:53,865 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/
+2026-02-11 21:21:53,865 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:53,866 - INFO - [EXTRACT] Extracted title: Discord to roll out age verification next month
+2026-02-11 21:21:53,866 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/
+2026-02-11 21:21:53,866 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:53,866 - INFO - [EXTRACT] Extracted title: The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be
+2026-02-11 21:21:53,866 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/
+2026-02-11 21:21:53,867 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:53,867 - INFO - [EXTRACT] Extracted title: OpenAI launches new agentic coding model only minutes after Anthropic drops its own
+2026-02-11 21:21:53,867 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/
+2026-02-11 21:21:53,867 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:53,867 - INFO - [EXTRACT] Extracted title: Anthropic releases Opus 4.6 with new ‘agent teams’
+2026-02-11 21:21:53,867 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/
+2026-02-11 21:21:53,867 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:53,867 - INFO - [EXTRACT] Fetching data from: https://techcrunch.com/latest/page/4/?offset=10
+2026-02-11 21:21:55,055 - INFO - [EXTRACT] Successfully extracted data from page 4
+2026-02-11 21:21:55,057 - INFO - [EXTRACT] Extracted title: Call for speakers: TechCrunch Founder Summit 2026
+2026-02-11 21:21:55,057 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/call-for-speakers-techcrunch-founder-summit-2026/
+2026-02-11 21:21:55,057 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:55,057 - INFO - [EXTRACT] Extracted source: TechCrunch Events
+2026-02-11 21:21:55,057 - INFO - [EXTRACT] Extracted title: The battle begins: 2026 Startup Battlefield 200 nominations are open
+2026-02-11 21:21:55,057 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/the-battle-begins-startup-battlefield-200-nominations-are-open/
+2026-02-11 21:21:55,057 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:55,057 - INFO - [EXTRACT] Extracted source: TechCrunch Events
+2026-02-11 21:21:55,058 - INFO - [EXTRACT] Extracted title: Gather AI, maker of ‘curious’ warehouse drones, lands $40M led by Keith Block’s firm
+2026-02-11 21:21:55,058 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/gather-ai-maker-of-curious-warehouse-drones-lands-40m-led-by-keith-blocks-firm/
+2026-02-11 21:21:55,058 - INFO - [EXTRACT] Extracted date: 2 days ago
+2026-02-11 21:21:55,058 - INFO - [EXTRACT] Extracted source: Julie Bort
+2026-02-11 21:21:55,058 - INFO - [EXTRACT] Extracted title: Amazon’s ‘Melania’ documentary stumbles in second weekend
+2026-02-11 21:21:55,058 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/
+2026-02-11 21:21:55,058 - INFO - [EXTRACT] Extracted date: 3 days ago
+2026-02-11 21:21:55,058 - INFO - [EXTRACT] Extracted source: Anthony Ha
+2026-02-11 21:21:55,059 - INFO - [EXTRACT] Extracted title: Crypto.com places $70M bet on AI.com domain ahead of Super Bowl
+2026-02-11 21:21:55,059 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/
+2026-02-11 21:21:55,059 - INFO - [EXTRACT] Extracted date: 3 days ago
+2026-02-11 21:21:55,059 - INFO - [EXTRACT] Extracted source: Connie Loizos
+2026-02-11 21:21:55,059 - INFO - [EXTRACT] Extracted title: Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project
+2026-02-11 21:21:55,059 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/
+2026-02-11 21:21:55,059 - INFO - [EXTRACT] Extracted date: 3 days ago
+2026-02-11 21:21:55,059 - INFO - [EXTRACT] Extracted source: Anthony Ha
+2026-02-11 21:21:55,060 - INFO - [EXTRACT] Extracted title: TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?
+2026-02-11 21:21:55,060 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/
+2026-02-11 21:21:55,060 - INFO - [EXTRACT] Extracted date: 3 days ago
+2026-02-11 21:21:55,060 - INFO - [EXTRACT] Extracted source: Kirsten Korosec
+2026-02-11 21:21:55,060 - INFO - [EXTRACT] Extracted title: San Francisco’s pro-billionaire march draws dozens
+2026-02-11 21:21:55,061 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/
+2026-02-11 21:21:55,061 - INFO - [EXTRACT] Extracted date: 3 days ago
+2026-02-11 21:21:55,061 - INFO - [EXTRACT] Extracted source: Anthony Ha
+2026-02-11 21:21:55,061 - INFO - [EXTRACT] Extracted title: From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads
+2026-02-11 21:21:55,061 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/
+2026-02-11 21:21:55,061 - INFO - [EXTRACT] Extracted date: 3 days ago
+2026-02-11 21:21:55,061 - INFO - [EXTRACT] Extracted source: Lauren Forristal
+2026-02-11 21:21:55,062 - INFO - [EXTRACT] Extracted title: India has changed its startup rules for deep tech
+2026-02-11 21:21:55,062 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/
+2026-02-11 21:21:55,062 - INFO - [EXTRACT] Extracted date: 4 days ago
+2026-02-11 21:21:55,062 - INFO - [EXTRACT] Extracted source: Jagmeet Singh
+2026-02-11 21:21:55,062 - INFO - [EXTRACT] Extracted title: The kids ‘picked last in gym class’ gear up for Super Bowl
+2026-02-11 21:21:55,062 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/
+2026-02-11 21:21:55,062 - INFO - [EXTRACT] Extracted date: 4 days ago
+2026-02-11 21:21:55,062 - INFO - [EXTRACT] Extracted source: Connie Loizos
+2026-02-11 21:21:55,062 - INFO - [EXTRACT] Extracted title: NBA star Giannis Antetokounmpo joins Kalshi as an investor
+2026-02-11 21:21:55,063 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/
+2026-02-11 21:21:55,063 - INFO - [EXTRACT] Extracted date: 4 days ago
+2026-02-11 21:21:55,063 - INFO - [EXTRACT] Extracted source: Anthony Ha
+2026-02-11 21:21:55,063 - INFO - [EXTRACT] Extracted title: New York lawmakers propose a 3-year pause on new data centers
+2026-02-11 21:21:55,063 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/
+2026-02-11 21:21:55,063 - INFO - [EXTRACT] Extracted date: 4 days ago
+2026-02-11 21:21:55,063 - INFO - [EXTRACT] Extracted source: Anthony Ha
+2026-02-11 21:21:55,064 - INFO - [EXTRACT] Extracted title: Benchmark raises $225M in special funds to double down on Cerebras
+2026-02-11 21:21:55,064 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/
+2026-02-11 21:21:55,064 - INFO - [EXTRACT] Extracted date: 5 days ago
+2026-02-11 21:21:55,064 - INFO - [EXTRACT] Extracted source: Marina Temkin
+2026-02-11 21:21:55,064 - INFO - [EXTRACT] Extracted title: An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax
+2026-02-11 21:21:55,064 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/
+2026-02-11 21:21:55,064 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,064 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:55,068 - INFO - [EXTRACT] Extracted title: ‘Industry’ season 4 captures tech fraud better than any show on TV right now
+2026-02-11 21:21:55,068 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/
+2026-02-11 21:21:55,068 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,068 - INFO - [EXTRACT] Extracted source: Dominic-Madori Davis
+2026-02-11 21:21:55,068 - INFO - [EXTRACT] Extracted title: Apple is working to make CarPlay compatible with AI chatbots like ChatGPT
+2026-02-11 21:21:55,068 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/
+2026-02-11 21:21:55,069 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,069 - INFO - [EXTRACT] Extracted source: Kirsten Korosec
+2026-02-11 21:21:55,069 - INFO - [EXTRACT] Extracted title: It just got easier for Claude to check in on your WordPress site
+2026-02-11 21:21:55,069 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/
+2026-02-11 21:21:55,069 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,070 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:55,070 - INFO - [EXTRACT] Extracted title: Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors
+2026-02-11 21:21:55,070 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/
+2026-02-11 21:21:55,070 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,070 - INFO - [EXTRACT] Extracted source: Sean O'Kane
+2026-02-11 21:21:55,070 - INFO - [EXTRACT] Extracted title: Google- and Microsoft-backed Terradot acquires carbon-removal competitor
+2026-02-11 21:21:55,070 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/
+2026-02-11 21:21:55,070 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,071 - INFO - [EXTRACT] Extracted source: Tim De Chant
+2026-02-11 21:21:55,071 - INFO - [EXTRACT] Extracted title: The first signs of burnout are coming from the people who embrace AI the most
+2026-02-11 21:21:55,071 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/
+2026-02-11 21:21:55,071 - INFO - [EXTRACT] Extracted source: Connie Loizos
+2026-02-11 21:21:55,071 - INFO - [EXTRACT] Extracted title: MrBeast’s company buys Gen Z-focused fintech app Step
+2026-02-11 21:21:55,071 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/
+2026-02-11 21:21:55,071 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:55,071 - INFO - [EXTRACT] Extracted title: YouTube TV introduces cheaper bundles, including a $65/month sports package
+2026-02-11 21:21:55,072 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/
+2026-02-11 21:21:55,072 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:55,072 - INFO - [EXTRACT] Extracted title: Discord to roll out age verification next month
+2026-02-11 21:21:55,072 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/
+2026-02-11 21:21:55,072 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:55,072 - INFO - [EXTRACT] Extracted title: The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be
+2026-02-11 21:21:55,072 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/
+2026-02-11 21:21:55,072 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:55,073 - INFO - [EXTRACT] Extracted title: OpenAI launches new agentic coding model only minutes after Anthropic drops its own
+2026-02-11 21:21:55,073 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/
+2026-02-11 21:21:55,073 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:55,073 - INFO - [EXTRACT] Extracted title: Anthropic releases Opus 4.6 with new ‘agent teams’
+2026-02-11 21:21:55,073 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/
+2026-02-11 21:21:55,074 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:55,074 - INFO - [EXTRACT] Fetching data from: https://techcrunch.com/latest/page/5/?offset=10
+2026-02-11 21:21:55,880 - INFO - [EXTRACT] Successfully extracted data from page 5
+2026-02-11 21:21:55,884 - INFO - [EXTRACT] Extracted title: Maybe AI agents can be lawyers after all
+2026-02-11 21:21:55,884 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/
+2026-02-11 21:21:55,884 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,884 - INFO - [EXTRACT] Extracted source: Russell Brandom
+2026-02-11 21:21:55,884 - INFO - [EXTRACT] Extracted title: Reddit says it’s looking for more acquisitions in adtech and elsewhere
+2026-02-11 21:21:55,884 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/
+2026-02-11 21:21:55,884 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,885 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:55,885 - INFO - [EXTRACT] Extracted title: Here’s how Roblox’s age checks work
+2026-02-11 21:21:55,885 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/
+2026-02-11 21:21:55,885 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,885 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:55,885 - INFO - [EXTRACT] Extracted title: Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over ‘CIA activities’
+2026-02-11 21:21:55,885 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/
+2026-02-11 21:21:55,885 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,886 - INFO - [EXTRACT] Extracted source: Zack Whittaker
+2026-02-11 21:21:55,886 - INFO - [EXTRACT] Extracted title: The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features
+2026-02-11 21:21:55,886 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/
+2026-02-11 21:21:55,886 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,886 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:55,886 - INFO - [EXTRACT] Extracted title: EU says TikTok must disable ‘addictive’ features like infinite scroll, fix its recommendation engine
+2026-02-11 21:21:55,886 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/
+2026-02-11 21:21:55,886 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,887 - INFO - [EXTRACT] Extracted source: Ram Iyer
+2026-02-11 21:21:55,887 - INFO - [EXTRACT] Extracted title: China’s Salt Typhoon hackers broke into Norwegian companies
+2026-02-11 21:21:55,887 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/chinas-salt-typhoon-hackers-broke-into-norwegian-companies/
+2026-02-11 21:21:55,887 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,887 - INFO - [EXTRACT] Extracted source: Lorenzo Franceschi-Bicchierai
+2026-02-11 21:21:55,887 - INFO - [EXTRACT] Extracted title: Spotify’s new feature lets you explore the story behind the song you’re listening to
+2026-02-11 21:21:55,887 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/spotifys-new-feature-lets-you-explore-the-story-behind-the-song-youre-listening-to/
+2026-02-11 21:21:55,887 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,888 - INFO - [EXTRACT] Extracted source: Aisha Malik
+2026-02-11 21:21:55,888 - INFO - [EXTRACT] Extracted title: How AI is helping solve the labor issue in treating rare diseases
+2026-02-11 21:21:55,888 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/
+2026-02-11 21:21:55,888 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,888 - INFO - [EXTRACT] Extracted source: Rebecca Bellan
+2026-02-11 21:21:55,888 - INFO - [EXTRACT] Extracted title: The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be
+2026-02-11 21:21:55,889 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/
+2026-02-11 21:21:55,889 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,889 - INFO - [EXTRACT] Extracted source: Amanda Silberling
+2026-02-11 21:21:55,889 - INFO - [EXTRACT] Extracted title: Spotify changes developer mode API to require premium accounts, limits test users
+2026-02-11 21:21:55,889 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/06/spotify-changes-developer-mode-api-to-require-premium-accounts-limits-test-users/
+2026-02-11 21:21:55,889 - INFO - [EXTRACT] Extracted date: Feb 6, 2026
+2026-02-11 21:21:55,889 - INFO - [EXTRACT] Extracted source: Ivan Mehta
+2026-02-11 21:21:55,889 - INFO - [EXTRACT] Extracted title: Sapiom raises $15M to help AI agents buy their own tech tools
+2026-02-11 21:21:55,889 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted date: Feb 5, 2026
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted source: Marina Temkin
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted title: Reddit looks to AI search as its next big opportunity
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted date: Feb 5, 2026
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted title: AWS revenue continues to soar as cloud demand remains high
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted date: Feb 5, 2026
+2026-02-11 21:21:55,890 - INFO - [EXTRACT] Extracted source: Rebecca Szkutak
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted title: Amazon and Google are winning the AI capex race — but what’s the prize?
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted date: Feb 5, 2026
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted source: Russell Brandom
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted title: The Washington Post is retreating from Silicon Valley when it matters most
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted date: Feb 5, 2026
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted source: Kirsten Korosec
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted title: a16z VC wants founders to stop stressing over insane ARR numbers
+2026-02-11 21:21:55,891 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/a16z-vc-wants-founders-to-stop-stressing-over-insane-arr-numbers/
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted date: Feb 5, 2026
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted source: Julie Bort
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted title: OpenAI launches new agentic coding model only minutes after Anthropic drops its own
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted date: Feb 5, 2026
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted title: One of Europe’s largest universities knocked offline for days after cyberattack
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/one-of-europes-largest-universities-knocked-offline-for-days-after-cyberattack/
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted date: Feb 5, 2026
+2026-02-11 21:21:55,892 - INFO - [EXTRACT] Extracted source: Lorenzo Franceschi-Bicchierai
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted title: Elon Musk is getting serious about orbital data centers
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted date: Feb 5, 2026
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted source: Russell Brandom
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted title: How to get into a16z’s super-competitive Speedrun startup accelerator program
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted source: Dominic-Madori Davis
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted title: Cash App adds payment links so you can get paid in a DM
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/
+2026-02-11 21:21:55,893 - INFO - [EXTRACT] Extracted source: Lucas Ropek
+2026-02-11 21:21:55,894 - INFO - [EXTRACT] Extracted title: Amazon’s new eero Signal keeps you connected to the internet when outages occur
+2026-02-11 21:21:55,894 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur/
+2026-02-11 21:21:55,894 - INFO - [EXTRACT] Extracted source: Sarah Perez
+2026-02-11 21:21:55,894 - INFO - [EXTRACT] Extracted title: The search is on: 2026 Joseph C. Belden Innovation Award nominations are open
+2026-02-11 21:21:55,894 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/the-search-is-on-2026-joseph-c-belden-innovation-award-nominations-are-open/
+2026-02-11 21:21:55,894 - INFO - [EXTRACT] Extracted source: TechCrunch Events
+2026-02-11 21:21:55,894 - INFO - [EXTRACT] Extracted title: Activist investor Ancora publicly opposes the WBD-Netflix deal
+2026-02-11 21:21:55,894 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/activist-investor-ancora-publicly-opposes-the-wbd-netflix-deal/
+2026-02-11 21:21:55,895 - INFO - [EXTRACT] Extracted source: Lauren Forristal
+2026-02-11 21:21:55,895 - INFO - [EXTRACT] Extracted title: DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’
+2026-02-11 21:21:55,895 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/
+2026-02-11 21:21:55,895 - INFO - [EXTRACT] Extracted source: Lorenzo Franceschi-Bicchierai
+2026-02-11 21:21:55,895 - INFO - [EXTRACT] Extracted title: Why the economics of orbital AI are so brutal
+2026-02-11 21:21:55,895 - INFO - [EXTRACT] Extracted URL: https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/
+2026-02-11 21:21:55,895 - INFO - [EXTRACT] Extracted source: Tim Fernholz
+2026-02-11 21:21:55,896 - INFO - [EXTRACT] Fetching data from: https://www.theverge.com/archives/1
+2026-02-11 21:22:01,405 - INFO - [EXTRACT] Successfully extracted data from The Verge page 1
+2026-02-11 21:22:01,413 - INFO - [EXTRACT] Extracted title: Why ‘deleted’ doesn’t mean gone: How police recovered Nancy Guthrie’s doorbell footage
+2026-02-11 21:22:01,413 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage
+2026-02-11 21:22:01,413 - INFO - [EXTRACT] Extracted date: 6:00 PM UTC
+2026-02-11 21:22:01,414 - INFO - [EXTRACT] Extracted source: Jennifer Pattison Tuohy
+2026-02-11 21:22:01,414 - INFO - [EXTRACT] Extracted title: Why ‘deleted’ doesn’t mean gone: How police recovered Nancy Guthrie’s doorbell footage
+2026-02-11 21:22:01,414 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage
+2026-02-11 21:22:01,414 - INFO - [EXTRACT] Extracted date: 6:00 PM UTC
+2026-02-11 21:22:01,414 - INFO - [EXTRACT] Extracted source: Jennifer Pattison Tuohy
+2026-02-11 21:22:01,414 - INFO - [EXTRACT] Extracted title: The Halide app’s anti-algorithm camera mode looks better with a little processing
+2026-02-11 21:22:01,414 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875919/halide-mark-iii-process-zero-hands-on
+2026-02-11 21:22:01,414 - INFO - [EXTRACT] Extracted date: 2:00 PM UTC
+2026-02-11 21:22:01,415 - INFO - [EXTRACT] Extracted source: Allison Johnson
+2026-02-11 21:22:01,415 - INFO - [EXTRACT] Extracted title: The Halide app’s anti-algorithm camera mode looks better with a little processing
+2026-02-11 21:22:01,415 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875919/halide-mark-iii-process-zero-hands-on
+2026-02-11 21:22:01,415 - INFO - [EXTRACT] Extracted date: 2:00 PM UTC
+2026-02-11 21:22:01,415 - INFO - [EXTRACT] Extracted source: Allison Johnson
+2026-02-11 21:22:01,415 - INFO - [EXTRACT] Extracted title: Pokopia turns the Pokémon world into a relaxing, human-free paradise
+2026-02-11 21:22:01,415 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview
+2026-02-11 21:22:01,415 - INFO - [EXTRACT] Extracted date: 2:00 PM UTC
+2026-02-11 21:22:01,416 - INFO - [EXTRACT] Extracted source: Charles Pulliam-Moore
+2026-02-11 21:22:01,416 - INFO - [EXTRACT] Extracted title: Pokopia turns the Pokémon world into a relaxing, human-free paradise
+2026-02-11 21:22:01,416 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview
+2026-02-11 21:22:01,416 - INFO - [EXTRACT] Extracted date: 2:00 PM UTC
+2026-02-11 21:22:01,416 - INFO - [EXTRACT] Extracted source: Charles Pulliam-Moore
+2026-02-11 21:22:01,416 - INFO - [EXTRACT] Extracted title: Reanimal wants to devour you
+2026-02-11 21:22:01,416 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam
+2026-02-11 21:22:01,416 - INFO - [EXTRACT] Extracted date: 4:00 PM UTC
+2026-02-11 21:22:01,416 - INFO - [EXTRACT] Extracted source: Lewis Gordon
+2026-02-11 21:22:01,417 - INFO - [EXTRACT] Extracted title: Reanimal wants to devour you
+2026-02-11 21:22:01,417 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam
+2026-02-11 21:22:01,417 - INFO - [EXTRACT] Extracted date: 4:00 PM UTC
+2026-02-11 21:22:01,417 - INFO - [EXTRACT] Extracted source: Lewis Gordon
+2026-02-11 21:22:01,417 - INFO - [EXTRACT] Extracted title: How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project
+2026-02-11 21:22:01,417 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice
+2026-02-11 21:22:01,417 - INFO - [EXTRACT] Extracted date: 2:06 PM UTC
+2026-02-11 21:22:01,417 - INFO - [EXTRACT] Extracted source: Justine Calma
+2026-02-11 21:22:01,418 - INFO - [EXTRACT] Extracted title: How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project
+2026-02-11 21:22:01,418 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice
+2026-02-11 21:22:01,418 - INFO - [EXTRACT] Extracted date: 2:06 PM UTC
+2026-02-11 21:22:01,418 - INFO - [EXTRACT] Extracted source: Justine Calma
+2026-02-11 21:22:01,418 - INFO - [EXTRACT] Extracted title: Aurora says it will ‘triple’ its driverless truck network
+2026-02-11 21:22:01,418 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/877191/aurora-driverless-truck-triple-routes-texas
+2026-02-11 21:22:01,418 - INFO - [EXTRACT] Extracted date: 4 minutes ago
+2026-02-11 21:22:01,418 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:01,419 - INFO - [EXTRACT] Extracted title: Apple keeps hitting bumps with its overhauled Siri
+2026-02-11 21:22:01,419 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized
+2026-02-11 21:22:01,419 - INFO - [EXTRACT] Extracted date: 11 minutes ago
+2026-02-11 21:22:01,419 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:01,419 - INFO - [EXTRACT] Extracted title: Samsung’s offering up to $900 of trade-in credit toward its new phones
+2026-02-11 21:22:01,419 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai
+2026-02-11 21:22:01,419 - INFO - [EXTRACT] Extracted date: Two hours ago
+2026-02-11 21:22:01,419 - INFO - [EXTRACT] Extracted source: Cameron Faulkner
+2026-02-11 21:22:01,420 - INFO - [EXTRACT] Extracted title: Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links
+2026-02-11 21:22:01,420 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution
+2026-02-11 21:22:01,420 - INFO - [EXTRACT] Extracted date: 6:06 PM UTC
+2026-02-11 21:22:01,420 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:01,420 - INFO - [EXTRACT] Extracted title: Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance
+2026-02-11 21:22:01,420 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash
+2026-02-11 21:22:01,420 - INFO - [EXTRACT] Extracted date: 1:17 AM UTC
+2026-02-11 21:22:01,420 - INFO - [EXTRACT] Extracted source: Jennifer Pattison Tuohy
+2026-02-11 21:22:01,421 - INFO - [EXTRACT] Extracted title: Discord will require a face scan or ID for full access next month
+2026-02-11 21:22:01,421 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
+2026-02-11 21:22:01,421 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,421 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,421 - INFO - [EXTRACT] Extracted title: The Toyota Highlander is now a three-row electric SUV with 320 miles of range
+2026-02-11 21:22:01,421 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs
+2026-02-11 21:22:01,421 - INFO - [EXTRACT] Extracted date: 2:30 AM UTC
+2026-02-11 21:22:01,421 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:01,421 - INFO - [EXTRACT] Extracted title: Discord says ‘vast majority’ of users won’t see its new age verification setup
+2026-02-11 21:22:01,422 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference
+2026-02-11 21:22:01,422 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,422 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,422 - INFO - [EXTRACT] Extracted title: Nintendo keeps filling in the gaps
+2026-02-11 21:22:01,422 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever
+2026-02-11 21:22:01,422 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,422 - INFO - [EXTRACT] Extracted source: Andrew Webster
+2026-02-11 21:22:01,422 - INFO - [EXTRACT] Extracted title: Here are the 40 best Presidents Day deals you can already shop
+2026-02-11 21:22:01,422 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026
+2026-02-11 21:22:01,423 - INFO - [EXTRACT] Extracted date: 6:00 PM UTC
+2026-02-11 21:22:01,423 - INFO - [EXTRACT] Extracted source: Sheena Vasani
+2026-02-11 21:22:01,423 - INFO - [EXTRACT] Extracted title: Threads’ new ‘Dear Algo’ feature lets you tell the algorithm what you want to see
+2026-02-11 21:22:01,423 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876610/meta-threads-dear-algo-algorithm
+2026-02-11 21:22:01,423 - INFO - [EXTRACT] Extracted date: 6:00 PM UTC
+2026-02-11 21:22:01,423 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:01,423 - INFO - [EXTRACT] Extracted title: Ableton Live is adding audio streaming for real-time musical collaboration
+2026-02-11 21:22:01,423 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/entertainment/877243/ableton-live-12-4-link-audio
+2026-02-11 21:22:01,424 - INFO - [EXTRACT] Extracted date: 5:49 PM UTC
+2026-02-11 21:22:01,424 - INFO - [EXTRACT] Extracted source: Terrence O'Brien
+2026-02-11 21:22:01,424 - INFO - [EXTRACT] Extracted title: Instagram and X have an impossible deepfake detection deadline
+2026-02-11 21:22:01,424 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline
+2026-02-11 21:22:01,424 - INFO - [EXTRACT] Extracted date: 5:20 PM UTC
+2026-02-11 21:22:01,424 - INFO - [EXTRACT] Extracted source: Jess Weatherbed
+2026-02-11 21:22:01,424 - INFO - [EXTRACT] Extracted title: Ferrari’s first EV will have an interior designed by Jony Ive
+2026-02-11 21:22:01,424 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos
+2026-02-11 21:22:01,425 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,425 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:01,425 - INFO - [EXTRACT] Extracted title: ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports
+2026-02-11 21:22:01,425 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer
+2026-02-11 21:22:01,425 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,425 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:01,425 - INFO - [EXTRACT] Extracted title: AI-generated ads dropped the ball at this year’s Super Bowl
+2026-02-11 21:22:01,425 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible
+2026-02-11 21:22:01,426 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,426 - INFO - [EXTRACT] Extracted source: Charles Pulliam-Moore
+2026-02-11 21:22:01,426 - INFO - [EXTRACT] Extracted title: Sharge’s new power bank can charge two laptops while putting on a light show
+2026-02-11 21:22:01,426 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter
+2026-02-11 21:22:01,426 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,426 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:01,426 - INFO - [EXTRACT] Extracted title: ‘Shut up and focus on the mission’: Tech workers are frustrated by their companies’ silence about ICE
+2026-02-11 21:22:01,426 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott
+2026-02-11 21:22:01,426 - INFO - [EXTRACT] Extracted date: 11:00 AM UTC
+2026-02-11 21:22:01,427 - INFO - [EXTRACT] Extracted source: Hayden Field
+2026-02-11 21:22:01,427 - INFO - [EXTRACT] Extracted title: TikTok launches Local Feeds in the US
+2026-02-11 21:22:01,427 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877161/tiktok-us-launches-local-feeds
+2026-02-11 21:22:01,427 - INFO - [EXTRACT] Extracted date: 4:32 PM UTC
+2026-02-11 21:22:01,427 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,427 - INFO - [EXTRACT] Extracted title: Lifx’s two-pack of Matter-enabled smart color bulbs is down to $20
+2026-02-11 21:22:01,427 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/877023/lifx-smart-color-wifi-bulbs-sony-xm6-oled-oakley-deal-sale
+2026-02-11 21:22:01,427 - INFO - [EXTRACT] Extracted date: 4:27 PM UTC
+2026-02-11 21:22:01,427 - INFO - [EXTRACT] Extracted source: Cameron Faulkner
+2026-02-11 21:22:01,428 - INFO - [EXTRACT] Extracted title: Here are the brands bringing ads to ChatGPT
+2026-02-11 21:22:01,428 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible
+2026-02-11 21:22:01,429 - INFO - [EXTRACT] Extracted date: 4:08 PM UTC
+2026-02-11 21:22:01,429 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:01,429 - INFO - [EXTRACT] Extracted title: Pokopia turns the Pokémon world into a relaxing, human-free paradise
+2026-02-11 21:22:01,429 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview
+2026-02-11 21:22:01,429 - INFO - [EXTRACT] Extracted date: 2:00 PM UTC
+2026-02-11 21:22:01,429 - INFO - [EXTRACT] Extracted source: Charles Pulliam-Moore
+2026-02-11 21:22:01,430 - INFO - [EXTRACT] Extracted title: Nintendo keeps filling in the gaps
+2026-02-11 21:22:01,430 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever
+2026-02-11 21:22:01,430 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,430 - INFO - [EXTRACT] Extracted source: Andrew Webster
+2026-02-11 21:22:01,430 - INFO - [EXTRACT] Extracted title: Diesel’s wired earbuds look exactly like wired earbuds from Diesel
+2026-02-11 21:22:01,430 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/877091/diesel-60458-wired-earbuds-headphones
+2026-02-11 21:22:01,430 - INFO - [EXTRACT] Extracted date: 3:01 PM UTC
+2026-02-11 21:22:01,430 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:01,431 - INFO - [EXTRACT] Extracted title: The Switch 2’s GameShare multiplayer turns this horror game into an unexpected comedy
+2026-02-11 21:22:01,431 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/876621/nintendo-switch-2-gameshare-tokyo-scramble
+2026-02-11 21:22:01,431 - INFO - [EXTRACT] Extracted date: 3:00 PM UTC
+2026-02-11 21:22:01,431 - INFO - [EXTRACT] Extracted source: Andrew Webster
+2026-02-11 21:22:01,431 - INFO - [EXTRACT] Extracted title: El Paso flights resume after Mexican cartel drones reportedly trigger airspace closure
+2026-02-11 21:22:01,431 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security
+2026-02-11 21:22:01,431 - INFO - [EXTRACT] Extracted date: 1:11 PM UTC
+2026-02-11 21:22:01,431 - INFO - [EXTRACT] Extracted source: Dominic Preston
+2026-02-11 21:22:01,432 - INFO - [EXTRACT] Extracted title: Discord’s age verification mandate is a leap toward a gated internet
+2026-02-11 21:22:01,432 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future
+2026-02-11 21:22:01,432 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,432 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:01,432 - INFO - [EXTRACT] Extracted title: Apple keeps hitting bumps with its overhauled Siri
+2026-02-11 21:22:01,432 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized
+2026-02-11 21:22:01,432 - INFO - [EXTRACT] Extracted date: 11 minutes ago
+2026-02-11 21:22:01,432 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:01,433 - INFO - [EXTRACT] Extracted title: T-Mobile will live translate regular phone calls without an app
+2026-02-11 21:22:01,433 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network
+2026-02-11 21:22:01,433 - INFO - [EXTRACT] Extracted date: 12:35 PM UTC
+2026-02-11 21:22:01,433 - INFO - [EXTRACT] Extracted source: Jess Weatherbed
+2026-02-11 21:22:01,433 - INFO - [EXTRACT] Extracted title: Uber Eats adds AI assistant to help with grocery shopping
+2026-02-11 21:22:01,433 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping
+2026-02-11 21:22:01,433 - INFO - [EXTRACT] Extracted date: 12:00 PM UTC
+2026-02-11 21:22:01,433 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:01,434 - INFO - [EXTRACT] Extracted title: The Toyota Highlander is going electric
+2026-02-11 21:22:01,434 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs
+2026-02-11 21:22:01,434 - INFO - [EXTRACT] Extracted date: 2:30 AM UTC
+2026-02-11 21:22:01,434 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:01,434 - INFO - [EXTRACT] Extracted title: Could the Trump Phone be a good phone?
+2026-02-11 21:22:01,434 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast
+2026-02-11 21:22:01,434 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,434 - INFO - [EXTRACT] Extracted source: David Pierce
+2026-02-11 21:22:01,435 - INFO - [EXTRACT] Extracted title: Siemens CEO Roland Busch’s mission to automate everything
+2026-02-11 21:22:01,435 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs
+2026-02-11 21:22:01,435 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,435 - INFO - [EXTRACT] Extracted source: Nilay Patel
+2026-02-11 21:22:01,435 - INFO - [EXTRACT] Extracted title: How Epstein became a tech influencer
+2026-02-11 21:22:01,435 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast
+2026-02-11 21:22:01,435 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:01,435 - INFO - [EXTRACT] Extracted source: David Pierce
+2026-02-11 21:22:01,436 - INFO - [EXTRACT] Extracted title: Reality is losing the deepfake war
+2026-02-11 21:22:01,436 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels
+2026-02-11 21:22:01,436 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:01,436 - INFO - [EXTRACT] Extracted source: Nilay Patel
+2026-02-11 21:22:01,436 - INFO - [EXTRACT] Extracted title: Millions of books died so Claude could live
+2026-02-11 21:22:01,436 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast
+2026-02-11 21:22:01,436 - INFO - [EXTRACT] Extracted date: Feb 3
+2026-02-11 21:22:01,436 - INFO - [EXTRACT] Extracted source: David Pierce
+2026-02-11 21:22:01,436 - INFO - [EXTRACT] Extracted title: Will Ring’s pet finding cameras eventually track people?
+2026-02-11 21:22:01,437 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash
+2026-02-11 21:22:01,437 - INFO - [EXTRACT] Extracted date: 1:17 AM UTC
+2026-02-11 21:22:01,437 - INFO - [EXTRACT] Extracted source: Jennifer Pattison Tuohy
+2026-02-11 21:22:01,437 - INFO - [EXTRACT] Extracted title: Boston Dynamics CEO Robert Playter is stepping down after six years
+2026-02-11 21:22:01,437 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai
+2026-02-11 21:22:01,437 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,437 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,437 - INFO - [EXTRACT] Extracted title: ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports
+2026-02-11 21:22:01,437 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer
+2026-02-11 21:22:01,438 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,438 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:01,438 - INFO - [EXTRACT] Extracted title: Samsung’s next Unpacked is confirmed for later this month
+2026-02-11 21:22:01,438 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876717/samsung-galaxy-unpacked-february-2026-s26
+2026-02-11 21:22:01,438 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,438 - INFO - [EXTRACT] Extracted source: Allison Johnson
+2026-02-11 21:22:01,439 - INFO - [EXTRACT] Extracted title: Trump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out
+2026-02-11 21:22:01,439 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds
+2026-02-11 21:22:01,439 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,439 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:01,439 - INFO - [EXTRACT] Extracted title: How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project
+2026-02-11 21:22:01,439 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice
+2026-02-11 21:22:01,439 - INFO - [EXTRACT] Extracted date: 2:06 PM UTC
+2026-02-11 21:22:01,439 - INFO - [EXTRACT] Extracted source: Justine Calma
+2026-02-11 21:22:01,440 - INFO - [EXTRACT] Extracted title: Microsoft wants to rewire data centers to save space
+2026-02-11 21:22:01,440 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor
+2026-02-11 21:22:01,440 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,440 - INFO - [EXTRACT] Extracted source: Justine Calma
+2026-02-11 21:22:01,440 - INFO - [EXTRACT] Extracted title: Fitbit’s AI health coach is now available on your iPhone
+2026-02-11 21:22:01,440 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios
+2026-02-11 21:22:01,440 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,440 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,440 - INFO - [EXTRACT] Extracted title: Ayaneo’s new Windows handheld will cost up to $4,299 with maxed out specs
+2026-02-11 21:22:01,441 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder
+2026-02-11 21:22:01,441 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,441 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:01,441 - INFO - [EXTRACT] Extracted title: MrBeast just bought a banking app
+2026-02-11 21:22:01,441 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app
+2026-02-11 21:22:01,441 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,441 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,441 - INFO - [EXTRACT] Extracted title: TikTok launches Local Feeds in the US
+2026-02-11 21:22:01,442 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877161/tiktok-us-launches-local-feeds
+2026-02-11 21:22:01,442 - INFO - [EXTRACT] Extracted date: 4:32 PM UTC
+2026-02-11 21:22:01,442 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,442 - INFO - [EXTRACT] Extracted title: Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance
+2026-02-11 21:22:01,442 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash
+2026-02-11 21:22:01,442 - INFO - [EXTRACT] Extracted date: 1:17 AM UTC
+2026-02-11 21:22:01,442 - INFO - [EXTRACT] Extracted source: Jennifer Pattison Tuohy
+2026-02-11 21:22:01,442 - INFO - [EXTRACT] Extracted title: Discord will require a face scan or ID for full access next month
+2026-02-11 21:22:01,442 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
+2026-02-11 21:22:01,443 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,443 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,443 - INFO - [EXTRACT] Extracted title: The Toyota Highlander is now a three-row electric SUV with 320 miles of range
+2026-02-11 21:22:01,443 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs
+2026-02-11 21:22:01,443 - INFO - [EXTRACT] Extracted date: 2:30 AM UTC
+2026-02-11 21:22:01,443 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:01,443 - INFO - [EXTRACT] Extracted title: Discord says ‘vast majority’ of users won’t see its new age verification setup
+2026-02-11 21:22:01,443 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference
+2026-02-11 21:22:01,444 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,445 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,446 - INFO - [EXTRACT] Extracted title: Nintendo keeps filling in the gaps
+2026-02-11 21:22:01,446 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever
+2026-02-11 21:22:01,446 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,446 - INFO - [EXTRACT] Extracted source: Andrew Webster
+2026-02-11 21:22:01,446 - INFO - [EXTRACT] Extracted title: Ferrari’s first EV will have an interior designed by Jony Ive
+2026-02-11 21:22:01,446 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos
+2026-02-11 21:22:01,446 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,447 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:01,447 - INFO - [EXTRACT] Extracted title: ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports
+2026-02-11 21:22:01,447 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer
+2026-02-11 21:22:01,447 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,447 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:01,447 - INFO - [EXTRACT] Extracted title: AI-generated ads dropped the ball at this year’s Super Bowl
+2026-02-11 21:22:01,447 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible
+2026-02-11 21:22:01,447 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,448 - INFO - [EXTRACT] Extracted source: Charles Pulliam-Moore
+2026-02-11 21:22:01,448 - INFO - [EXTRACT] Extracted title: Sharge’s new power bank can charge two laptops while putting on a light show
+2026-02-11 21:22:01,448 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter
+2026-02-11 21:22:01,448 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,448 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:01,448 - INFO - [EXTRACT] Extracted title: ‘Shut up and focus on the mission’: Tech workers are frustrated by their companies’ silence about ICE
+2026-02-11 21:22:01,448 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott
+2026-02-11 21:22:01,448 - INFO - [EXTRACT] Extracted date: 11:00 AM UTC
+2026-02-11 21:22:01,449 - INFO - [EXTRACT] Extracted source: Hayden Field
+2026-02-11 21:22:01,449 - INFO - [EXTRACT] Extracted title: Pokopia turns the Pokémon world into a relaxing, human-free paradise
+2026-02-11 21:22:01,449 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview
+2026-02-11 21:22:01,449 - INFO - [EXTRACT] Extracted date: 2:00 PM UTC
+2026-02-11 21:22:01,449 - INFO - [EXTRACT] Extracted source: Charles Pulliam-Moore
+2026-02-11 21:22:01,449 - INFO - [EXTRACT] Extracted title: Nintendo keeps filling in the gaps
+2026-02-11 21:22:01,449 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever
+2026-02-11 21:22:01,449 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,449 - INFO - [EXTRACT] Extracted source: Andrew Webster
+2026-02-11 21:22:01,450 - INFO - [EXTRACT] Extracted title: Discord’s age verification mandate is a leap toward a gated internet
+2026-02-11 21:22:01,450 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future
+2026-02-11 21:22:01,450 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,450 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:01,450 - INFO - [EXTRACT] Extracted title: Apple keeps hitting bumps with its overhauled Siri
+2026-02-11 21:22:01,450 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized
+2026-02-11 21:22:01,450 - INFO - [EXTRACT] Extracted date: 11 minutes ago
+2026-02-11 21:22:01,450 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:01,451 - INFO - [EXTRACT] Extracted title: Could the Trump Phone be a good phone?
+2026-02-11 21:22:01,451 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast
+2026-02-11 21:22:01,451 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,451 - INFO - [EXTRACT] Extracted source: David Pierce
+2026-02-11 21:22:01,451 - INFO - [EXTRACT] Extracted title: Siemens CEO Roland Busch’s mission to automate everything
+2026-02-11 21:22:01,451 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs
+2026-02-11 21:22:01,451 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,451 - INFO - [EXTRACT] Extracted source: Nilay Patel
+2026-02-11 21:22:01,452 - INFO - [EXTRACT] Extracted title: How Epstein became a tech influencer
+2026-02-11 21:22:01,452 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast
+2026-02-11 21:22:01,452 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:01,452 - INFO - [EXTRACT] Extracted source: David Pierce
+2026-02-11 21:22:01,452 - INFO - [EXTRACT] Extracted title: Reality is losing the deepfake war
+2026-02-11 21:22:01,452 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels
+2026-02-11 21:22:01,452 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:01,452 - INFO - [EXTRACT] Extracted source: Nilay Patel
+2026-02-11 21:22:01,453 - INFO - [EXTRACT] Extracted title: Millions of books died so Claude could live
+2026-02-11 21:22:01,453 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast
+2026-02-11 21:22:01,453 - INFO - [EXTRACT] Extracted date: Feb 3
+2026-02-11 21:22:01,453 - INFO - [EXTRACT] Extracted source: David Pierce
+2026-02-11 21:22:01,453 - INFO - [EXTRACT] Extracted title: How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project
+2026-02-11 21:22:01,454 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice
+2026-02-11 21:22:01,454 - INFO - [EXTRACT] Extracted date: 2:06 PM UTC
+2026-02-11 21:22:01,454 - INFO - [EXTRACT] Extracted source: Justine Calma
+2026-02-11 21:22:01,454 - INFO - [EXTRACT] Extracted title: Microsoft wants to rewire data centers to save space
+2026-02-11 21:22:01,454 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor
+2026-02-11 21:22:01,454 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:01,454 - INFO - [EXTRACT] Extracted source: Justine Calma
+2026-02-11 21:22:01,455 - INFO - [EXTRACT] Extracted title: MrBeast just bought a banking app
+2026-02-11 21:22:01,455 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app
+2026-02-11 21:22:01,455 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:01,455 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,455 - INFO - [EXTRACT] Extracted title: TikTok launches Local Feeds in the US
+2026-02-11 21:22:01,455 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/877161/tiktok-us-launches-local-feeds
+2026-02-11 21:22:01,455 - INFO - [EXTRACT] Extracted date: 4:32 PM UTC
+2026-02-11 21:22:01,455 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:01,456 - INFO - [EXTRACT] Fetching data from: https://www.theverge.com/archives/2
+2026-02-11 21:22:02,300 - INFO - [EXTRACT] Successfully extracted data from The Verge page 2
+2026-02-11 21:22:02,303 - INFO - [EXTRACT] Extracted title: FBI releases recovered footage from Nancy Guthrie’s Nest cam
+2026-02-11 21:22:02,304 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876542/fbi-nancy-guthrie-nest-cam-video
+2026-02-11 21:22:02,304 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,304 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:02,304 - INFO - [EXTRACT] Extracted title: Sharge’s new power bank can charge two laptops while putting on a light show
+2026-02-11 21:22:02,304 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter
+2026-02-11 21:22:02,304 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,304 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:02,304 - INFO - [EXTRACT] Extracted title: Facebook can animate your profile pic with AI
+2026-02-11 21:22:02,305 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai
+2026-02-11 21:22:02,305 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,305 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:02,305 - INFO - [EXTRACT] Extracted title: An Ark showed me augmented reality’s true artistic potential
+2026-02-11 21:22:02,305 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert
+2026-02-11 21:22:02,305 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,305 - INFO - [EXTRACT] Extracted source: Charles Pulliam-Moore
+2026-02-11 21:22:02,305 - INFO - [EXTRACT] Extracted title: The Shokz OpenFit Air earbuds are matching their all-time low price
+2026-02-11 21:22:02,305 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/876392/shokz-openfit-air-earbuds-kobo-clara-colour-deal-sale
+2026-02-11 21:22:02,306 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,306 - INFO - [EXTRACT] Extracted source: Sheena Vasani
+2026-02-11 21:22:02,306 - INFO - [EXTRACT] Extracted title: Microsoft is keeping Secure Boot alive with Windows updates
+2026-02-11 21:22:02,306 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal
+2026-02-11 21:22:02,306 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,306 - INFO - [EXTRACT] Extracted source: Jess Weatherbed
+2026-02-11 21:22:02,306 - INFO - [EXTRACT] Extracted title: Google can now help you find and remove your ID from search results
+2026-02-11 21:22:02,306 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876352/google-search-remove-sensitive-information-nonconsensual-images
+2026-02-11 21:22:02,306 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,307 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:02,307 - INFO - [EXTRACT] Extracted title: Razer’s resurrected 25-year-old gaming mouse will cost you $1,337
+2026-02-11 21:22:02,307 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/876333/razer-boomslang-20th-anniversary-edition-wireless-mouse-preorder-price
+2026-02-11 21:22:02,307 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,307 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:02,307 - INFO - [EXTRACT] Extracted title: Telegram is reportedly being slowed down and restricted in Russia
+2026-02-11 21:22:02,307 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876351/telegram-russia-restrictions
+2026-02-11 21:22:02,308 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,308 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:02,308 - INFO - [EXTRACT] Extracted title: Microsoft wants to rewire data centers to save space
+2026-02-11 21:22:02,308 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor
+2026-02-11 21:22:02,308 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,308 - INFO - [EXTRACT] Extracted source: Justine Calma
+2026-02-11 21:22:02,308 - INFO - [EXTRACT] Extracted title: This vintage-looking camera has been updated for shooting the stars
+2026-02-11 21:22:02,308 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876264/om-system-om-3-astro-digital-camera-stars-astrophotography
+2026-02-11 21:22:02,309 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,309 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:02,309 - INFO - [EXTRACT] Extracted title: Autodesk is suing Google over the name of its Flow AI videomaker
+2026-02-11 21:22:02,309 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876266/autodesk-google-flow-trademark-infringement-lawsuit
+2026-02-11 21:22:02,309 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,309 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:02,309 - INFO - [EXTRACT] Extracted title: Nintendo keeps filling in the gaps
+2026-02-11 21:22:02,309 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever
+2026-02-11 21:22:02,310 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,310 - INFO - [EXTRACT] Extracted source: Andrew Webster
+2026-02-11 21:22:02,310 - INFO - [EXTRACT] Extracted title: Could the Trump Phone be a good phone?
+2026-02-11 21:22:02,310 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast
+2026-02-11 21:22:02,310 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,310 - INFO - [EXTRACT] Extracted source: David Pierce
+2026-02-11 21:22:02,310 - INFO - [EXTRACT] Extracted title: Vibe coding Nothing’s apps is fun, until you try to make them useful
+2026-02-11 21:22:02,310 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder
+2026-02-11 21:22:02,314 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,314 - INFO - [EXTRACT] Extracted source: Robert Hart
+2026-02-11 21:22:02,314 - INFO - [EXTRACT] Extracted title: Discord’s age verification mandate is a leap toward a gated internet
+2026-02-11 21:22:02,314 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future
+2026-02-11 21:22:02,314 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,314 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:02,315 - INFO - [EXTRACT] Extracted title: New Mexico goes to trial to accuse Meta of facilitating child predators
+2026-02-11 21:22:02,315 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial
+2026-02-11 21:22:02,315 - INFO - [EXTRACT] Extracted date: Feb 10
+2026-02-11 21:22:02,315 - INFO - [EXTRACT] Extracted source: Lauren Feiner
+2026-02-11 21:22:02,315 - INFO - [EXTRACT] Extracted title: MrBeast just bought a banking app
+2026-02-11 21:22:02,315 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app
+2026-02-11 21:22:02,315 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:02,315 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:02,316 - INFO - [EXTRACT] Extracted title: ChatGPT’s cheapest options now show you ads
+2026-02-11 21:22:02,316 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt
+2026-02-11 21:22:02,316 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:02,316 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:02,316 - INFO - [EXTRACT] Extracted title: FCC accused of withholding DOGE information ‘in bad faith’
+2026-02-11 21:22:02,316 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/policy/875981/fcc-doge-frequency-forward-brendan-carr-discovery
+2026-02-11 21:22:02,316 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:02,316 - INFO - [EXTRACT] Extracted source: Lauren Feiner
+2026-02-11 21:22:02,316 - INFO - [EXTRACT] Fetching data from: https://www.theverge.com/archives/3
+2026-02-11 21:22:05,308 - INFO - [EXTRACT] Successfully extracted data from The Verge page 3
+2026-02-11 21:22:05,311 - INFO - [EXTRACT] Extracted title: Riot is already cutting staff on its new fighting game
+2026-02-11 21:22:05,311 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/876038/riot-games-2xko-layoffs-job-cuts-league-of-legends
+2026-02-11 21:22:05,311 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,311 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:05,311 - INFO - [EXTRACT] Extracted title: Toyota made a game engine
+2026-02-11 21:22:05,311 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/875995/toyota-fluorite-game-engine
+2026-02-11 21:22:05,311 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,311 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:05,311 - INFO - [EXTRACT] Extracted title: Apple is killing the old HomeKit Tuesday
+2026-02-11 21:22:05,312 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow
+2026-02-11 21:22:05,312 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,312 - INFO - [EXTRACT] Extracted source: Jennifer Pattison Tuohy
+2026-02-11 21:22:05,312 - INFO - [EXTRACT] Extracted title: AI-generated ads dropped the ball at this year’s Super Bowl
+2026-02-11 21:22:05,312 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible
+2026-02-11 21:22:05,312 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,312 - INFO - [EXTRACT] Extracted source: Charles Pulliam-Moore and Jess Weatherbed
+2026-02-11 21:22:05,312 - INFO - [EXTRACT] Extracted title: Ferrari’s first EV will have an interior designed by Jony Ive
+2026-02-11 21:22:05,312 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos
+2026-02-11 21:22:05,313 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,313 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:05,313 - INFO - [EXTRACT] Extracted title: Google’s Pixel 9A is back down to $349, its cheapest price so far
+2026-02-11 21:22:05,313 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/875742/google-pixel9a-switch-2-case-netgear-gigabit-deal-sale
+2026-02-11 21:22:05,313 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,313 - INFO - [EXTRACT] Extracted source: Cameron Faulkner
+2026-02-11 21:22:05,313 - INFO - [EXTRACT] Extracted title: Leaked specs for Sony’s next flagship wireless earbuds reveal ANC upgrades
+2026-02-11 21:22:05,313 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875782/sony-wf-1000xm6-earbuds-spec-leak
+2026-02-11 21:22:05,314 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,314 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:05,314 - INFO - [EXTRACT] Extracted title: Linux 6.19 arrives with a teaser for Linux 7.0
+2026-02-11 21:22:05,314 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875784/linux-kernel-7-0-announced
+2026-02-11 21:22:05,314 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,314 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:05,314 - INFO - [EXTRACT] Extracted title: YouTube TV’s sports-focused package will cost $64.99 / month
+2026-02-11 21:22:05,314 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/news/875751/youtube-tv-custom-channel-packages-pricing
+2026-02-11 21:22:05,314 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,315 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:05,315 - INFO - [EXTRACT] Extracted title: OpenAI will reportedly start testing ads in ChatGPT today
+2026-02-11 21:22:05,315 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch
+2026-02-11 21:22:05,315 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,315 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:05,315 - INFO - [EXTRACT] Extracted title: Discord will require a face scan or ID for full access next month
+2026-02-11 21:22:05,315 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
+2026-02-11 21:22:05,315 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,315 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:05,316 - INFO - [EXTRACT] Extracted title: PlayStation’s next big games showcase is on February 12th
+2026-02-11 21:22:05,316 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/875692/playstation-state-of-play-showcase-ps5-february-2026
+2026-02-11 21:22:05,316 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,316 - INFO - [EXTRACT] Extracted source: Andrew Webster
+2026-02-11 21:22:05,316 - INFO - [EXTRACT] Extracted title: HBO Max is finally launching in the UK next month
+2026-02-11 21:22:05,316 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/streaming/875668/hbo-max-is-finally-launching-in-the-uk-next-month
+2026-02-11 21:22:05,316 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,316 - INFO - [EXTRACT] Extracted source: Dominic Preston
+2026-02-11 21:22:05,317 - INFO - [EXTRACT] Extracted title: Live Nation’s monopoly trial is reportedly fracturing Trump’s Justice Department
+2026-02-11 21:22:05,317 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/policy/875665/live-nation-ticketmaster-settlement-doj-discussions-monopoly-trial
+2026-02-11 21:22:05,317 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,317 - INFO - [EXTRACT] Extracted source: Jess Weatherbed
+2026-02-11 21:22:05,317 - INFO - [EXTRACT] Extracted title: OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax
+2026-02-11 21:22:05,317 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake
+2026-02-11 21:22:05,317 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:05,317 - INFO - [EXTRACT] Extracted source: Richard Lawler
+2026-02-11 21:22:05,317 - INFO - [EXTRACT] Fetching data from: https://www.theverge.com/archives/4
+2026-02-11 21:22:10,454 - INFO - [EXTRACT] Successfully extracted data from The Verge page 4
+2026-02-11 21:22:10,457 - INFO - [EXTRACT] Extracted title: Super Bowl LX ads: all AI everything
+2026-02-11 21:22:10,457 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game
+2026-02-11 21:22:10,458 - INFO - [EXTRACT] Extracted date: Feb 9
+2026-02-11 21:22:10,458 - INFO - [EXTRACT] Extracted source: Verge Staff
+2026-02-11 21:22:10,458 - INFO - [EXTRACT] Extracted title: YouTube Music starts putting lyrics behind a paywall
+2026-02-11 21:22:10,458 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall
+2026-02-11 21:22:10,458 - INFO - [EXTRACT] Extracted date: Feb 8
+2026-02-11 21:22:10,458 - INFO - [EXTRACT] Extracted source: Terrence O'Brien
+2026-02-11 21:22:10,458 - INFO - [EXTRACT] Extracted title: New York is considering two bills to rein in the AI industry
+2026-02-11 21:22:10,458 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry
+2026-02-11 21:22:10,459 - INFO - [EXTRACT] Extracted date: Feb 8
+2026-02-11 21:22:10,459 - INFO - [EXTRACT] Extracted source: Terrence O'Brien
+2026-02-11 21:22:10,459 - INFO - [EXTRACT] Extracted title: You need to listen to the new Mandy, Indiana record: URGH
+2026-02-11 21:22:10,459 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review
+2026-02-11 21:22:10,459 - INFO - [EXTRACT] Extracted date: Feb 8
+2026-02-11 21:22:10,459 - INFO - [EXTRACT] Extracted source: Terrence O'Brien
+2026-02-11 21:22:10,459 - INFO - [EXTRACT] Extracted title: The iPhone 17e could launch soon with MagSafe and an A19 chip
+2026-02-11 21:22:10,459 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19
+2026-02-11 21:22:10,460 - INFO - [EXTRACT] Extracted date: Feb 8
+2026-02-11 21:22:10,460 - INFO - [EXTRACT] Extracted source: Terrence O'Brien
+2026-02-11 21:22:10,460 - INFO - [EXTRACT] Extracted title: GuliKit’s tiny USB dongle lets you connect your PS5 controller to your Switch 2
+2026-02-11 21:22:10,460 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/874842/gulikit-hyperlink-gen2-usb-adapter-wireless-switch-2-hands-on
+2026-02-11 21:22:10,460 - INFO - [EXTRACT] Extracted date: Feb 8
+2026-02-11 21:22:10,460 - INFO - [EXTRACT] Extracted source: Cameron Faulkner
+2026-02-11 21:22:10,460 - INFO - [EXTRACT] Extracted title: Digital car keys are getting more sophisticated
+2026-02-11 21:22:10,460 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/873197/digital-key-car-ccc-plugfest-rivian
+2026-02-11 21:22:10,461 - INFO - [EXTRACT] Extracted date: Feb 8
+2026-02-11 21:22:10,461 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:10,461 - INFO - [EXTRACT] Extracted title: Former Tumblr head Jeff D’Onofrio steps in as acting CEO at The Washington Post
+2026-02-11 21:22:10,461 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs
+2026-02-11 21:22:10,461 - INFO - [EXTRACT] Extracted date: Feb 7
+2026-02-11 21:22:10,461 - INFO - [EXTRACT] Extracted source: Terrence O'Brien
+2026-02-11 21:22:10,461 - INFO - [EXTRACT] Extracted title: GOG is already working on native Linux support
+2026-02-11 21:22:10,461 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875425/gog-native-linux-support
+2026-02-11 21:22:10,461 - INFO - [EXTRACT] Extracted date: Feb 7
+2026-02-11 21:22:10,462 - INFO - [EXTRACT] Extracted source: Terrence O'Brien
+2026-02-11 21:22:10,462 - INFO - [EXTRACT] Extracted title: LG’s C5 TV and Anker’s powerful power bank are this week’s best deals
+2026-02-11 21:22:10,462 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl
+2026-02-11 21:22:10,462 - INFO - [EXTRACT] Extracted date: Feb 7
+2026-02-11 21:22:10,462 - INFO - [EXTRACT] Extracted source: Cameron Faulkner
+2026-02-11 21:22:10,462 - INFO - [EXTRACT] Extracted title: Anker’s new charger with a screen would feel less gimmicky if it did more
+2026-02-11 21:22:10,462 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs
+2026-02-11 21:22:10,462 - INFO - [EXTRACT] Extracted date: Feb 7
+2026-02-11 21:22:10,462 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:10,463 - INFO - [EXTRACT] Extracted title: Cairn is a climbing journey about perseverance and obsession
+2026-02-11 21:22:10,463 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/874914/cairn-review-pc-playstation-5
+2026-02-11 21:22:10,463 - INFO - [EXTRACT] Extracted date: Feb 7
+2026-02-11 21:22:10,463 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:10,463 - INFO - [EXTRACT] Extracted title: The best way to watch the Olympics
+2026-02-11 21:22:10,463 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer
+2026-02-11 21:22:10,463 - INFO - [EXTRACT] Extracted date: Feb 7
+2026-02-11 21:22:10,463 - INFO - [EXTRACT] Extracted source: David Pierce
+2026-02-11 21:22:10,464 - INFO - [EXTRACT] Extracted title: We found 20 Verge-approved gifts on sale ahead of Valentine’s Day
+2026-02-11 21:22:10,464 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale
+2026-02-11 21:22:10,464 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:10,464 - INFO - [EXTRACT] Extracted source: Sheena Vasani
+2026-02-11 21:22:10,464 - INFO - [EXTRACT] Extracted title: Apple might let you use ChatGPT from CarPlay
+2026-02-11 21:22:10,464 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor
+2026-02-11 21:22:10,464 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:10,464 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:10,465 - INFO - [EXTRACT] Extracted title: This is the Trump Phone
+2026-02-11 21:22:10,465 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson
+2026-02-11 21:22:10,465 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:10,465 - INFO - [EXTRACT] Extracted source: Dominic Preston
+2026-02-11 21:22:10,465 - INFO - [EXTRACT] Extracted title: There isn’t even a cynical explanation for Jeff Bezos destroying The Washington Post
+2026-02-11 21:22:10,465 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/policy/874958/jeff-bezos-washington-post-layoffs-trump
+2026-02-11 21:22:10,465 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:10,465 - INFO - [EXTRACT] Extracted source: Tina Nguyen
+2026-02-11 21:22:10,465 - INFO - [EXTRACT] Extracted title: The Jeffrey Epstein Fortnite account is fake
+2026-02-11 21:22:10,466 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake
+2026-02-11 21:22:10,466 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:10,466 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:10,466 - INFO - [EXTRACT] Fetching data from: https://www.theverge.com/archives/5
+2026-02-11 21:22:11,293 - INFO - [EXTRACT] Successfully extracted data from The Verge page 5
+2026-02-11 21:22:11,296 - INFO - [EXTRACT] Extracted title: Here are the best AirPods deals you can get right now
+2026-02-11 21:22:11,296 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/21302051/best-apple-airpods-deals
+2026-02-11 21:22:11,296 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,296 - INFO - [EXTRACT] Extracted source: Sheena Vasani
+2026-02-11 21:22:11,296 - INFO - [EXTRACT] Extracted title: Spotify’s About the Song offers context and trivia about your favorite tracks
+2026-02-11 21:22:11,296 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes
+2026-02-11 21:22:11,297 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,297 - INFO - [EXTRACT] Extracted source: Terrence O'Brien
+2026-02-11 21:22:11,297 - INFO - [EXTRACT] Extracted title: Aura’s Aspen digital frame is a great gift, especially now that it’s $30 off
+2026-02-11 21:22:11,297 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/874904/aura-aspen-kobo-libra-colour-deal-sale
+2026-02-11 21:22:11,297 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,297 - INFO - [EXTRACT] Extracted source: Sheena Vasani
+2026-02-11 21:22:11,297 - INFO - [EXTRACT] Extracted title: The Alexa app is so bad I’m using Siri again
+2026-02-11 21:22:11,297 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/874792/the-alexa-app-is-so-bad-im-using-siri-again
+2026-02-11 21:22:11,298 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,298 - INFO - [EXTRACT] Extracted source: Jennifer Pattison Tuohy
+2026-02-11 21:22:11,298 - INFO - [EXTRACT] Extracted title: What happens when Waymo runs into a tornado? Or an elephant?
+2026-02-11 21:22:11,298 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3
+2026-02-11 21:22:11,298 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,298 - INFO - [EXTRACT] Extracted source: Andrew J. Hawkins
+2026-02-11 21:22:11,298 - INFO - [EXTRACT] Extracted title: Analogue’s 4K N64 is getting five new transparent color options
+2026-02-11 21:22:11,298 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions
+2026-02-11 21:22:11,299 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,299 - INFO - [EXTRACT] Extracted source: Andrew Liszewski
+2026-02-11 21:22:11,299 - INFO - [EXTRACT] Extracted title: How Epstein became a tech influencer
+2026-02-11 21:22:11,299 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast
+2026-02-11 21:22:11,299 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,299 - INFO - [EXTRACT] Extracted source: David Pierce
+2026-02-11 21:22:11,299 - INFO - [EXTRACT] Extracted title: Uber found liable for sexual assault in first of thousands of similar lawsuits
+2026-02-11 21:22:11,299 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/transportation/874751/uber-sexual-assault-federal-case-verdict-liable
+2026-02-11 21:22:11,300 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,300 - INFO - [EXTRACT] Extracted source: Jess Weatherbed
+2026-02-11 21:22:11,300 - INFO - [EXTRACT] Extracted title: TikTok’s infinite scroll is too addictive, say EU regulators
+2026-02-11 21:22:11,300 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/policy/874746/tiktok-addictive-eu-regulators-infinite-scroll-notifications-autoplay
+2026-02-11 21:22:11,300 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,300 - INFO - [EXTRACT] Extracted source: Dominic Preston
+2026-02-11 21:22:11,301 - INFO - [EXTRACT] Extracted title: Google is expanding AirDrop support to more Android devices ‘very soon’
+2026-02-11 21:22:11,301 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion
+2026-02-11 21:22:11,301 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,301 - INFO - [EXTRACT] Extracted source: Jess Weatherbed
+2026-02-11 21:22:11,301 - INFO - [EXTRACT] Extracted title: HBO is turning Baldur’s Gate into a TV show
+2026-02-11 21:22:11,301 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin
+2026-02-11 21:22:11,301 - INFO - [EXTRACT] Extracted date: Feb 6
+2026-02-11 21:22:11,301 - INFO - [EXTRACT] Extracted source: Jay Peters
+2026-02-11 21:22:11,302 - INFO - [EXTRACT] Extracted title: Roblox is working to pull in adult players
+2026-02-11 21:22:11,302 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players
+2026-02-11 21:22:11,302 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:11,302 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:11,302 - INFO - [EXTRACT] Extracted title: Republicans attack ‘woke’ Netflix — and ignore YouTube
+2026-02-11 21:22:11,302 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing
+2026-02-11 21:22:11,302 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:11,302 - INFO - [EXTRACT] Extracted source: Emma Roth
+2026-02-11 21:22:11,306 - INFO - [EXTRACT] Extracted title: Iron Lung’s path to theaters was unique, even if the movie isn’t
+2026-02-11 21:22:11,306 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/entertainment/874500/iron-lung-theater-box-office-markiplier
+2026-02-11 21:22:11,306 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:11,306 - INFO - [EXTRACT] Extracted source: Andrew Webster
+2026-02-11 21:22:11,306 - INFO - [EXTRACT] Extracted title: The price of Bitcoin drops below $65,000
+2026-02-11 21:22:11,306 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/tech/874603/bitcoin-price-drop-cryptocurrency
+2026-02-11 21:22:11,306 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:11,306 - INFO - [EXTRACT] Extracted source: Stevie Bonifield
+2026-02-11 21:22:11,307 - INFO - [EXTRACT] Extracted title: Zuckerberg considered changing how Meta studies social issues after research got it in trouble
+2026-02-11 21:22:11,307 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research
+2026-02-11 21:22:11,307 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:11,307 - INFO - [EXTRACT] Extracted source: Lauren Feiner
+2026-02-11 21:22:11,307 - INFO - [EXTRACT] Extracted title: One of the best laptop power banks available is cheaper than ever
+2026-02-11 21:22:11,307 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/gadgets/874509/anker-laptop-power-bank-google-pixel-watch-4-deal-sale
+2026-02-11 21:22:11,307 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:11,307 - INFO - [EXTRACT] Extracted source: Sheena Vasani
+2026-02-11 21:22:11,307 - INFO - [EXTRACT] Extracted title: I tested several cases for the Switch 2 and these are the best
+2026-02-11 21:22:11,308 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/reviews/691319/best-switch-2-cases
+2026-02-11 21:22:11,308 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:11,308 - INFO - [EXTRACT] Extracted source: Cameron Faulkner
+2026-02-11 21:22:11,308 - INFO - [EXTRACT] Extracted title: Anthropic debuts new model with hopes to corner the market beyond coding
+2026-02-11 21:22:11,308 - INFO - [EXTRACT] Extracted URL: https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude
+2026-02-11 21:22:11,308 - INFO - [EXTRACT] Extracted date: Feb 5
+2026-02-11 21:22:11,308 - INFO - [EXTRACT] Extracted source: Hayden Field
+2026-02-11 21:22:11,310 - INFO - [EXTRACT] Fetching data from: https://arstechnica.com/page/1/
+2026-02-11 21:22:13,970 - INFO - [EXTRACT] Successfully extracted data from Ars Technica page 1
+2026-02-11 21:22:13,975 - INFO - [EXTRACT] Fetching data from: https://arstechnica.com/page/2/
+2026-02-11 21:22:15,677 - INFO - [EXTRACT] Successfully extracted data from Ars Technica page 2
+2026-02-11 21:22:15,680 - INFO - [EXTRACT] Extracted title: Lawyer sets new standard for abuse of AI; judge tosses case
+2026-02-11 21:22:15,680 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/
+2026-02-11 21:22:15,681 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,681 - INFO - [EXTRACT] Extracted source: Ashley Belanger
+2026-02-11 21:22:15,681 - INFO - [EXTRACT] Extracted title: Malicious packages for dYdX cryptocurrency exchange empties user wallets
+2026-02-11 21:22:15,681 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/
+2026-02-11 21:22:15,681 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,681 - INFO - [EXTRACT] Extracted source: Dan Goodin
+2026-02-11 21:22:15,681 - INFO - [EXTRACT] Extracted title: Why $700 could be a “death sentence” for the Steam Machine
+2026-02-11 21:22:15,681 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/
+2026-02-11 21:22:15,682 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,682 - INFO - [EXTRACT] Extracted source: Kyle Orland
+2026-02-11 21:22:15,682 - INFO - [EXTRACT] Extracted title: COVID-19 cleared the skies but also supercharged methane emissions
+2026-02-11 21:22:15,682 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/covid-19-cleared-the-skies-but-also-supercharged-methane-emissions/
+2026-02-11 21:22:15,682 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,682 - INFO - [EXTRACT] Extracted source: Jacek Krywko
+2026-02-11 21:22:15,682 - INFO - [EXTRACT] Extracted title: Waymo leverages Genie 3 to create a world model for self-driving cars
+2026-02-11 21:22:15,682 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/google/2026/02/waymo-leverages-genie-3-to-create-a-world-model-for-self-driving-cars/
+2026-02-11 21:22:15,683 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,683 - INFO - [EXTRACT] Extracted source: Ryan Whitwam
+2026-02-11 21:22:15,683 - INFO - [EXTRACT] Extracted title: To reuse or not reuse—the eternal debate of New Glenn’s second stage reignites
+2026-02-11 21:22:15,683 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/
+2026-02-11 21:22:15,683 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,683 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:15,683 - INFO - [EXTRACT] Extracted title: Driven: The 2026 Lamborghini Temerario raises the bar for supercars
+2026-02-11 21:22:15,683 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/cars/2026/02/driven-the-2026-lamborghini-temerario-raises-the-bar-for-supercars/
+2026-02-11 21:22:15,684 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,684 - INFO - [EXTRACT] Extracted source: Bradley Iger
+2026-02-11 21:22:15,684 - INFO - [EXTRACT] Extracted title: New critique debunks claim that trees can sense a solar eclipse
+2026-02-11 21:22:15,684 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/new-critique-debunks-claim-that-trees-can-sense-a-solar-eclipse/
+2026-02-11 21:22:15,684 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,684 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:15,684 - INFO - [EXTRACT] Extracted title: Stellantis swallows $26 billion costs as it rethinks its EV strategy
+2026-02-11 21:22:15,684 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/cars/2026/02/stellantis-swallows-26-billion-costs-as-it-rethinks-its-ev-strategy/
+2026-02-11 21:22:15,684 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,685 - INFO - [EXTRACT] Extracted source: Jonathan M. Gitlin
+2026-02-11 21:22:15,685 - INFO - [EXTRACT] Extracted title: Lawmakers ask what it would take to “store” the International Space Station
+2026-02-11 21:22:15,685 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/congress-advances-bill-requiring-nasa-to-reconsider-deorbiting-space-station/
+2026-02-11 21:22:15,685 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,685 - INFO - [EXTRACT] Extracted source: Stephen Clark
+2026-02-11 21:22:15,685 - INFO - [EXTRACT] Extracted title: NASA stage show explores “outer” outer space with Henson’s Fraggles
+2026-02-11 21:22:15,685 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/nasa-stage-show-explores-outer-outer-space-with-hensons-fraggles/
+2026-02-11 21:22:15,685 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,685 - INFO - [EXTRACT] Extracted source: Robert Pearlman
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted title: EU says TikTok needs to drop “addictive design”
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/eu-says-tiktok-needs-to-drop-addictive-design/
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted source: Financial Times
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted title: Rocket Report: SpaceX probes upper stage malfunction; Starship testing resumes
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/rocket-report-spacex-probes-upper-stage-malfunction-starship-testing-resumes/
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted source: Stephen Clark
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted title: Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea
+2026-02-11 21:22:15,686 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/
+2026-02-11 21:22:15,687 - INFO - [EXTRACT] Extracted date: 2/6/2026
+2026-02-11 21:22:15,687 - INFO - [EXTRACT] Extracted source: Kyle Orland
+2026-02-11 21:22:15,687 - INFO - [EXTRACT] Extracted title: AI companies want you to stop chatting with bots and start managing them
+2026-02-11 21:22:15,687 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/
+2026-02-11 21:22:15,687 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,687 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:15,687 - INFO - [EXTRACT] Extracted title: The Switch 2 is getting a new Virtual Console (kind of)
+2026-02-11 21:22:15,687 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/
+2026-02-11 21:22:15,687 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted source: Kyle Orland
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted title: With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted source: Samuel Axon
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted title: “ICE Out of Our Faces Act” would ban ICE and CBP use of facial recognition
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/ice-out-of-our-faces-act-would-ban-ice-and-cbp-use-of-facial-recognition/
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted title: Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/
+2026-02-11 21:22:15,688 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted source: Ashley Belanger
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted title: Watch Kanzi the bonobo pretend to have a tea party
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/watch-kanzi-the-bonobo-pretend-to-have-a-tea-party/
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted title: Bad sleep made woman’s eyelids so floppy they flipped inside out, got stuck
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/02/a-womans-eyelids-flipped-inside-out-on-their-own-the-fix-was-sleep/
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted source: Beth Mole
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted title: Google hints at big AirDrop expansion for Android “very soon”
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/
+2026-02-11 21:22:15,689 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted source: Ryan Whitwam
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted title: OpenAI is hoppin’ mad about Anthropic’s new Super Bowl TV ads
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted title: This black hole “burps” with Death Star energy
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/this-black-hole-burps-with-death-star-energy/
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:15,690 - INFO - [EXTRACT] Extracted title: NASA changes its mind, will allow Artemis astronauts to take iPhones to the Moon
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted title: Tesla slipped behind VW in European EV sales last year
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/cars/2026/02/tesla-slipped-behind-vw-in-european-ev-sales-last-year/
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted source: Jonathan M. Gitlin
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted title: Steam Machine and Steam Frame delays are the latest product of the RAM crisis
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/
+2026-02-11 21:22:15,691 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted source: Andrew Cunningham
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted title: Increase of AI bots on the Internet sparks arms race
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted source: WIRED
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted title: Museums incorporate “scent of the afterlife” into Egyptian exhibits
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/museums-incorporate-scent-of-the-afterlife-into-egyptian-exhibits/
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted date: 2/5/2026
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:15,692 - INFO - [EXTRACT] Extracted title: Microsoft releases urgent Office patch. Russian-state hackers pounce.
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted source: Dan Goodin
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted title: FBI stymied by Apple’s Lockdown Mode after seizing journalist’s iPhone
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted title: Should AI chatbots have ads? Anthropic says no.
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/
+2026-02-11 21:22:15,693 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:15,694 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:15,694 - INFO - [EXTRACT] Extracted title: US House takes first step toward creating “commercial” deep space program
+2026-02-11 21:22:15,694 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/
+2026-02-11 21:22:15,694 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:15,694 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:15,694 - INFO - [EXTRACT] Extracted title: Judge gives Musk bad news, says Trump hasn’t intervened to block SEC lawsuit
+2026-02-11 21:22:15,694 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/
+2026-02-11 21:22:15,694 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:15,694 - INFO - [EXTRACT] Extracted source: Ashley Belanger
+2026-02-11 21:22:15,695 - INFO - [EXTRACT] Extracted title: Trump admin is “destroying medical research,” Senate report finds
+2026-02-11 21:22:15,695 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/02/trump-admin-is-destroying-medical-research-senate-report-finds/
+2026-02-11 21:22:15,695 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:15,695 - INFO - [EXTRACT] Extracted source: Beth Mole
+2026-02-11 21:22:15,695 - INFO - [EXTRACT] Extracted title: “Capture it all”: ICE urged to explain memo about collecting info on protesters
+2026-02-11 21:22:15,695 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/
+2026-02-11 21:22:15,695 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:15,695 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:15,695 - INFO - [EXTRACT] Fetching data from: https://arstechnica.com/page/3/
+2026-02-11 21:22:24,008 - INFO - [EXTRACT] Successfully extracted data from Ars Technica page 3
+2026-02-11 21:22:24,016 - INFO - [EXTRACT] Extracted title: User blowback convinces Adobe to keep supporting 30-year-old 2D animation app
+2026-02-11 21:22:24,017 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/02/adobe-reverses-decision-to-discontinue-animate-after-a-lot-of-confusion-and-angst/
+2026-02-11 21:22:24,017 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:24,018 - INFO - [EXTRACT] Extracted source: Scharon Harding
+2026-02-11 21:22:24,018 - INFO - [EXTRACT] Extracted title: Russian spy satellites have intercepted EU communications satellites
+2026-02-11 21:22:24,018 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/russian-spy-satellites-have-intercepted-eu-communications-satellites/
+2026-02-11 21:22:24,019 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:24,019 - INFO - [EXTRACT] Extracted source: Financial Times
+2026-02-11 21:22:24,019 - INFO - [EXTRACT] Extracted title: NASA finally acknowledges the elephant in the room with the SLS rocket
+2026-02-11 21:22:24,020 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/nasa-finally-acknowledges-the-elephant-in-the-room-with-the-sls-rocket/
+2026-02-11 21:22:24,020 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:24,020 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:24,020 - INFO - [EXTRACT] Extracted title: So yeah, I vibe-coded a log colorizer—and I feel good about it
+2026-02-11 21:22:24,020 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/
+2026-02-11 21:22:24,020 - INFO - [EXTRACT] Extracted date: 2/4/2026
+2026-02-11 21:22:24,020 - INFO - [EXTRACT] Extracted source: Lee Hutchinson
+2026-02-11 21:22:24,020 - INFO - [EXTRACT] Extracted title: Netflix says users can cancel service if HBO Max merger makes it too expensive
+2026-02-11 21:22:24,021 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/
+2026-02-11 21:22:24,021 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,021 - INFO - [EXTRACT] Extracted source: Scharon Harding
+2026-02-11 21:22:24,022 - INFO - [EXTRACT] Extracted title: Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer
+2026-02-11 21:22:24,023 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/
+2026-02-11 21:22:24,023 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,024 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:24,024 - INFO - [EXTRACT] Extracted title: Nvidia’s $100 billion OpenAI deal has seemingly vanished
+2026-02-11 21:22:24,024 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/
+2026-02-11 21:22:24,025 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,025 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:24,025 - INFO - [EXTRACT] Extracted title: Newborn dies after mother drinks raw milk during pregnancy
+2026-02-11 21:22:24,026 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/
+2026-02-11 21:22:24,026 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,026 - INFO - [EXTRACT] Extracted source: Beth Mole
+2026-02-11 21:22:24,027 - INFO - [EXTRACT] Extracted title: X office raided in France’s Grok probe; Elon Musk summoned for questioning
+2026-02-11 21:22:24,027 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/
+2026-02-11 21:22:24,027 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,028 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:24,029 - INFO - [EXTRACT] Extracted title: Nintendo Switch is the second-bestselling game console ever, behind only the PS2
+2026-02-11 21:22:24,029 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/
+2026-02-11 21:22:24,030 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,030 - INFO - [EXTRACT] Extracted source: Andrew Cunningham
+2026-02-11 21:22:24,030 - INFO - [EXTRACT] Extracted title: Google court filings suggest ChromeOS has an expiration date
+2026-02-11 21:22:24,031 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/
+2026-02-11 21:22:24,031 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,032 - INFO - [EXTRACT] Extracted source: Ryan Whitwam
+2026-02-11 21:22:24,032 - INFO - [EXTRACT] Extracted title: Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP
+2026-02-11 21:22:24,033 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/apple/2026/02/xcode-26-3-adds-support-for-claude-codex-and-other-agentic-tools-via-mcp/
+2026-02-11 21:22:24,033 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,035 - INFO - [EXTRACT] Extracted source: Samuel Axon
+2026-02-11 21:22:24,036 - INFO - [EXTRACT] Extracted title: Wing Commander III: “Isn’t that the guy from Star Wars?”
+2026-02-11 21:22:24,036 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gaming/2026/02/wing-commander-iii-the-game-kind-of-sucked-but-the-experience-blew-me-away/
+2026-02-11 21:22:24,037 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,037 - INFO - [EXTRACT] Extracted source: Lee Hutchinson
+2026-02-11 21:22:24,038 - INFO - [EXTRACT] Extracted title: Upset at reports that he’d given up, Trump now wants $1B from Harvard
+2026-02-11 21:22:24,038 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/upset-at-reports-that-hed-given-up-trump-now-wants-1b-from-harvard/
+2026-02-11 21:22:24,039 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,040 - INFO - [EXTRACT] Extracted source: John Timmer
+2026-02-11 21:22:24,040 - INFO - [EXTRACT] Extracted title: China bans all retractable car door handles, starting next year
+2026-02-11 21:22:24,041 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/cars/2026/02/china-bans-all-retractable-car-door-handles-starting-next-year/
+2026-02-11 21:22:24,041 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,042 - INFO - [EXTRACT] Extracted source: Jonathan M. Gitlin
+2026-02-11 21:22:24,042 - INFO - [EXTRACT] Extracted title: Senior staff departing OpenAI as firm prioritizes ChatGPT development
+2026-02-11 21:22:24,042 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/
+2026-02-11 21:22:24,043 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,043 - INFO - [EXTRACT] Extracted source: Financial Times
+2026-02-11 21:22:24,043 - INFO - [EXTRACT] Extracted title: The rise of Moltbook suggests viral AI prompts may be the next big security threat
+2026-02-11 21:22:24,044 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/
+2026-02-11 21:22:24,044 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,044 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:24,045 - INFO - [EXTRACT] Extracted title: Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March
+2026-02-11 21:22:24,045 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/unable-to-tame-hydrogen-leaks-nasa-delays-launch-of-artemis-ii-until-march/
+2026-02-11 21:22:24,046 - INFO - [EXTRACT] Extracted date: 2/3/2026
+2026-02-11 21:22:24,046 - INFO - [EXTRACT] Extracted source: Stephen Clark
+2026-02-11 21:22:24,049 - INFO - [EXTRACT] Extracted title: Looking back at Catacomb 3D, the game that led to Wolfenstein 3D
+2026-02-11 21:22:24,050 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/
+2026-02-11 21:22:24,050 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,051 - INFO - [EXTRACT] Extracted source: Kyle Orland
+2026-02-11 21:22:24,051 - INFO - [EXTRACT] Extracted title: Streaming service Crunchyroll raises prices weeks after killing its free tier
+2026-02-11 21:22:24,052 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/02/streaming-service-crunchyroll-raises-prices-weeks-after-killing-its-free-tier/
+2026-02-11 21:22:24,053 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,054 - INFO - [EXTRACT] Extracted source: Scharon Harding
+2026-02-11 21:22:24,054 - INFO - [EXTRACT] Extracted title: SpaceX acquires xAI, plans to launch a massive satellite constellation to power it
+2026-02-11 21:22:24,055 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/
+2026-02-11 21:22:24,055 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,056 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:24,056 - INFO - [EXTRACT] Extracted title: Russian drones use Starlink, but Ukraine has plan to block their Internet access
+2026-02-11 21:22:24,057 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/russian-drones-use-starlink-but-ukraine-has-plan-to-block-their-internet-access/
+2026-02-11 21:22:24,058 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,058 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:24,059 - INFO - [EXTRACT] Extracted title: Court orders restart of all US offshore wind construction
+2026-02-11 21:22:24,059 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/
+2026-02-11 21:22:24,059 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,060 - INFO - [EXTRACT] Extracted source: John Timmer
+2026-02-11 21:22:24,060 - INFO - [EXTRACT] Extracted title: Notepad++ users take note: It’s time to check if you’re hacked
+2026-02-11 21:22:24,060 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/
+2026-02-11 21:22:24,060 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,061 - INFO - [EXTRACT] Extracted source: Dan Goodin
+2026-02-11 21:22:24,061 - INFO - [EXTRACT] Extracted title: A century of hair samples proves leaded gas ban worked
+2026-02-11 21:22:24,062 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/
+2026-02-11 21:22:24,062 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,063 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:24,063 - INFO - [EXTRACT] Extracted title: Ongoing RAM crisis prompts Raspberry Pi’s second price hike in two months
+2026-02-11 21:22:24,064 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/02/ongoing-ram-crisis-prompts-raspberry-pis-second-price-hike-in-two-months/
+2026-02-11 21:22:24,064 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,064 - INFO - [EXTRACT] Extracted source: Andrew Cunningham
+2026-02-11 21:22:24,065 - INFO - [EXTRACT] Extracted title: Judge rules Department of Energy’s climate working group was illegal
+2026-02-11 21:22:24,065 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/us-forced-to-disclose-its-climate-working-groups-communications/
+2026-02-11 21:22:24,065 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,065 - INFO - [EXTRACT] Extracted source: John Timmer
+2026-02-11 21:22:24,065 - INFO - [EXTRACT] Extracted title: DOJ released Epstein files with dozens of nudes and victims’ names, reports say
+2026-02-11 21:22:24,065 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/02/doj-released-epstein-files-with-dozens-of-nudes-and-victims-names-reports-say/
+2026-02-11 21:22:24,066 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,066 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:24,066 - INFO - [EXTRACT] Extracted title: Intel Panther Lake Core Ultra review: Intel’s best laptop CPU in a very long time
+2026-02-11 21:22:24,066 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/02/intel-panther-lake-core-ultra-review-intels-best-laptop-cpu-in-a-very-long-time/
+2026-02-11 21:22:24,066 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,066 - INFO - [EXTRACT] Extracted source: Andrew Cunningham
+2026-02-11 21:22:24,066 - INFO - [EXTRACT] Extracted title: Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025
+2026-02-11 21:22:24,066 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/
+2026-02-11 21:22:24,067 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,067 - INFO - [EXTRACT] Extracted source: Beth Mole
+2026-02-11 21:22:24,067 - INFO - [EXTRACT] Extracted title: OpenAI picks up pace against Claude Code with new Codex desktop app
+2026-02-11 21:22:24,067 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/02/openai-picks-up-pace-against-claude-code-with-new-codex-desktop-app/
+2026-02-11 21:22:24,067 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,067 - INFO - [EXTRACT] Extracted source: Samuel Axon
+2026-02-11 21:22:24,068 - INFO - [EXTRACT] Extracted title: Why Civilization VII is the way it is, and how its devs plan to win critics back
+2026-02-11 21:22:24,068 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/
+2026-02-11 21:22:24,068 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,068 - INFO - [EXTRACT] Extracted source: Samuel Axon
+2026-02-11 21:22:24,068 - INFO - [EXTRACT] Extracted title: Here’s what Cities: Skylines 2’s new developer is updating first
+2026-02-11 21:22:24,068 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gaming/2026/02/heres-what-cities-skylines-2s-new-developer-is-updating-first/
+2026-02-11 21:22:24,069 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,069 - INFO - [EXTRACT] Extracted source: Kyle Orland
+2026-02-11 21:22:24,069 - INFO - [EXTRACT] Extracted title: Narwhals become quieter as the Arctic Ocean grows louder
+2026-02-11 21:22:24,069 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/narwhals-become-quieter-as-the-arctic-ocean-grows-louder/
+2026-02-11 21:22:24,069 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,069 - INFO - [EXTRACT] Extracted source: Inside Climate News
+2026-02-11 21:22:24,069 - INFO - [EXTRACT] Extracted title: NASA gears up for one more key test before launching Artemis II to the Moon
+2026-02-11 21:22:24,070 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/02/nasa-gears-up-for-one-more-key-test-before-launching-artemis-ii-to-the-moon/
+2026-02-11 21:22:24,070 - INFO - [EXTRACT] Extracted date: 2/2/2026
+2026-02-11 21:22:24,070 - INFO - [EXTRACT] Extracted source: Stephen Clark
+2026-02-11 21:22:24,070 - INFO - [EXTRACT] Extracted title: At NIH, a power struggle over institute directorships deepens
+2026-02-11 21:22:24,070 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/at-nih-a-power-struggle-over-institute-directorships-deepens/
+2026-02-11 21:22:24,070 - INFO - [EXTRACT] Extracted date: 2/1/2026
+2026-02-11 21:22:24,070 - INFO - [EXTRACT] Extracted source: Undark Magazine
+2026-02-11 21:22:24,070 - INFO - [EXTRACT] Fetching data from: https://arstechnica.com/page/4/
+2026-02-11 21:22:25,303 - INFO - [EXTRACT] Successfully extracted data from Ars Technica page 4
+2026-02-11 21:22:25,309 - INFO - [EXTRACT] Extracted title: Fungus could be the insecticide of the future
+2026-02-11 21:22:25,309 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/02/fungus-could-be-the-insecticide-of-the-future/
+2026-02-11 21:22:25,309 - INFO - [EXTRACT] Extracted date: 2/1/2026
+2026-02-11 21:22:25,310 - INFO - [EXTRACT] Extracted source: Elizabeth Rayne
+2026-02-11 21:22:25,310 - INFO - [EXTRACT] Extracted title: Research roundup: 6 cool stories we almost missed
+2026-02-11 21:22:25,310 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/
+2026-02-11 21:22:25,310 - INFO - [EXTRACT] Extracted date: 1/31/2026
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted title: A cup of coffee for depression treatment has better results than microdosing
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted date: 1/31/2026
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted source: WIRED
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted title: The TV industry finally concedes that the future may not be in 8K
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted source: Scharon Harding
+2026-02-11 21:22:25,311 - INFO - [EXTRACT] Extracted title: ICE observer says her Global Entry was revoked after agent scanned her face
+2026-02-11 21:22:25,312 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/
+2026-02-11 21:22:25,312 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,312 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:25,312 - INFO - [EXTRACT] Extracted title: TrumpRx delayed as senators question if it’s a giant scam with Big Pharma
+2026-02-11 21:22:25,312 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/
+2026-02-11 21:22:25,312 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,313 - INFO - [EXTRACT] Extracted source: Beth Mole
+2026-02-11 21:22:25,313 - INFO - [EXTRACT] Extracted title: AI agents now have their own Reddit-style social network, and it’s getting weird fast
+2026-02-11 21:22:25,313 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/
+2026-02-11 21:22:25,313 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,313 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:25,313 - INFO - [EXTRACT] Extracted title: Here’s why Blue Origin just ended its suborbital space tourism program
+2026-02-11 21:22:25,313 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/
+2026-02-11 21:22:25,313 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,314 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:25,314 - INFO - [EXTRACT] Extracted title: FCC aims to ensure “only living and lawful Americans” get Lifeline benefits
+2026-02-11 21:22:25,314 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/fcc-chair-fights-calif-governor-over-alleged-lifeline-benefits-for-dead-people/
+2026-02-11 21:22:25,314 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,314 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:25,314 - INFO - [EXTRACT] Extracted title: Developers say AI coding tools work—and that’s precisely what worries them
+2026-02-11 21:22:25,314 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/
+2026-02-11 21:22:25,314 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,314 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:25,315 - INFO - [EXTRACT] Extracted title: Web portal leaves kids’ chats with AI toy open to anyone with Gmail account
+2026-02-11 21:22:25,315 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/security/2026/01/web-portal-leaves-kids-chats-with-ai-toy-open-to-anyone-with-gmail-account/
+2026-02-11 21:22:25,315 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,315 - INFO - [EXTRACT] Extracted source: WIRED
+2026-02-11 21:22:25,315 - INFO - [EXTRACT] Extracted title: How far does $5,000 go when you want an electric car?
+2026-02-11 21:22:25,315 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/cars/2026/01/how-far-does-5000-go-when-you-want-an-electric-car/
+2026-02-11 21:22:25,315 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,315 - INFO - [EXTRACT] Extracted source: Jonathan M. Gitlin
+2026-02-11 21:22:25,315 - INFO - [EXTRACT] Extracted title: NASA faces a crucial choice on a Mars spacecraft—and it must decide soon
+2026-02-11 21:22:25,316 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/01/nasa-faces-a-crucial-choice-on-a-mars-spacecraft-and-it-must-decide-soon/
+2026-02-11 21:22:25,316 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,316 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:25,316 - INFO - [EXTRACT] Extracted title: Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?
+2026-02-11 21:22:25,316 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/
+2026-02-11 21:22:25,316 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,316 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:25,316 - INFO - [EXTRACT] Extracted title: Inside Nvidia’s 10-year effort to make the Shield TV the most updated Android device ever
+2026-02-11 21:22:25,316 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/
+2026-02-11 21:22:25,317 - INFO - [EXTRACT] Extracted date: 1/30/2026
+2026-02-11 21:22:25,317 - INFO - [EXTRACT] Extracted source: Ryan Whitwam
+2026-02-11 21:22:25,317 - INFO - [EXTRACT] Extracted title: Having that high-deductible health plan might kill you, literally
+2026-02-11 21:22:25,317 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/
+2026-02-11 21:22:25,317 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,317 - INFO - [EXTRACT] Extracted source: Beth Mole
+2026-02-11 21:22:25,317 - INFO - [EXTRACT] Extracted title: US spy satellite agency declassifies high-flying Cold War listening post
+2026-02-11 21:22:25,317 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/01/us-spy-satellite-agency-declassifies-high-flying-cold-war-listening-post/
+2026-02-11 21:22:25,317 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,318 - INFO - [EXTRACT] Extracted source: Stephen Clark
+2026-02-11 21:22:25,318 - INFO - [EXTRACT] Extracted title: People complaining about Windows 11 hasn’t stopped it from hitting 1 billion users
+2026-02-11 21:22:25,318 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/
+2026-02-11 21:22:25,318 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,318 - INFO - [EXTRACT] Extracted source: Andrew Cunningham
+2026-02-11 21:22:25,318 - INFO - [EXTRACT] Extracted title: How often do AI chatbots lead users down a harmful path?
+2026-02-11 21:22:25,318 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/
+2026-02-11 21:22:25,318 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,318 - INFO - [EXTRACT] Extracted source: Kyle Orland
+2026-02-11 21:22:25,319 - INFO - [EXTRACT] Extracted title: Google Project Genie lets you create interactive worlds from a photo or prompt
+2026-02-11 21:22:25,319 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/google/2026/01/google-project-genie-lets-you-create-interactive-worlds-from-a-photo-or-prompt/
+2026-02-11 21:22:25,319 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,319 - INFO - [EXTRACT] Extracted source: Ryan Whitwam
+2026-02-11 21:22:25,319 - INFO - [EXTRACT] Extracted title: Comcast keeps losing customers despite price guarantee and unlimited data
+2026-02-11 21:22:25,319 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/comcast-keeps-losing-customers-despite-price-guarantee-and-unlimited-data/
+2026-02-11 21:22:25,319 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,320 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:25,325 - INFO - [EXTRACT] Extracted title: She’ll mess with Texas: Nurse keeps mailing abortion pills, despite Paxton lawsuit
+2026-02-11 21:22:25,325 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/i-dont-fear-ken-paxton-nurse-vows-to-keep-shipping-abortion-pills-to-texas/
+2026-02-11 21:22:25,325 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,325 - INFO - [EXTRACT] Extracted source: Ashley Belanger
+2026-02-11 21:22:25,325 - INFO - [EXTRACT] Extracted title: What ice fishing can teach us about making foraging decisions
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/01/what-ice-fishing-can-teach-us-about-making-foraging-decisions/
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted title: County pays $600,000 to pentesters it arrested for assessing courthouse security
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted source: Dan Goodin
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted title: New OpenAI tool renews fears that “AI slop” will overwhelm scientific research
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/
+2026-02-11 21:22:25,326 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,327 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:25,327 - INFO - [EXTRACT] Extracted title: Custom machine kept man alive without lungs for 48 hours
+2026-02-11 21:22:25,327 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/01/custom-machine-kept-man-alive-without-lungs-for-48-hours/
+2026-02-11 21:22:25,327 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,327 - INFO - [EXTRACT] Extracted source: Jacek Krywko
+2026-02-11 21:22:25,329 - INFO - [EXTRACT] Extracted title: Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?
+2026-02-11 21:22:25,329 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/
+2026-02-11 21:22:25,329 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,329 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:25,329 - INFO - [EXTRACT] Extracted title: Do you have ideas about how to improve America’s space program?
+2026-02-11 21:22:25,329 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/01/do-you-have-ideas-about-how-to-improve-americas-space-program/
+2026-02-11 21:22:25,330 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,330 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:25,330 - INFO - [EXTRACT] Extracted title: Tesla kills Models S and X to build humanoid robots instead
+2026-02-11 21:22:25,331 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/cars/2026/01/tesla-kills-models-s-and-x-to-build-humanoid-robots-instead/
+2026-02-11 21:22:25,331 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,332 - INFO - [EXTRACT] Extracted source: Jonathan M. Gitlin
+2026-02-11 21:22:25,332 - INFO - [EXTRACT] Extracted title: States want to tax fossil fuel companies to create climate change superfunds
+2026-02-11 21:22:25,332 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/states-want-to-charge-fossil-fuel-companies-for-climate-change-superfunds/
+2026-02-11 21:22:25,332 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,332 - INFO - [EXTRACT] Extracted source: Inside Climate News
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted title: Early Universe’s supermassive black holes grew in cocoons like butterflies
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/01/early-universes-supermassive-black-holes-grew-in-cocoons-like-butterflies/
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted date: 1/29/2026
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted source: Jacek Krywko
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted title: Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/cars/2026/01/2025-sees-teslas-annual-revenue-fall-for-the-first-time/
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted source: Jonathan M. Gitlin
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted title: Site catering to online criminals has been seized by the FBI
+2026-02-11 21:22:25,333 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/
+2026-02-11 21:22:25,334 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:25,334 - INFO - [EXTRACT] Extracted source: Dan Goodin
+2026-02-11 21:22:25,335 - INFO - [EXTRACT] Extracted title: Seven things to know about how Apple’s Creator Studio subscriptions work
+2026-02-11 21:22:25,335 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/
+2026-02-11 21:22:25,335 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:25,336 - INFO - [EXTRACT] Extracted source: Andrew Cunningham
+2026-02-11 21:22:25,339 - INFO - [EXTRACT] Extracted title: Stranded boys struggle to survive in Lord of the Flies trailer
+2026-02-11 21:22:25,339 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/culture/2026/01/bbcs-lord-of-the-flies-miniseries-gets-a-trailer/
+2026-02-11 21:22:25,339 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:25,340 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:25,341 - INFO - [EXTRACT] Extracted title: SpaceX sends list of demands to US states giving broadband grants to Starlink
+2026-02-11 21:22:25,342 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/starlink-demands-grant-money-from-states-even-when-residents-dont-buy-service/
+2026-02-11 21:22:25,342 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:25,343 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:25,344 - INFO - [EXTRACT] Fetching data from: https://arstechnica.com/page/5/
+2026-02-11 21:22:26,687 - INFO - [EXTRACT] Successfully extracted data from Ars Technica page 5
+2026-02-11 21:22:26,690 - INFO - [EXTRACT] Extracted title: Angry Norfolk residents lose lawsuit to stop Flock license plate scanners
+2026-02-11 21:22:26,693 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/angry-norfolk-residents-lose-lawsuit-to-stop-flock-license-plate-scanners/
+2026-02-11 21:22:26,693 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,694 - INFO - [EXTRACT] Extracted source: Cyrus Farivar
+2026-02-11 21:22:26,694 - INFO - [EXTRACT] Extracted title: US cyber defense chief accidentally uploaded secret government info to ChatGPT
+2026-02-11 21:22:26,694 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/
+2026-02-11 21:22:26,694 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,694 - INFO - [EXTRACT] Extracted source: Ashley Belanger
+2026-02-11 21:22:26,694 - INFO - [EXTRACT] Extracted title: Why reviving the shuttered Anthem is turning out tougher than expected
+2026-02-11 21:22:26,694 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gaming/2026/01/why-reviving-the-shuttered-anthem-is-turning-out-tougher-than-expected/
+2026-02-11 21:22:26,695 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,695 - INFO - [EXTRACT] Extracted source: Kyle Orland
+2026-02-11 21:22:26,695 - INFO - [EXTRACT] Extracted title: I bought “Remove Before Flight” tags on eBay in 2010—it turns out they’re from Challenger
+2026-02-11 21:22:26,695 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/01/attached-to-tragedy-tracing-challenger-remove-before-flight-tags/
+2026-02-11 21:22:26,695 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,695 - INFO - [EXTRACT] Extracted source: Robert Pearlman
+2026-02-11 21:22:26,695 - INFO - [EXTRACT] Extracted title: Google begins rolling out Chrome’s “Auto Browse” AI agent today
+2026-02-11 21:22:26,695 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/google/2026/01/google-begins-rolling-out-chromes-auto-browse-ai-agent-today/
+2026-02-11 21:22:26,696 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,696 - INFO - [EXTRACT] Extracted source: Ryan Whitwam
+2026-02-11 21:22:26,696 - INFO - [EXTRACT] Extracted title: Meta blocks links to ICE List across Facebook, Instagram, and Threads
+2026-02-11 21:22:26,696 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/meta-blocks-links-to-ice-list-across-facebook-instagram-and-threads/
+2026-02-11 21:22:26,696 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,696 - INFO - [EXTRACT] Extracted source: WIRED
+2026-02-11 21:22:26,696 - INFO - [EXTRACT] Extracted title: Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty
+2026-02-11 21:22:26,696 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/
+2026-02-11 21:22:26,697 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,697 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:26,697 - INFO - [EXTRACT] Extracted title: South Carolina tops Texas measles outbreak record—with no end in sight
+2026-02-11 21:22:26,697 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/01/sc-measles-23-schools-hit-over-550-quarantined-as-outbreak-hits-record/
+2026-02-11 21:22:26,697 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,697 - INFO - [EXTRACT] Extracted source: Beth Mole
+2026-02-11 21:22:26,697 - INFO - [EXTRACT] Extracted title: Ryzen 9850X3D review: AMD’s bragging-rights gaming CPU gets more to brag about
+2026-02-11 21:22:26,697 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/01/review-amds-ryzen-7-9850x3d-is-a-little-faster-and-a-lot-more-power-hungry/
+2026-02-11 21:22:26,698 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,698 - INFO - [EXTRACT] Extracted source: Andrew Cunningham
+2026-02-11 21:22:26,698 - INFO - [EXTRACT] Extracted title: The origin story of syphilis goes back far longer than we thought
+2026-02-11 21:22:26,698 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/01/the-origin-story-of-syphilis-goes-back-far-longer-than-we-thought/
+2026-02-11 21:22:26,698 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,699 - INFO - [EXTRACT] Extracted source: Jacek Krywko
+2026-02-11 21:22:26,699 - INFO - [EXTRACT] Extracted title: Users flock to open source Moltbot for always-on AI, despite major risks
+2026-02-11 21:22:26,699 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/
+2026-02-11 21:22:26,699 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,699 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:26,699 - INFO - [EXTRACT] Extracted title: Japan lost a 5-ton navigation satellite when it fell off a rocket during launch
+2026-02-11 21:22:26,699 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/01/heres-the-story-of-how-japans-h3-rocket-lost-its-cargo-and-just-kept-going/
+2026-02-11 21:22:26,699 - INFO - [EXTRACT] Extracted date: 1/28/2026
+2026-02-11 21:22:26,699 - INFO - [EXTRACT] Extracted source: Stephen Clark
+2026-02-11 21:22:26,700 - INFO - [EXTRACT] Extracted title: Dozens of CDC vaccination databases have been frozen under RFK Jr.
+2026-02-11 21:22:26,700 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/health/2026/01/rfk-jr-lets-cdc-vaccination-data-rot-dozens-of-databases-frozen/
+2026-02-11 21:22:26,700 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,700 - INFO - [EXTRACT] Extracted source: Beth Mole
+2026-02-11 21:22:26,700 - INFO - [EXTRACT] Extracted title: TikTok users “absolutely justified” in fearing MAGA makeover, experts say
+2026-02-11 21:22:26,700 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/tiktok-claimed-bugs-blocked-anti-ice-videos-epstein-mentions-experts-call-bs/
+2026-02-11 21:22:26,700 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,700 - INFO - [EXTRACT] Extracted source: Ashley Belanger
+2026-02-11 21:22:26,701 - INFO - [EXTRACT] Extracted title: There’s a rash of scam spam coming from a real Microsoft address
+2026-02-11 21:22:26,701 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/
+2026-02-11 21:22:26,701 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,701 - INFO - [EXTRACT] Extracted source: Dan Goodin
+2026-02-11 21:22:26,701 - INFO - [EXTRACT] Extracted title: Supreme Court to decide how 1988 videotape privacy law applies to online video
+2026-02-11 21:22:26,701 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/supreme-court-to-decide-how-1988-videotape-privacy-law-applies-to-online-video/
+2026-02-11 21:22:26,701 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,701 - INFO - [EXTRACT] Extracted source: Jon Brodkin
+2026-02-11 21:22:26,702 - INFO - [EXTRACT] Extracted title: A WB-57 pilot just made a heroic landing in Houston after its landing gear failed
+2026-02-11 21:22:26,702 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/
+2026-02-11 21:22:26,702 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,702 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:26,702 - INFO - [EXTRACT] Extracted title: LG’s new subscription program charges up to £277 per month to rent a TV
+2026-02-11 21:22:26,702 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/01/lgs-new-subscription-program-charges-up-to-277-per-month-to-rent-a-tv/
+2026-02-11 21:22:26,702 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,702 - INFO - [EXTRACT] Extracted source: Scharon Harding
+2026-02-11 21:22:26,703 - INFO - [EXTRACT] Extracted title: “IG is a drug”: Internal messages may doom Meta at social media addiction trial
+2026-02-11 21:22:26,703 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/tiktok-settles-hours-before-landmark-social-media-addiction-trial-starts/
+2026-02-11 21:22:26,703 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,703 - INFO - [EXTRACT] Extracted source: Ashley Belanger
+2026-02-11 21:22:26,703 - INFO - [EXTRACT] Extracted title: Australian plumber is a YouTube sensation
+2026-02-11 21:22:26,703 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/culture/2026/01/australian-plumber-is-a-youtube-sensation/
+2026-02-11 21:22:26,704 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,704 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:26,704 - INFO - [EXTRACT] Extracted title: AI Overviews gets upgraded to Gemini 3 with a dash of AI Mode
+2026-02-11 21:22:26,704 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/google/2026/01/ai-overviews-gets-upgraded-to-gemini-3-with-a-dash-of-ai-mode/
+2026-02-11 21:22:26,704 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,704 - INFO - [EXTRACT] Extracted source: Ryan Whitwam
+2026-02-11 21:22:26,704 - INFO - [EXTRACT] Extracted title: Volvo invented the three-point seat belt 67 years ago; now it has improved it
+2026-02-11 21:22:26,705 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/cars/2026/01/how-volvos-new-adaptive-seat-belts-will-reduce-injuries-during-a-crash/
+2026-02-11 21:22:26,705 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,705 - INFO - [EXTRACT] Extracted source: Kristin Shaw
+2026-02-11 21:22:26,705 - INFO - [EXTRACT] Extracted title: Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working
+2026-02-11 21:22:26,705 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/01/apple-patches-ancient-ios-versions-to-keep-imessage-facetime-other-services-working/
+2026-02-11 21:22:26,705 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,705 - INFO - [EXTRACT] Extracted source: Andrew Cunningham
+2026-02-11 21:22:26,705 - INFO - [EXTRACT] Extracted title: Trade wars muzzle allied talks on Trump’s Golden Dome missile shield
+2026-02-11 21:22:26,705 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/01/trade-wars-muzzle-allied-talks-on-trumps-golden-dome-missile-shield/
+2026-02-11 21:22:26,706 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,706 - INFO - [EXTRACT] Extracted source: Stephen Clark
+2026-02-11 21:22:26,706 - INFO - [EXTRACT] Extracted title: Why NASA, IMSA, and tech companies are teaming up on tech transfer
+2026-02-11 21:22:26,706 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/cars/2026/01/why-nasa-imsa-and-tech-companies-are-teaming-up-on-tech-transfer/
+2026-02-11 21:22:26,706 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,706 - INFO - [EXTRACT] Extracted source: Jonathan M. Gitlin
+2026-02-11 21:22:26,707 - INFO - [EXTRACT] Extracted title: Meet the mysterious electrides
+2026-02-11 21:22:26,707 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/01/meet-the-mysterious-electrides/
+2026-02-11 21:22:26,707 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,707 - INFO - [EXTRACT] Extracted source: Knowable Magazine
+2026-02-11 21:22:26,707 - INFO - [EXTRACT] Extracted title: As data from space spikes, an innovative ground station company seeks to cash in
+2026-02-11 21:22:26,708 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/space/2026/01/as-data-from-space-spikes-an-innovative-ground-station-company-seeks-to-cash-in/
+2026-02-11 21:22:26,708 - INFO - [EXTRACT] Extracted date: 1/27/2026
+2026-02-11 21:22:26,708 - INFO - [EXTRACT] Extracted source: Eric Berger
+2026-02-11 21:22:26,708 - INFO - [EXTRACT] Extracted title: OpenAI spills technical details about how its AI coding agent works
+2026-02-11 21:22:26,708 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/
+2026-02-11 21:22:26,708 - INFO - [EXTRACT] Extracted date: 1/26/2026
+2026-02-11 21:22:26,708 - INFO - [EXTRACT] Extracted source: Benj Edwards
+2026-02-11 21:22:26,708 - INFO - [EXTRACT] Extracted title: Doctors face-palm as RFK Jr.’s top vaccine advisor questions need for polio shot
+2026-02-11 21:22:26,709 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/
+2026-02-11 21:22:26,713 - INFO - [EXTRACT] Extracted date: 1/26/2026
+2026-02-11 21:22:26,713 - INFO - [EXTRACT] Extracted source: Beth Mole
+2026-02-11 21:22:26,713 - INFO - [EXTRACT] Extracted title: Why has Microsoft been routing example.com traffic to a company in Japan?
+2026-02-11 21:22:26,713 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/
+2026-02-11 21:22:26,715 - INFO - [EXTRACT] Extracted date: 1/26/2026
+2026-02-11 21:22:26,715 - INFO - [EXTRACT] Extracted source: Dan Goodin
+2026-02-11 21:22:26,715 - INFO - [EXTRACT] Extracted title: Apple’s AirTag 2 is easier to find thanks to new chip
+2026-02-11 21:22:26,715 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/
+2026-02-11 21:22:26,715 - INFO - [EXTRACT] Extracted date: 1/26/2026
+2026-02-11 21:22:26,715 - INFO - [EXTRACT] Extracted source: Samuel Axon
+2026-02-11 21:22:26,716 - INFO - [EXTRACT] Extracted title: “Wildly irresponsible”: DOT’s use of AI to draft safety rules sparks concerns
+2026-02-11 21:22:26,716 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/
+2026-02-11 21:22:26,716 - INFO - [EXTRACT] Extracted date: 1/26/2026
+2026-02-11 21:22:26,716 - INFO - [EXTRACT] Extracted source: Ashley Belanger
+2026-02-11 21:22:26,716 - INFO - [EXTRACT] Extracted title: How to encrypt your PC’s disk without giving the keys to Microsoft
+2026-02-11 21:22:26,716 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gadgets/2026/01/how-to-encrypt-your-pcs-disk-without-giving-the-keys-to-microsoft/
+2026-02-11 21:22:26,716 - INFO - [EXTRACT] Extracted date: 1/26/2026
+2026-02-11 21:22:26,716 - INFO - [EXTRACT] Extracted source: Andrew Cunningham
+2026-02-11 21:22:26,719 - INFO - [EXTRACT] Extracted title: The brothers meet Yoshi in Super Mario Galaxy Movie trailer
+2026-02-11 21:22:26,719 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/culture/2026/01/yoshi-joins-the-fun-in-latest-super-mario-galaxy-movie-trailer/
+2026-02-11 21:22:26,719 - INFO - [EXTRACT] Extracted date: 1/26/2026
+2026-02-11 21:22:26,720 - INFO - [EXTRACT] Extracted source: Jennifer Ouellette
+2026-02-11 21:22:26,720 - INFO - [EXTRACT] Extracted title: TikTok explained why some US creators are seeing posts with “0 views”
+2026-02-11 21:22:26,720 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/tech-policy/2026/01/tiktok-glitches-caused-by-data-center-power-outage-us-joint-venture-says/
+2026-02-11 21:22:26,720 - INFO - [EXTRACT] Extracted date: 1/26/2026
+2026-02-11 21:22:26,720 - INFO - [EXTRACT] Extracted source: Ashley Belanger
+2026-02-11 21:22:26,720 - INFO - [EXTRACT] Extracted title: How to get Doom running on a pair of earbuds
+2026-02-11 21:22:26,720 - INFO - [EXTRACT] Extracted URL: https://arstechnica.com/gaming/2026/01/how-to-get-doom-running-on-a-pair-of-earbuds/
+2026-02-11 21:22:26,720 - INFO - [EXTRACT] Extracted date: 1/26/2026
+2026-02-11 21:22:26,721 - INFO - [EXTRACT] Extracted source: Kyle Orland
+2026-02-11 21:22:26,721 - INFO - [EXTRACT] Total number of articles extracted: 431
+2026-02-11 21:22:26,732 - INFO - [EXTRACT] Extracted data saved to data/raw/extracted_data.json

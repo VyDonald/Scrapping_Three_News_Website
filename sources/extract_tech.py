@@ -42,7 +42,7 @@ def extract_data_tech():
     #===================== date extraction =======================
                 dates = content.find("time")  
                 if dates:
-                    date_text = dates.text.strip()
+                    date_text = dates.get("datetime", "").strip()
                     logger.info(f"[EXTRACT] Extracted date: {date_text}")  
 
     # ======================extraction of reference ======================= 
@@ -50,7 +50,8 @@ def extract_data_tech():
                 if source:
                     source_text = source.text.strip()
                     logger.info(f"[EXTRACT] Extracted source: {source_text}")  
-                frame.append({"title": a.text.strip(), "lien": href, "date": date_text, "source": source_text})
+
+                frame.append({"title": a.text.strip(), "lien": href, "date": date_text, "auteur": source_text, "source": "TechCrunch" })
         return frame
     except requests.RequestException as e:
         logger.error(f"[EXTRACT] Error fetching TechCrunch data: {e}")
