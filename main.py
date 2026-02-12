@@ -21,14 +21,13 @@ def run_pipeline():
 
     # Step 3: Load - import inside function to avoid top-level DB deps
     try:
-        from etl.Load import create_table, load_to_db
+        from etl.Load import  load_to_db
 
-        create_table()
         load_to_db(df_clean)
     except ModuleNotFoundError:
         logger.warning("Database driver not available; saving cleaned files locally instead")
-        df_clean.to_csv("data_clean/loaded_data.csv", index=False)
-        df_clean.to_json("data_clean/loaded_data.json", orient="records", lines=True)
+        df_clean.to_csv("data/clean/loaded_data.csv", index=False)
+        df_clean.to_json("data/clean/loaded_data.json", orient="records", lines=True)
     except Exception:
         logger.exception("Unexpected error during load step")
         raise

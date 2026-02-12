@@ -1,25 +1,52 @@
 name: ETL Pipeline
 
+# 🔹 Déclenchement automatique et manuel
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'    # toutes les heures
+  workflow_dispatch:       # déclenchement manuel possible
 
 jobs:
-  run:
+  run-etl:
     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v3
+    env:
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
 
-      - uses: actions/setup-python@v4
+    steps:
+      # 1️⃣ Récupérer le code
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # 2️⃣ Configurer Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install deps
-        run: pip install -r requirements.txt
+      # 3️⃣ Installer les dépendances
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Run ETL
-        env:
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
-        run: python main.py
+      # 4️⃣ Exécuter l’ETL
+      - name: Run ETL and detect new rows
+        id: run_etl
+        run: |
+          echo "Starting ETL..."
+          python main.py
+          # Compter le nombre de nouvelles lignes ajoutées dans la dernière heure
+          NEW_COUNT=$(psql "$DATABASE_URL" -t -c "SELECT COUNT(*) FROM articles WHERE scraped_at > NOW() - INTERVAL '1 hour';")
+          NEW_COUNT=$(echo $NEW_COUNT | xargs)  # retire espaces
+          echo "New records in the last hour: $NEW_COUNT"
+          echo "new_records=$NEW_COUNT" >> $GITHUB_OUTPUT
+
+      # 5️⃣ Afficher un message si nouvelles données
+      - name: Log result
+        run: |
+          if [ "${{ steps.run_etl.outputs.new_records }}" -gt 0 ]; then
+            echo "✅ New data loaded in this run: ${{ steps.run_etl.outputs.new_records }} records"
+          else
+            echo "ℹ️ No new data loaded in the last hour."
+          fi
