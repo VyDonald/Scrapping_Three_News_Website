@@ -1,82 +1,156 @@
-# etl/load.py
-import pandas as pd
-from sqlalchemy import (
-    create_engine, Table, Column,
-    Integer, String, Float, DateTime, MetaData
-)
-from config.logger import setup_logger
+import os
+from sqlalchemy import create_engine, text
+from sqlalchemy.dialects.postgresql import insert
+from sqlalchemy.orm import sessionmaker
+from dotenv import load_dotenv
 
+import pandas as pd
+from config.logger import setup_logger
+load_dotenv()
 logger = setup_logger()
 
-# =========================
-# 1️⃣ Connexion MySQL
-# =========================
+# =============================
+# DATABASE CONNECTION
+# =============================
+
+DATABASE_URL = os.getenv("DATABASE_URL")
+
 engine = create_engine(
-    "mysql+pymysql://davy:password123@localhost/First_Data",
-    echo=True  # affiche les requêtes SQL (debug)
+    DATABASE_URL,
+    pool_pre_ping=True
 )
 
-metadata = MetaData()
+Session = sessionmaker(bind=engine)
 
-# =========================
-# 2️⃣ Définition de la table
-# =========================
-weather_table = Table(
-    "weather_data",
-    metadata,
 
-    Column("id", Integer, primary_key=True, autoincrement=True),
-    Column("ville", String(50), nullable=False),
-    Column("pays", String(5), nullable=False),
+# =============================
+# LOAD FUNCTION
+# =============================
 
-    Column("temp", Float),
-    Column("temp_min", Float),
-    Column("temp_max", Float),
-    Column("humidite", Integer),
-    Column("description", String(100)),
-    Column("vitesse_vent", Float),
-
-    Column("scrape_date", DateTime, nullable=False)
-)
-
-# =========================
-# 3️⃣ Création de la table
-# =========================
-def create_table():
-    logger.info("[LOAD] Creating table if not exists")
-    metadata.create_all(engine)
-    logger.info("[LOAD] Table ready")
-
-# =========================
-# 4️⃣ Chargement des données
-# =========================
 def load_to_db(df: pd.DataFrame):
+
+    logger.info("[LOAD] Starting load process")
+
+    session = Session()
+
     try:
-        logger.info("[LOAD] Starting load to MySQL")
 
-        df["scrape_date"] = pd.to_datetime(df["scrape_date"])
+        for _, row in df.iterrows():
 
-        df.to_sql(
-            "weather_data",
-            con=engine,
-            if_exists="append",
-            index=False,
-            method="multi"
-        )
+            # -----------------------------
+            # 1️⃣ UPSERT SOURCE
+            # -----------------------------
+            source_stmt = insert_source(row["source"])
+            result = session.execute(source_stmt)
+            source_id = result.scalar()
 
-        logger.info(f"[LOAD] {len(df)} rows inserted successfully")
-        df.to_csv("data_clean/loaded_data.csv", index=False)
-        df.to_json("data_clean/loaded_data.json", orient="records", lines=True)
-    except Exception:
+
+            # -----------------------------
+            # 2️⃣ UPSERT AUTHOR
+            # -----------------------------
+            author_stmt = insert_author(row["auteur"])
+            result = session.execute(author_stmt)
+            author_id = result.scalar()
+
+
+            # -----------------------------
+            # 3️⃣ UPSERT ARTICLE
+            # -----------------------------
+            article_stmt = insert_article(
+                row=row,
+                source_id=source_id,
+                author_id=author_id
+            )
+
+            session.execute(article_stmt)
+
+        session.commit()
+        logger.info(f"[LOAD] Successfully loaded {len(df)} records")
+
+    except Exception as e:
+        session.rollback()
         logger.exception("[LOAD] Error during loading")
         raise
 
+    finally:
+        session.close()
 
-# =========================
-# 🔥 TEST LOCAL UNIQUEMENT
-# =========================
+
+# =============================
+# UPSERT HELPERS
+# =============================
+
+def insert_source(source_name: str):
+
+    stmt = text("""
+        INSERT INTO sources (name)
+        VALUES (:name)
+        ON CONFLICT (name)
+        DO UPDATE SET name = EXCLUDED.name
+        RETURNING id;
+    """)
+
+    return stmt.bindparams(name=source_name)
+
+
+def insert_author(author_name: str):
+
+    stmt = text("""
+        INSERT INTO authors (name)
+        VALUES (:name)
+        ON CONFLICT (name)
+        DO UPDATE SET name = EXCLUDED.name
+        RETURNING id;
+    """)
+
+    return stmt.bindparams(name=author_name)
+
+
+def insert_article(row, source_id, author_id):
+
+    stmt = text("""
+        INSERT INTO articles (
+            id,
+            title,
+            url,
+            source_id,
+            author_id,
+            published_at,
+            scraped_at
+        )
+        VALUES (
+            :id,
+            :title,
+            :url,
+            :source_id,
+            :author_id,
+            :published_at,
+            :scraped_at
+        )
+        ON CONFLICT (id)
+        DO UPDATE SET
+            title = EXCLUDED.title,
+            scraped_at = EXCLUDED.scraped_at;
+    """)
+
+    return stmt.bindparams(
+        id=row["id"],
+        title=row["title"],
+        url=row["lien"],
+        source_id=source_id,
+        author_id=author_id,
+        published_at=row["date"],
+        scraped_at=row["scraped_at"]
+    )
 if __name__ == "__main__":
-    create_table()
-
-    df = pd.read_csv("data_clean/clean.csv")
-    load_to_db(df)
+    # Test local uniquement
+    df_test = pd.DataFrame({
+        "id": ["test123"],
+        "title": ["Test Article"],
+        "lien": ["https://example.com/test-article"],
+        "source": ["Test Source"],
+        "auteur": ["Test Author"],
+        "date": [pd.Timestamp("2024-01-01T12:00:00Z")],
+        "scraped_at": [pd.Timestamp.utcnow()]
+    })
+    load_to_db(df_test)

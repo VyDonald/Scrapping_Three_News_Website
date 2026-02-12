@@ -1,5 +1,75 @@
 [
     {
+        "title": "xAI lays out interplanetary ambitions in public all-hands",
+        "lien": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+        "date": "2026-02-11T15:29:08-08:00",
+        "auteur": "Russell Brandom",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+        "lien": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
+        "date": "2026-02-11T14:48:35-08:00",
+        "auteur": "Marina Temkin",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "OpenAI disbands mission alignment team",
+        "lien": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+        "date": "2026-02-11T13:57:18-08:00",
+        "auteur": "Lucas Ropek",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Apple\u2019s Siri revamp reportedly delayed\u2026 again",
+        "lien": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+        "date": "2026-02-11T13:19:46-08:00",
+        "auteur": "Amanda Silberling",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Uber Eats launches AI assistant to help with grocery cart creation",
+        "lien": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+        "date": "2026-02-11T13:07:37-08:00",
+        "auteur": "Lauren Forristal",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+        "lien": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+        "date": "2026-02-11T12:47:00-08:00",
+        "auteur": "Rebecca Bellan",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
+        "lien": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
+        "date": "2026-02-11T12:46:40-08:00",
+        "auteur": "Zack Whittaker",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "How to get into a16z\u2019s super-competitive Speedrun startup accelerator program",
+        "lien": "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
+        "date": "2026-02-11T11:58:01-08:00",
+        "auteur": "Dominic-Madori Davis",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Cash App adds payment links so you can get paid in a DM",
+        "lien": "https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/",
+        "date": "2026-02-11T11:50:41-08:00",
+        "auteur": "Lucas Ropek",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Amazon\u2019s new eero Signal keeps you connected to the internet when outages occur",
+        "lien": "https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur/",
+        "date": "2026-02-11T11:30:14-08:00",
+        "auteur": "Sarah Perez",
+        "source": "TechCrunch"
+    },
+    {
         "title": "The search is on: 2026 Joseph C. Belden Innovation Award nominations are open",
         "lien": "https://techcrunch.com/2026/02/11/the-search-is-on-2026-joseph-c-belden-innovation-award-nominations-are-open/",
         "date": "2026-02-11T11:30:00-08:00",
@@ -70,45 +140,52 @@
         "source": "TechCrunch"
     },
     {
-        "title": "Upside Robotics is reducing fertilizer use and waste in corn crops",
-        "lien": "https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/",
+        "title": "The first signs of burnout are coming from the people who embrace AI the most",
+        "lien": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
         "date": "2026-02-11T08:00:00-08:00",
-        "auteur": "Rebecca Szkutak",
+        "auteur": "Connie Loizos",
         "source": "TechCrunch"
     },
     {
-        "title": "Amazon Pharmacy to expand same-day delivery to nearly 4,500 US cities",
-        "lien": "https://techcrunch.com/2026/02/11/amazon-pharmacy-to-expand-same-day-delivery-to-nearly-4500-us-cities/",
-        "date": "2026-02-11T07:46:26-08:00",
-        "auteur": "Aisha Malik",
+        "title": "MrBeast\u2019s company buys Gen Z-focused fintech app Step",
+        "lien": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
+        "date": "2026-02-11T08:00:00-08:00",
+        "auteur": "Amanda Silberling",
         "source": "TechCrunch"
     },
     {
-        "title": "Build a pipeline and close deals with an exhibit table at TechCrunch Disrupt 2026",
-        "lien": "https://techcrunch.com/2026/02/11/build-a-pipeline-and-close-deals-with-an-exhibit-table-at-techcrunch-disrupt-2026/",
-        "date": "2026-02-11T07:00:00-08:00",
-        "auteur": "TechCrunch Events",
+        "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
+        "lien": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+        "date": "2026-02-11T08:00:00-08:00",
+        "auteur": "Kate Park",
         "source": "TechCrunch"
     },
     {
-        "title": "TikTok launches an opt-in Local Feed in the US leveraging users\u2019 precise location",
-        "lien": "https://techcrunch.com/2026/02/11/tiktok-launches-an-opt-in-local-feed-in-the-u-s-leveraging-users-precise-location/",
-        "date": "2026-02-11T06:40:55-08:00",
+        "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
+        "lien": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
+        "date": "2026-02-11T08:00:00-08:00",
         "auteur": "Sarah Perez",
         "source": "TechCrunch"
     },
     {
-        "title": "Integrate raises $17M to move defense project management into the 21st century",
-        "lien": "https://techcrunch.com/2026/02/11/integrate-raises-17m-to-move-defense-project-management-into-the-21st-century/",
-        "date": "2026-02-11T06:21:28-08:00",
-        "auteur": "Marina Temkin",
+        "title": "Discord to roll out age verification next month",
+        "lien": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
+        "date": "2026-02-11T08:00:00-08:00",
+        "auteur": "Aisha Malik",
         "source": "TechCrunch"
     },
     {
-        "title": "Complyance raises $20M to help companies manage risk and compliance",
-        "lien": "https://techcrunch.com/2026/02/11/complyance-raises-20m-to-help-companies-manage-risk-and-compliance/",
-        "date": "2026-02-11T06:00:00-08:00",
-        "auteur": "Dominic-Madori Davis",
+        "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+        "lien": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+        "date": "2026-02-11T08:00:00-08:00",
+        "auteur": "Lauren Forristal",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
+        "lien": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+        "date": "2026-02-11T08:00:00-08:00",
+        "auteur": "Amanda Silberling",
         "source": "TechCrunch"
     },
     {
@@ -137,55 +214,6 @@
         "lien": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
         "date": "2026-02-10T21:23:26-08:00",
         "auteur": "Connie Loizos",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "The first signs of burnout are coming from the people who embrace AI the most",
-        "lien": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
-        "date": "2026-02-10T21:23:26-08:00",
-        "auteur": "Connie Loizos",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "MrBeast\u2019s company buys Gen Z-focused fintech app Step",
-        "lien": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
-        "date": "2026-02-10T21:23:26-08:00",
-        "auteur": "Amanda Silberling",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
-        "lien": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
-        "date": "2026-02-10T21:23:26-08:00",
-        "auteur": "Sarah Perez",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "Discord to roll out age verification next month",
-        "lien": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
-        "date": "2026-02-10T21:23:26-08:00",
-        "auteur": "Aisha Malik",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-        "lien": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-        "date": "2026-02-10T21:23:26-08:00",
-        "auteur": "Lauren Forristal",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over \u2018CIA activities\u2019",
-        "lien": "https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/",
-        "date": "2026-02-10T21:23:26-08:00",
-        "auteur": "Zack Whittaker",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
-        "lien": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
-        "date": "2026-02-10T21:23:26-08:00",
-        "auteur": "Amanda Silberling",
         "source": "TechCrunch"
     },
     {
@@ -301,10 +329,52 @@
         "source": "TechCrunch"
     },
     {
-        "title": "Hauler Hero collects $16M for its AI waste management software",
-        "lien": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
-        "date": "2026-02-10T07:00:00-08:00",
-        "auteur": "Rebecca Szkutak",
+        "title": "The first signs of burnout are coming from the people who embrace AI the most",
+        "lien": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
+        "date": "2026-02-10T07:06:26-08:00",
+        "auteur": "Connie Loizos",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "MrBeast\u2019s company buys Gen Z-focused fintech app Step",
+        "lien": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
+        "date": "2026-02-10T07:06:26-08:00",
+        "auteur": "Amanda Silberling",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
+        "lien": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+        "date": "2026-02-10T07:06:26-08:00",
+        "auteur": "Kate Park",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
+        "lien": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
+        "date": "2026-02-10T07:06:26-08:00",
+        "auteur": "Sarah Perez",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Discord to roll out age verification next month",
+        "lien": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
+        "date": "2026-02-10T07:06:26-08:00",
+        "auteur": "Aisha Malik",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+        "lien": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+        "date": "2026-02-10T07:06:26-08:00",
+        "auteur": "Lauren Forristal",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
+        "lien": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+        "date": "2026-02-10T07:06:26-08:00",
+        "auteur": "Amanda Silberling",
         "source": "TechCrunch"
     },
     {
@@ -326,55 +396,6 @@
         "lien": "https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/",
         "date": "2026-02-10T06:00:14-08:00",
         "auteur": "Ivan Mehta",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "The first signs of burnout are coming from the people who embrace AI the most",
-        "lien": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
-        "date": "2026-02-10T06:00:14-08:00",
-        "auteur": "Connie Loizos",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "MrBeast\u2019s company buys Gen Z-focused fintech app Step",
-        "lien": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
-        "date": "2026-02-10T06:00:14-08:00",
-        "auteur": "Amanda Silberling",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
-        "lien": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
-        "date": "2026-02-10T06:00:14-08:00",
-        "auteur": "Sarah Perez",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "Discord to roll out age verification next month",
-        "lien": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
-        "date": "2026-02-10T06:00:14-08:00",
-        "auteur": "Aisha Malik",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-        "lien": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-        "date": "2026-02-10T06:00:14-08:00",
-        "auteur": "Lauren Forristal",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over \u2018CIA activities\u2019",
-        "lien": "https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/",
-        "date": "2026-02-10T06:00:14-08:00",
-        "auteur": "Zack Whittaker",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
-        "lien": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
-        "date": "2026-02-10T06:00:14-08:00",
-        "auteur": "Amanda Silberling",
         "source": "TechCrunch"
     },
     {
@@ -497,17 +518,52 @@
         "source": "TechCrunch"
     },
     {
-        "title": "Lyft opens its ride-hailing app to teens",
-        "lien": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
-        "date": "2026-02-09T10:05:32-08:00",
-        "auteur": "Kirsten Korosec",
+        "title": "The first signs of burnout are coming from the people who embrace AI the most",
+        "lien": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
+        "date": "2026-02-09T10:15:08-08:00",
+        "auteur": "Connie Loizos",
         "source": "TechCrunch"
     },
     {
-        "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
-        "lien": "https://techcrunch.com/2026/02/09/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/",
-        "date": "2026-02-09T10:05:00-08:00",
-        "auteur": "Lorenzo Franceschi-Bicchierai",
+        "title": "MrBeast\u2019s company buys Gen Z-focused fintech app Step",
+        "lien": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
+        "date": "2026-02-09T10:15:08-08:00",
+        "auteur": "Amanda Silberling",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
+        "lien": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+        "date": "2026-02-09T10:15:08-08:00",
+        "auteur": "Kate Park",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
+        "lien": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
+        "date": "2026-02-09T10:15:08-08:00",
+        "auteur": "Sarah Perez",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Discord to roll out age verification next month",
+        "lien": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
+        "date": "2026-02-09T10:15:08-08:00",
+        "auteur": "Aisha Malik",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+        "lien": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+        "date": "2026-02-09T10:15:08-08:00",
+        "auteur": "Lauren Forristal",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
+        "lien": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+        "date": "2026-02-09T10:15:08-08:00",
+        "auteur": "Amanda Silberling",
         "source": "TechCrunch"
     },
     {
@@ -515,55 +571,6 @@
         "lien": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
         "date": "2026-02-09T09:37:23-08:00",
         "auteur": "Tim Fernholz",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "The first signs of burnout are coming from the people who embrace AI the most",
-        "lien": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
-        "date": "2026-02-09T09:37:23-08:00",
-        "auteur": "Connie Loizos",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "MrBeast\u2019s company buys Gen Z-focused fintech app Step",
-        "lien": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
-        "date": "2026-02-09T09:37:23-08:00",
-        "auteur": "Amanda Silberling",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
-        "lien": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
-        "date": "2026-02-09T09:37:23-08:00",
-        "auteur": "Sarah Perez",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "Discord to roll out age verification next month",
-        "lien": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
-        "date": "2026-02-09T09:37:23-08:00",
-        "auteur": "Aisha Malik",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-        "lien": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-        "date": "2026-02-09T09:37:23-08:00",
-        "auteur": "Lauren Forristal",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over \u2018CIA activities\u2019",
-        "lien": "https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/",
-        "date": "2026-02-09T09:37:23-08:00",
-        "auteur": "Zack Whittaker",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
-        "lien": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
-        "date": "2026-02-09T09:37:23-08:00",
-        "auteur": "Amanda Silberling",
         "source": "TechCrunch"
     },
     {
@@ -700,58 +707,51 @@
         "source": "TechCrunch"
     },
     {
-        "title": "Benchmark raises $225M in special funds to double down on Cerebras",
-        "lien": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
-        "date": "2026-02-06T21:23:04-08:00",
-        "auteur": "Marina Temkin",
-        "source": "TechCrunch"
-    },
-    {
         "title": "The first signs of burnout are coming from the people who embrace AI the most",
         "lien": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
-        "date": "2026-02-06T21:23:04-08:00",
+        "date": "2026-02-07T10:23:04-08:00",
         "auteur": "Connie Loizos",
         "source": "TechCrunch"
     },
     {
         "title": "MrBeast\u2019s company buys Gen Z-focused fintech app Step",
         "lien": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
-        "date": "2026-02-06T21:23:04-08:00",
+        "date": "2026-02-07T10:23:04-08:00",
         "auteur": "Amanda Silberling",
         "source": "TechCrunch"
     },
     {
         "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
         "lien": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
-        "date": "2026-02-06T21:23:04-08:00",
+        "date": "2026-02-07T10:23:04-08:00",
         "auteur": "Sarah Perez",
         "source": "TechCrunch"
     },
     {
         "title": "Discord to roll out age verification next month",
         "lien": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
-        "date": "2026-02-06T21:23:04-08:00",
+        "date": "2026-02-07T10:23:04-08:00",
         "auteur": "Aisha Malik",
         "source": "TechCrunch"
     },
     {
         "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
         "lien": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-        "date": "2026-02-06T21:23:04-08:00",
+        "date": "2026-02-07T10:23:04-08:00",
         "auteur": "Lauren Forristal",
         "source": "TechCrunch"
     },
     {
         "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over \u2018CIA activities\u2019",
         "lien": "https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/",
-        "date": "2026-02-06T21:23:04-08:00",
+        "date": "2026-02-07T10:23:04-08:00",
         "auteur": "Zack Whittaker",
         "source": "TechCrunch"
     },
     {
         "title": "The backlash over OpenAI\u2019s decision to retire GPT-4o shows how dangerous AI companions can be",
         "lien": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
-        "date": "2026-02-06T21:23:04-08:00",
+        "date": "2026-02-07T10:23:04-08:00",
         "auteur": "Amanda Silberling",
         "source": "TechCrunch"
     },
@@ -945,80 +945,94 @@
         "source": "TechCrunch"
     },
     {
-        "title": "\u2018Shut up and focus on the mission\u2019: Tech workers are frustrated by their companies\u2019 silence about ICE",
-        "lien": "https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott",
-        "date": "2026-02-11T11:00:00+00:00",
-        "auteur": "Hayden Field",
+        "title": "Jeffrey Epstein might not have created /pol/, but he helped carry out its mission",
+        "lien": "https://www.theverge.com/tech/877903/jeffrey-epstein-4chan-pol-moot",
+        "date": "2026-02-12T18:30:00+00:00",
+        "auteur": "Kat Tenbarge",
         "source": "The Verge"
     },
     {
-        "title": "\u2018Shut up and focus on the mission\u2019: Tech workers are frustrated by their companies\u2019 silence about ICE",
-        "lien": "https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott",
-        "date": "2026-02-11T11:00:00+00:00",
-        "auteur": "Hayden Field",
+        "title": "Jeffrey Epstein might not have created /pol/, but he helped carry out its mission",
+        "lien": "https://www.theverge.com/tech/877903/jeffrey-epstein-4chan-pol-moot",
+        "date": "2026-02-12T18:30:00+00:00",
+        "auteur": "Kat Tenbarge",
         "source": "The Verge"
     },
     {
-        "title": "Why I wish I hadn\u2019t bought my Samsung OLED TV",
-        "lien": "https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen",
-        "date": "2026-02-11T21:39:06+00:00",
-        "auteur": "Sean Hollister",
+        "title": "Every little thing she does is magic",
+        "lien": "https://www.theverge.com/tech/877290/3d-animation-stop-motion-cinema-4d-woman-creator-witch",
+        "date": "2026-02-12T17:00:00+00:00",
+        "auteur": "Cath Virginia",
         "source": "The Verge"
     },
     {
-        "title": "Why I wish I hadn\u2019t bought my Samsung OLED TV",
-        "lien": "https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen",
-        "date": "2026-02-11T21:39:06+00:00",
-        "auteur": "Sean Hollister",
+        "title": "Every little thing she does is magic",
+        "lien": "https://www.theverge.com/tech/877290/3d-animation-stop-motion-cinema-4d-woman-creator-witch",
+        "date": "2026-02-12T17:00:00+00:00",
+        "auteur": "Cath Virginia",
         "source": "The Verge"
     },
     {
-        "title": "The Halide app\u2019s anti-algorithm camera mode looks better with a little processing",
-        "lien": "https://www.theverge.com/tech/875919/halide-mark-iii-process-zero-hands-on",
-        "date": "2026-02-11T14:00:00+00:00",
-        "auteur": "Allison Johnson",
-        "source": "The Verge"
-    },
-    {
-        "title": "The Halide app\u2019s anti-algorithm camera mode looks better with a little processing",
-        "lien": "https://www.theverge.com/tech/875919/halide-mark-iii-process-zero-hands-on",
-        "date": "2026-02-11T14:00:00+00:00",
-        "auteur": "Allison Johnson",
-        "source": "The Verge"
-    },
-    {
-        "title": "Pokopia turns the Pok\u00e9mon world into a relaxing, human-free paradise",
-        "lien": "https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview",
-        "date": "2026-02-11T14:00:00+00:00",
-        "auteur": "Charles Pulliam-Moore",
-        "source": "The Verge"
-    },
-    {
-        "title": "Pokopia turns the Pok\u00e9mon world into a relaxing, human-free paradise",
-        "lien": "https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview",
-        "date": "2026-02-11T14:00:00+00:00",
-        "auteur": "Charles Pulliam-Moore",
-        "source": "The Verge"
-    },
-    {
-        "title": "Reanimal wants to devour you",
-        "lien": "https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam",
-        "date": "2026-02-11T16:00:00+00:00",
-        "auteur": "Lewis Gordon",
-        "source": "The Verge"
-    },
-    {
-        "title": "Reanimal wants to devour you",
-        "lien": "https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam",
-        "date": "2026-02-11T16:00:00+00:00",
-        "auteur": "Lewis Gordon",
-        "source": "The Verge"
-    },
-    {
-        "title": "Amazon Ring\u2019s lost dog ad sparks backlash amid fears of mass surveillance",
-        "lien": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-        "date": "2026-02-11T01:17:36",
+        "title": "Why \u2018deleted\u2019 doesn\u2019t mean gone: How police recovered Nancy Guthrie\u2019s Nest Doorbell footage",
+        "lien": "https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage",
+        "date": "2026-02-11T18:00:33+00:00",
         "auteur": "Jennifer Pattison Tuohy",
+        "source": "The Verge"
+    },
+    {
+        "title": "Why \u2018deleted\u2019 doesn\u2019t mean gone: How police recovered Nancy Guthrie\u2019s Nest Doorbell footage",
+        "lien": "https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage",
+        "date": "2026-02-11T18:00:33+00:00",
+        "auteur": "Jennifer Pattison Tuohy",
+        "source": "The Verge"
+    },
+    {
+        "title": "The surprising case for AI judges",
+        "lien": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+        "date": "2026-02-12T16:22:33+00:00",
+        "auteur": "Nilay Patel",
+        "source": "The Verge"
+    },
+    {
+        "title": "The surprising case for AI judges",
+        "lien": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+        "date": "2026-02-12T16:22:33+00:00",
+        "auteur": "Nilay Patel",
+        "source": "The Verge"
+    },
+    {
+        "title": "Why I wish I hadn\u2019t bought my Samsung OLED TV",
+        "lien": "https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen",
+        "date": "2026-02-11T21:39:06+00:00",
+        "auteur": "Sean Hollister",
+        "source": "The Verge"
+    },
+    {
+        "title": "Why I wish I hadn\u2019t bought my Samsung OLED TV",
+        "lien": "https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen",
+        "date": "2026-02-11T21:39:06+00:00",
+        "auteur": "Sean Hollister",
+        "source": "The Verge"
+    },
+    {
+        "title": "In one swoop, Trump kills US greenhouse gas regulations",
+        "lien": "https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change",
+        "date": "2026-02-12T19:35:41+00:00",
+        "auteur": "Justine Calma",
+        "source": "The Verge"
+    },
+    {
+        "title": "Two powerful, OLED-equipped gaming laptops are hundreds off",
+        "lien": "https://www.theverge.com/gadgets/878209/asus-acer-oled-rtx-5070ti-gaming-laptop-deal-sale",
+        "date": "2026-02-12T19:10:12+00:00",
+        "auteur": "Cameron Faulkner",
+        "source": "The Verge"
+    },
+    {
+        "title": "Eufy\u2019s midrange X10 Pro Omni robovac has fallen to its best-ever price",
+        "lien": "https://www.theverge.com/gadgets/877673/eufy-x10-pro-omni-nothing-phone-3-deal-sale",
+        "date": "2026-02-12T18:59:21+00:00",
+        "auteur": "Brandon Widder",
         "source": "The Verge"
     },
     {
@@ -1029,10 +1043,59 @@
         "source": "The Verge"
     },
     {
-        "title": "Discord will require a face scan or ID for full access next month",
-        "lien": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-        "date": "2026-02-09T14:01:00",
-        "auteur": "Stevie Bonifield",
+        "title": "Amazon Ring\u2019s lost dog ad sparks backlash amid fears of mass surveillance",
+        "lien": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+        "date": "2026-02-11T01:17:36",
+        "auteur": "Jennifer Pattison Tuohy",
+        "source": "The Verge"
+    },
+    {
+        "title": "ICE is pushing Minneapolis underground",
+        "lien": "https://www.theverge.com/policy/877106/minneapolis-ice-cbp-occupation-immigration-raid-mutual-aid",
+        "date": "2026-02-12T11:00:00",
+        "auteur": "Gaby Del Valle",
+        "source": "The Verge"
+    },
+    {
+        "title": "Samsung\u2019s offering up to $900 of trade-in credit toward its new phones",
+        "lien": "https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai",
+        "date": "2026-02-11T18:55:36",
+        "auteur": "Cameron Faulkner",
+        "source": "The Verge"
+    },
+    {
+        "title": "Why \u2018deleted\u2019 doesn\u2019t mean gone: How police recovered Nancy Guthrie\u2019s Nest Doorbell footage",
+        "lien": "https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage",
+        "date": "2026-02-11T18:00:33",
+        "auteur": "Jennifer Pattison Tuohy",
+        "source": "The Verge"
+    },
+    {
+        "title": "Top DOJ antitrust enforcer is out weeks before Live Nation trial",
+        "lien": "https://www.theverge.com/policy/878163/doj-antitrust-chief-gail-slater-departs",
+        "date": "2026-02-12T17:38:22+00:00",
+        "auteur": "Lauren Feiner",
+        "source": "The Verge"
+    },
+    {
+        "title": "El Paso airspace closure was reportedly triggered by the CBP\u2019s use of an anti-drone laser",
+        "lien": "https://www.theverge.com/policy/878108/el-paso-airspace-closure-cbp-anti-drone-laser",
+        "date": "2026-02-12T17:02:08+00:00",
+        "auteur": "Emma Roth",
+        "source": "The Verge"
+    },
+    {
+        "title": "YouTube is coming to the Apple Vision Pro",
+        "lien": "https://www.theverge.com/tech/878097/youtube-apple-vision-pro-visionos-app",
+        "date": "2026-02-12T17:00:00+00:00",
+        "auteur": "Jay Peters",
+        "source": "The Verge"
+    },
+    {
+        "title": "How Gorilla Tag is weathering the VR winter",
+        "lien": "https://www.theverge.com/column/877473/gorilla-tag-vr-winter-quest",
+        "date": "2026-02-12T16:30:00+00:00",
+        "auteur": "Janko Roettgers",
         "source": "The Verge"
     },
     {
@@ -1043,10 +1106,136 @@
         "source": "The Verge"
     },
     {
-        "title": "The Toyota Highlander is now a three-row electric SUV with 320 miles of range",
-        "lien": "https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs",
-        "date": "2026-02-11T02:30:00",
+        "title": "Discord will require a face scan or ID for full access next month",
+        "lien": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+        "date": "2026-02-09T14:01:00",
+        "auteur": "Stevie Bonifield",
+        "source": "The Verge"
+    },
+    {
+        "title": "Spider-Noir looks like a hard-boiled thriller in first trailer",
+        "lien": "https://www.theverge.com/entertainment/877922/spider-noir-trailer-release-date-amazon-mgm-plus",
+        "date": "2026-02-12T16:01:26",
+        "auteur": "Charles Pulliam-Moore",
+        "source": "The Verge"
+    },
+    {
+        "title": "iOS 26.3 makes it easier to switch to Android",
+        "lien": "https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android",
+        "date": "2026-02-11T23:19:08",
+        "auteur": "Stevie Bonifield",
+        "source": "The Verge"
+    },
+    {
+        "title": "\u2018Shut up and focus on the mission\u2019: Tech workers are frustrated by their companies\u2019 silence about ICE",
+        "lien": "https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott",
+        "date": "2026-02-11T11:00:00",
+        "auteur": "Hayden Field",
+        "source": "The Verge"
+    },
+    {
+        "title": "DHS announces the end of its \u2018surge operation\u2019 in Minneapolis, but not entirely",
+        "lien": "https://www.theverge.com/policy/878017/dhs-ends-minneapolis-operation-metro-surge-tom-homan",
+        "date": "2026-02-12T16:11:31+00:00",
+        "auteur": "Gaby Del Valle",
+        "source": "The Verge"
+    },
+    {
+        "title": "Spider-Noir looks like a hard-boiled thriller in first trailer",
+        "lien": "https://www.theverge.com/entertainment/877922/spider-noir-trailer-release-date-amazon-mgm-plus",
+        "date": "2026-02-12T16:01:26+00:00",
+        "auteur": "Charles Pulliam-Moore",
+        "source": "The Verge"
+    },
+    {
+        "title": "Waymo\u2019s next-gen robotaxi is ready for passengers \u2014 and also \u2018high-volume production\u2019",
+        "lien": "https://www.theverge.com/transportation/877902/waymo-sixth-generation-robotaxi-ojai-hyundai-sensors-cost",
+        "date": "2026-02-12T16:00:00+00:00",
         "auteur": "Andrew J. Hawkins",
+        "source": "The Verge"
+    },
+    {
+        "title": "ByteDance\u2019s next-gen AI model can generate clips based on text, images, audio, and video",
+        "lien": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
+        "date": "2026-02-12T15:26:00+00:00",
+        "auteur": "Emma Roth",
+        "source": "The Verge"
+    },
+    {
+        "title": "Reanimal wants to devour you",
+        "lien": "https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam",
+        "date": "2026-02-11T16:00:00+00:00",
+        "auteur": "Lewis Gordon",
+        "source": "The Verge"
+    },
+    {
+        "title": "Pokopia turns the Pok\u00e9mon world into a relaxing, human-free paradise",
+        "lien": "https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview",
+        "date": "2026-02-11T14:00:00+00:00",
+        "auteur": "Charles Pulliam-Moore",
+        "source": "The Verge"
+    },
+    {
+        "title": "Amazon\u2019s Send to Alexa Plus makes the Kindle Scribe feel more like a productivity device",
+        "lien": "https://www.theverge.com/gadgets/877625/amazon-send-to-alexa-plus-kindle-scribe-hands-on",
+        "date": "2026-02-12T14:04:48+00:00",
+        "auteur": "Sheena Vasani",
+        "source": "The Verge"
+    },
+    {
+        "title": "This $7,999 robot will fold (some of) your laundry",
+        "lien": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry",
+        "date": "2026-02-12T12:59:06+00:00",
+        "auteur": "Robert Hart",
+        "source": "The Verge"
+    },
+    {
+        "title": "Discord\u2019s age verification mandate is a leap toward a gated internet",
+        "lien": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
+        "date": "2026-02-10T13:00:00+00:00",
+        "auteur": "Emma Roth",
+        "source": "The Verge"
+    },
+    {
+        "title": "Eufy\u2019s midrange X10 Pro Omni robovac has fallen to its best-ever price",
+        "lien": "https://www.theverge.com/gadgets/877673/eufy-x10-pro-omni-nothing-phone-3-deal-sale",
+        "date": "2026-02-12T18:59:21+00:00",
+        "auteur": "Brandon Widder",
+        "source": "The Verge"
+    },
+    {
+        "title": "The surprising case for AI judges",
+        "lien": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+        "date": "2026-02-12T16:22:33+00:00",
+        "auteur": "Nilay Patel",
+        "source": "The Verge"
+    },
+    {
+        "title": "Could the Trump Phone be a good phone?",
+        "lien": "https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast",
+        "date": "2026-02-10T13:30:00+00:00",
+        "auteur": "David Pierce",
+        "source": "The Verge"
+    },
+    {
+        "title": "Siemens CEO Roland Busch\u2019s mission to automate everything",
+        "lien": "https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs",
+        "date": "2026-02-09T15:00:00+00:00",
+        "auteur": "Nilay Patel",
+        "source": "The Verge"
+    },
+    {
+        "title": "How Epstein became a tech influencer",
+        "lien": "https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast",
+        "date": "2026-02-06T14:24:30+00:00",
+        "auteur": "David Pierce",
+        "source": "The Verge"
+    },
+    {
+        "title": "Reality is losing the deepfake war",
+        "lien": "https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels",
+        "date": "2026-02-05T15:00:00+00:00",
+        "auteur": "Nilay Patel",
         "source": "The Verge"
     },
     {
@@ -1071,10 +1260,52 @@
         "source": "The Verge"
     },
     {
-        "title": "Why \u2018deleted\u2019 doesn\u2019t mean gone: How police recovered Nancy Guthrie\u2019s Nest Doorbell footage",
-        "lien": "https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage",
-        "date": "2026-02-11T18:00:33",
+        "title": "How an \u2018icepocalypse\u2019 raises more questions about Meta\u2019s biggest data center project",
+        "lien": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
+        "date": "2026-02-11T14:06:11+00:00",
+        "auteur": "Justine Calma",
+        "source": "The Verge"
+    },
+    {
+        "title": "In one swoop, Trump kills US greenhouse gas regulations",
+        "lien": "https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change",
+        "date": "2026-02-12T19:35:41+00:00",
+        "auteur": "Justine Calma",
+        "source": "The Verge"
+    },
+    {
+        "title": "MrBeast just bought a banking app",
+        "lien": "https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app",
+        "date": "2026-02-09T22:14:13+00:00",
+        "auteur": "Stevie Bonifield",
+        "source": "The Verge"
+    },
+    {
+        "title": "Every little thing she does is magic",
+        "lien": "https://www.theverge.com/tech/877290/3d-animation-stop-motion-cinema-4d-woman-creator-witch",
+        "date": "2026-02-12T17:00:00+00:00",
+        "auteur": "Cath Virginia",
+        "source": "The Verge"
+    },
+    {
+        "title": "Why I wish I hadn\u2019t bought my Samsung OLED TV",
+        "lien": "https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen",
+        "date": "2026-02-11T21:39:06",
+        "auteur": "Sean Hollister",
+        "source": "The Verge"
+    },
+    {
+        "title": "Amazon Ring\u2019s lost dog ad sparks backlash amid fears of mass surveillance",
+        "lien": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+        "date": "2026-02-11T01:17:36",
         "auteur": "Jennifer Pattison Tuohy",
+        "source": "The Verge"
+    },
+    {
+        "title": "ICE is pushing Minneapolis underground",
+        "lien": "https://www.theverge.com/policy/877106/minneapolis-ice-cbp-occupation-immigration-raid-mutual-aid",
+        "date": "2026-02-12T11:00:00",
+        "auteur": "Gaby Del Valle",
         "source": "The Verge"
     },
     {
@@ -1085,6 +1316,41 @@
         "source": "The Verge"
     },
     {
+        "title": "Why \u2018deleted\u2019 doesn\u2019t mean gone: How police recovered Nancy Guthrie\u2019s Nest Doorbell footage",
+        "lien": "https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage",
+        "date": "2026-02-11T18:00:33",
+        "auteur": "Jennifer Pattison Tuohy",
+        "source": "The Verge"
+    },
+    {
+        "title": "Discord says \u2018vast majority\u2019 of users won\u2019t see its new age verification setup",
+        "lien": "https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference",
+        "date": "2026-02-10T20:17:27",
+        "auteur": "Stevie Bonifield",
+        "source": "The Verge"
+    },
+    {
+        "title": "Discord will require a face scan or ID for full access next month",
+        "lien": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+        "date": "2026-02-09T14:01:00",
+        "auteur": "Stevie Bonifield",
+        "source": "The Verge"
+    },
+    {
+        "title": "Spider-Noir looks like a hard-boiled thriller in first trailer",
+        "lien": "https://www.theverge.com/entertainment/877922/spider-noir-trailer-release-date-amazon-mgm-plus",
+        "date": "2026-02-12T16:01:26",
+        "auteur": "Charles Pulliam-Moore",
+        "source": "The Verge"
+    },
+    {
+        "title": "iOS 26.3 makes it easier to switch to Android",
+        "lien": "https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android",
+        "date": "2026-02-11T23:19:08",
+        "auteur": "Stevie Bonifield",
+        "source": "The Verge"
+    },
+    {
         "title": "\u2018Shut up and focus on the mission\u2019: Tech workers are frustrated by their companies\u2019 silence about ICE",
         "lien": "https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott",
         "date": "2026-02-11T11:00:00",
@@ -1092,17 +1358,94 @@
         "source": "The Verge"
     },
     {
-        "title": "Ferrari\u2019s first EV will have an interior designed by Jony Ive",
-        "lien": "https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos",
-        "date": "2026-02-09T17:45:42",
-        "auteur": "Andrew J. Hawkins",
+        "title": "Reanimal wants to devour you",
+        "lien": "https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam",
+        "date": "2026-02-11T16:00:00+00:00",
+        "auteur": "Lewis Gordon",
         "source": "The Verge"
     },
     {
-        "title": "ChatGPT\u2019s deep research tool adds a built-in document viewer so you can read its reports",
-        "lien": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
-        "date": "2026-02-10T23:02:32",
+        "title": "Pokopia turns the Pok\u00e9mon world into a relaxing, human-free paradise",
+        "lien": "https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview",
+        "date": "2026-02-11T14:00:00+00:00",
+        "auteur": "Charles Pulliam-Moore",
+        "source": "The Verge"
+    },
+    {
+        "title": "Discord\u2019s age verification mandate is a leap toward a gated internet",
+        "lien": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
+        "date": "2026-02-10T13:00:00+00:00",
         "auteur": "Emma Roth",
+        "source": "The Verge"
+    },
+    {
+        "title": "Eufy\u2019s midrange X10 Pro Omni robovac has fallen to its best-ever price",
+        "lien": "https://www.theverge.com/gadgets/877673/eufy-x10-pro-omni-nothing-phone-3-deal-sale",
+        "date": "2026-02-12T18:59:21+00:00",
+        "auteur": "Brandon Widder",
+        "source": "The Verge"
+    },
+    {
+        "title": "The surprising case for AI judges",
+        "lien": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+        "date": "2026-02-12T16:22:33+00:00",
+        "auteur": "Nilay Patel",
+        "source": "The Verge"
+    },
+    {
+        "title": "Could the Trump Phone be a good phone?",
+        "lien": "https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast",
+        "date": "2026-02-10T13:30:00+00:00",
+        "auteur": "David Pierce",
+        "source": "The Verge"
+    },
+    {
+        "title": "Siemens CEO Roland Busch\u2019s mission to automate everything",
+        "lien": "https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs",
+        "date": "2026-02-09T15:00:00+00:00",
+        "auteur": "Nilay Patel",
+        "source": "The Verge"
+    },
+    {
+        "title": "How Epstein became a tech influencer",
+        "lien": "https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast",
+        "date": "2026-02-06T14:24:30+00:00",
+        "auteur": "David Pierce",
+        "source": "The Verge"
+    },
+    {
+        "title": "Reality is losing the deepfake war",
+        "lien": "https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels",
+        "date": "2026-02-05T15:00:00+00:00",
+        "auteur": "Nilay Patel",
+        "source": "The Verge"
+    },
+    {
+        "title": "How an \u2018icepocalypse\u2019 raises more questions about Meta\u2019s biggest data center project",
+        "lien": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
+        "date": "2026-02-11T14:06:11+00:00",
+        "auteur": "Justine Calma",
+        "source": "The Verge"
+    },
+    {
+        "title": "In one swoop, Trump kills US greenhouse gas regulations",
+        "lien": "https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change",
+        "date": "2026-02-12T19:35:41+00:00",
+        "auteur": "Justine Calma",
+        "source": "The Verge"
+    },
+    {
+        "title": "MrBeast just bought a banking app",
+        "lien": "https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app",
+        "date": "2026-02-09T22:14:13+00:00",
+        "auteur": "Stevie Bonifield",
+        "source": "The Verge"
+    },
+    {
+        "title": "Every little thing she does is magic",
+        "lien": "https://www.theverge.com/tech/877290/3d-animation-stop-motion-cinema-4d-woman-creator-witch",
+        "date": "2026-02-12T17:00:00+00:00",
+        "auteur": "Cath Virginia",
         "source": "The Verge"
     },
     {
@@ -1124,20 +1467,6 @@
         "lien": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
         "date": "2026-02-11T21:08:36+00:00",
         "auteur": "Jay Peters",
-        "source": "The Verge"
-    },
-    {
-        "title": "Pokopia turns the Pok\u00e9mon world into a relaxing, human-free paradise",
-        "lien": "https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview",
-        "date": "2026-02-11T14:00:00+00:00",
-        "auteur": "Charles Pulliam-Moore",
-        "source": "The Verge"
-    },
-    {
-        "title": "Nintendo keeps filling in the gaps",
-        "lien": "https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever",
-        "date": "2026-02-10T14:00:00+00:00",
-        "auteur": "Andrew Webster",
         "source": "The Verge"
     },
     {
@@ -1169,20 +1498,6 @@
         "source": "The Verge"
     },
     {
-        "title": "Discord\u2019s age verification mandate is a leap toward a gated internet",
-        "lien": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
-        "date": "2026-02-10T13:00:00+00:00",
-        "auteur": "Emma Roth",
-        "source": "The Verge"
-    },
-    {
-        "title": "iOS 26.3 makes it easier to switch to Android",
-        "lien": "https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android",
-        "date": "2026-02-11T23:19:08+00:00",
-        "auteur": "Stevie Bonifield",
-        "source": "The Verge"
-    },
-    {
         "title": "Ableton Live is adding audio streaming for real-time musical collaboration",
         "lien": "https://www.theverge.com/entertainment/877243/ableton-live-12-4-link-audio",
         "date": "2026-02-11T17:49:04+00:00",
@@ -1194,41 +1509,6 @@
         "lien": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
         "date": "2026-02-11T17:20:45+00:00",
         "auteur": "Jess Weatherbed",
-        "source": "The Verge"
-    },
-    {
-        "title": "Could the Trump Phone be a good phone?",
-        "lien": "https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast",
-        "date": "2026-02-10T13:30:00+00:00",
-        "auteur": "David Pierce",
-        "source": "The Verge"
-    },
-    {
-        "title": "Siemens CEO Roland Busch\u2019s mission to automate everything",
-        "lien": "https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs",
-        "date": "2026-02-09T15:00:00+00:00",
-        "auteur": "Nilay Patel",
-        "source": "The Verge"
-    },
-    {
-        "title": "How Epstein became a tech influencer",
-        "lien": "https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast",
-        "date": "2026-02-06T14:24:30+00:00",
-        "auteur": "David Pierce",
-        "source": "The Verge"
-    },
-    {
-        "title": "Reality is losing the deepfake war",
-        "lien": "https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels",
-        "date": "2026-02-05T15:00:00+00:00",
-        "auteur": "Nilay Patel",
-        "source": "The Verge"
-    },
-    {
-        "title": "Millions of books died so Claude could live",
-        "lien": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
-        "date": "2026-02-03T15:19:28+00:00",
-        "auteur": "David Pierce",
         "source": "The Verge"
     },
     {
@@ -1253,17 +1533,10 @@
         "source": "The Verge"
     },
     {
-        "title": "How an \u2018icepocalypse\u2019 raises more questions about Meta\u2019s biggest data center project",
-        "lien": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
-        "date": "2026-02-11T14:06:11+00:00",
-        "auteur": "Justine Calma",
-        "source": "The Verge"
-    },
-    {
-        "title": "Anthropic says it\u2019ll try to keep its data centers from raising electricity costs",
-        "lien": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
-        "date": "2026-02-11T22:37:02+00:00",
-        "auteur": "Justine Calma",
+        "title": "Reanimal wants to devour you",
+        "lien": "https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam",
+        "date": "2026-02-11T16:00:00+00:00",
+        "auteur": "Lewis Gordon",
         "source": "The Verge"
     },
     {
@@ -1288,178 +1561,24 @@
         "source": "The Verge"
     },
     {
-        "title": "MrBeast just bought a banking app",
-        "lien": "https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app",
-        "date": "2026-02-09T22:14:13+00:00",
-        "auteur": "Stevie Bonifield",
-        "source": "The Verge"
-    },
-    {
-        "title": "TikTok launches Local Feeds in the US",
-        "lien": "https://www.theverge.com/tech/877161/tiktok-us-launches-local-feeds",
-        "date": "2026-02-11T16:32:36+00:00",
-        "auteur": "Stevie Bonifield",
-        "source": "The Verge"
-    },
-    {
-        "title": "Amazon Ring\u2019s lost dog ad sparks backlash amid fears of mass surveillance",
-        "lien": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-        "date": "2026-02-11T01:17:36",
-        "auteur": "Jennifer Pattison Tuohy",
-        "source": "The Verge"
-    },
-    {
-        "title": "Why I wish I hadn\u2019t bought my Samsung OLED TV",
-        "lien": "https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen",
-        "date": "2026-02-11T21:39:06",
-        "auteur": "Sean Hollister",
-        "source": "The Verge"
-    },
-    {
-        "title": "Discord will require a face scan or ID for full access next month",
-        "lien": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-        "date": "2026-02-09T14:01:00",
-        "auteur": "Stevie Bonifield",
-        "source": "The Verge"
-    },
-    {
-        "title": "Discord says \u2018vast majority\u2019 of users won\u2019t see its new age verification setup",
-        "lien": "https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference",
-        "date": "2026-02-10T20:17:27",
-        "auteur": "Stevie Bonifield",
-        "source": "The Verge"
-    },
-    {
-        "title": "The Toyota Highlander is now a three-row electric SUV with 320 miles of range",
-        "lien": "https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs",
-        "date": "2026-02-11T02:30:00",
-        "auteur": "Andrew J. Hawkins",
-        "source": "The Verge"
-    },
-    {
-        "title": "Why \u2018deleted\u2019 doesn\u2019t mean gone: How police recovered Nancy Guthrie\u2019s Nest Doorbell footage",
-        "lien": "https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage",
-        "date": "2026-02-11T18:00:33",
-        "auteur": "Jennifer Pattison Tuohy",
-        "source": "The Verge"
-    },
-    {
-        "title": "Samsung\u2019s offering up to $900 of trade-in credit toward its new phones",
-        "lien": "https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai",
-        "date": "2026-02-11T18:55:36",
-        "auteur": "Cameron Faulkner",
-        "source": "The Verge"
-    },
-    {
-        "title": "\u2018Shut up and focus on the mission\u2019: Tech workers are frustrated by their companies\u2019 silence about ICE",
-        "lien": "https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott",
-        "date": "2026-02-11T11:00:00",
-        "auteur": "Hayden Field",
-        "source": "The Verge"
-    },
-    {
-        "title": "Ferrari\u2019s first EV will have an interior designed by Jony Ive",
-        "lien": "https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos",
-        "date": "2026-02-09T17:45:42",
-        "auteur": "Andrew J. Hawkins",
-        "source": "The Verge"
-    },
-    {
-        "title": "ChatGPT\u2019s deep research tool adds a built-in document viewer so you can read its reports",
-        "lien": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
-        "date": "2026-02-10T23:02:32",
-        "auteur": "Emma Roth",
-        "source": "The Verge"
-    },
-    {
-        "title": "Pokopia turns the Pok\u00e9mon world into a relaxing, human-free paradise",
-        "lien": "https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview",
+        "title": "The Halide app\u2019s anti-algorithm camera mode looks better with a little processing",
+        "lien": "https://www.theverge.com/tech/875919/halide-mark-iii-process-zero-hands-on",
         "date": "2026-02-11T14:00:00+00:00",
-        "auteur": "Charles Pulliam-Moore",
+        "auteur": "Allison Johnson",
         "source": "The Verge"
     },
     {
-        "title": "Nintendo keeps filling in the gaps",
-        "lien": "https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever",
-        "date": "2026-02-10T14:00:00+00:00",
-        "auteur": "Andrew Webster",
+        "title": "El Paso flights resume after Mexican cartel drones reportedly trigger airspace closure",
+        "lien": "https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security",
+        "date": "2026-02-11T13:11:15+00:00",
+        "auteur": "Dominic Preston",
         "source": "The Verge"
     },
     {
-        "title": "Discord\u2019s age verification mandate is a leap toward a gated internet",
-        "lien": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
-        "date": "2026-02-10T13:00:00+00:00",
-        "auteur": "Emma Roth",
-        "source": "The Verge"
-    },
-    {
-        "title": "iOS 26.3 makes it easier to switch to Android",
-        "lien": "https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android",
-        "date": "2026-02-11T23:19:08+00:00",
-        "auteur": "Stevie Bonifield",
-        "source": "The Verge"
-    },
-    {
-        "title": "Could the Trump Phone be a good phone?",
-        "lien": "https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast",
-        "date": "2026-02-10T13:30:00+00:00",
-        "auteur": "David Pierce",
-        "source": "The Verge"
-    },
-    {
-        "title": "Siemens CEO Roland Busch\u2019s mission to automate everything",
-        "lien": "https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs",
-        "date": "2026-02-09T15:00:00+00:00",
-        "auteur": "Nilay Patel",
-        "source": "The Verge"
-    },
-    {
-        "title": "How Epstein became a tech influencer",
-        "lien": "https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast",
-        "date": "2026-02-06T14:24:30+00:00",
-        "auteur": "David Pierce",
-        "source": "The Verge"
-    },
-    {
-        "title": "Reality is losing the deepfake war",
-        "lien": "https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels",
-        "date": "2026-02-05T15:00:00+00:00",
-        "auteur": "Nilay Patel",
-        "source": "The Verge"
-    },
-    {
-        "title": "Millions of books died so Claude could live",
-        "lien": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
-        "date": "2026-02-03T15:19:28+00:00",
-        "auteur": "David Pierce",
-        "source": "The Verge"
-    },
-    {
-        "title": "How an \u2018icepocalypse\u2019 raises more questions about Meta\u2019s biggest data center project",
-        "lien": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
-        "date": "2026-02-11T14:06:11+00:00",
-        "auteur": "Justine Calma",
-        "source": "The Verge"
-    },
-    {
-        "title": "Anthropic says it\u2019ll try to keep its data centers from raising electricity costs",
-        "lien": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
-        "date": "2026-02-11T22:37:02+00:00",
-        "auteur": "Justine Calma",
-        "source": "The Verge"
-    },
-    {
-        "title": "MrBeast just bought a banking app",
-        "lien": "https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app",
-        "date": "2026-02-09T22:14:13+00:00",
-        "auteur": "Stevie Bonifield",
-        "source": "The Verge"
-    },
-    {
-        "title": "TikTok launches Local Feeds in the US",
-        "lien": "https://www.theverge.com/tech/877161/tiktok-us-launches-local-feeds",
-        "date": "2026-02-11T16:32:36+00:00",
-        "auteur": "Stevie Bonifield",
+        "title": "T-Mobile will live translate regular phone calls without an app",
+        "lien": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
+        "date": "2026-02-11T12:35:00+00:00",
+        "auteur": "Jess Weatherbed",
         "source": "The Verge"
     },
     {
@@ -1876,109 +1995,88 @@
         "source": "The Verge"
     },
     {
-        "title": "We found 20 Verge-approved gifts on sale ahead of Valentine\u2019s Day",
-        "lien": "https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale",
-        "date": "2026-02-06T22:45:54+00:00",
-        "auteur": "Sheena Vasani",
-        "source": "The Verge"
+        "title": "The Kia PV5 electric van combines futuristic looks and thoughtful design",
+        "lien": "https://arstechnica.com/cars/2026/02/the-kia-pv5-electric-van-combines-futuristic-looks-and-thoughtful-design/",
+        "date": "2026-02-10T11:20:20-05:00",
+        "auteur": "Alex Goy",
+        "source": "Ars Technica"
     },
     {
-        "title": "Apple might let you use ChatGPT from CarPlay",
-        "lien": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
-        "date": "2026-02-06T21:32:44+00:00",
-        "auteur": "Stevie Bonifield",
-        "source": "The Verge"
+        "title": "Alphabet selling very rare 100-year bonds to help fund AI investment",
+        "lien": "https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/",
+        "date": "2026-02-10T09:44:52-05:00",
+        "auteur": "Financial Times",
+        "source": "Ars Technica"
     },
     {
-        "title": "This is the Trump Phone",
-        "lien": "https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson",
-        "date": "2026-02-06T21:32:34+00:00",
-        "auteur": "Dominic Preston",
-        "source": "The Verge"
+        "title": "After Republican complaints, judicial body pulls climate advice",
+        "lien": "https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/",
+        "date": "2026-02-10T07:15:19-05:00",
+        "auteur": "John Timmer",
+        "source": "Ars Technica"
     },
     {
-        "title": "There isn\u2019t even a cynical explanation for Jeff Bezos destroying The Washington Post",
-        "lien": "https://www.theverge.com/policy/874958/jeff-bezos-washington-post-layoffs-trump",
-        "date": "2026-02-06T19:18:08+00:00",
-        "auteur": "Tina Nguyen",
-        "source": "The Verge"
+        "title": "Just look at Ayaneo\u2019s absolute unit of a Windows gaming \u201chandheld\u201d",
+        "lien": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/",
+        "date": "2026-02-09T17:51:16-05:00",
+        "auteur": "Kyle Orland",
+        "source": "Ars Technica"
     },
     {
-        "title": "The Jeffrey Epstein Fortnite account is fake",
-        "lien": "https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake",
-        "date": "2026-02-06T19:02:23+00:00",
-        "auteur": "Emma Roth",
-        "source": "The Verge"
+        "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
+        "lien": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
+        "date": "2026-02-09T16:09:42-05:00",
+        "auteur": "Kyle Orland",
+        "source": "Ars Technica"
     },
     {
-        "title": "Here are the best AirPods deals you can get right now",
-        "lien": "https://www.theverge.com/21302051/best-apple-airpods-deals",
-        "date": "2026-02-06T18:36:29+00:00",
-        "auteur": "Sheena Vasani",
-        "source": "The Verge"
+        "title": "Google experiments with locking YouTube Music lyrics behind paywall",
+        "lien": "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/",
+        "date": "2026-02-09T15:40:13-05:00",
+        "auteur": "Ryan Whitwam",
+        "source": "Ars Technica"
     },
     {
-        "title": "Spotify\u2019s About the Song offers context and trivia about your favorite tracks",
-        "lien": "https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes",
-        "date": "2026-02-06T17:34:09+00:00",
-        "auteur": "Terrence O'Brien",
-        "source": "The Verge"
+        "title": "Trump FCC investigates The View, reportedly says \u201cfake news\u201d will be punished",
+        "lien": "https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/",
+        "date": "2026-02-09T15:27:44-05:00",
+        "auteur": "Jon Brodkin",
+        "source": "Ars Technica"
     },
     {
-        "title": "Aura\u2019s Aspen digital frame is a great gift, especially now that it\u2019s $30 off",
-        "lien": "https://www.theverge.com/gadgets/874904/aura-aspen-kobo-libra-colour-deal-sale",
-        "date": "2026-02-06T17:01:11+00:00",
-        "auteur": "Sheena Vasani",
-        "source": "The Verge"
+        "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs",
+        "lien": "https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
+        "date": "2026-02-09T14:39:22-05:00",
+        "auteur": "Ashley Belanger",
+        "source": "Ars Technica"
     },
     {
-        "title": "The Alexa app is so bad I\u2019m using Siri again",
-        "lien": "https://www.theverge.com/tech/874792/the-alexa-app-is-so-bad-im-using-siri-again",
-        "date": "2026-02-06T16:22:48+00:00",
-        "auteur": "Jennifer Pattison Tuohy",
-        "source": "The Verge"
+        "title": "NIH head, still angry about COVID, wants a second scientific revolution",
+        "lien": "https://arstechnica.com/science/2026/02/nih-head-still-angry-about-covid-wants-a-second-scientific-revolution/",
+        "date": "2026-02-09T13:32:55-05:00",
+        "auteur": "John Timmer",
+        "source": "Ars Technica"
     },
     {
-        "title": "What happens when Waymo runs into a tornado? Or an elephant?",
-        "lien": "https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3",
-        "date": "2026-02-06T16:00:00+00:00",
-        "auteur": "Andrew J. Hawkins",
-        "source": "The Verge"
+        "title": "Disclosure Day Super Bowl trailer: Could it be\u2026 aliens?",
+        "lien": "https://arstechnica.com/culture/2026/02/disclosure-day-super-bowl-trailer-could-it-be-aliens/",
+        "date": "2026-02-09T12:41:50-05:00",
+        "auteur": "Jennifer Ouellette",
+        "source": "Ars Technica"
     },
     {
-        "title": "Analogue\u2019s 4K N64 is getting five new transparent color options",
-        "lien": "https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions",
-        "date": "2026-02-06T16:00:00+00:00",
-        "auteur": "Andrew Liszewski",
-        "source": "The Verge"
+        "title": "Ive and Newson bring old-school charm to Ferrari\u2019s first EV interior",
+        "lien": "https://arstechnica.com/cars/2026/02/ive-and-newson-bring-old-school-charm-to-ferraris-first-ev-interior/",
+        "date": "2026-02-09T10:44:33-05:00",
+        "auteur": "Jonathan M. Gitlin",
+        "source": "Ars Technica"
     },
     {
-        "title": "How Epstein became a tech influencer",
-        "lien": "https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast",
-        "date": "2026-02-06T14:24:30+00:00",
-        "auteur": "David Pierce",
-        "source": "The Verge"
-    },
-    {
-        "title": "Uber found liable for sexual assault in first of thousands of similar lawsuits",
-        "lien": "https://www.theverge.com/transportation/874751/uber-sexual-assault-federal-case-verdict-liable",
-        "date": "2026-02-06T12:54:00+00:00",
-        "auteur": "Jess Weatherbed",
-        "source": "The Verge"
-    },
-    {
-        "title": "TikTok\u2019s infinite scroll is too addictive, say EU regulators",
-        "lien": "https://www.theverge.com/policy/874746/tiktok-addictive-eu-regulators-infinite-scroll-notifications-autoplay",
-        "date": "2026-02-06T12:41:21+00:00",
-        "auteur": "Dominic Preston",
-        "source": "The Verge"
-    },
-    {
-        "title": "Google is expanding AirDrop support to more Android devices \u2018very soon\u2019",
-        "lien": "https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion",
-        "date": "2026-02-06T10:57:08+00:00",
-        "auteur": "Jess Weatherbed",
-        "source": "The Verge"
+        "title": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e",
+        "lien": "https://arstechnica.com/gadgets/2026/02/report-imminent-apple-hardware-updates-include-macbook-pro-ipads-and-iphone-17e/",
+        "date": "2026-02-09T10:28:40-05:00",
+        "auteur": "Andrew Cunningham",
+        "source": "Ars Technica"
     },
     {
         "title": "Why would Elon Musk pivot from Mars to the Moon all of a sudden?",
@@ -2902,90 +3000,6 @@
         "lien": "https://arstechnica.com/tech-policy/2026/01/tiktok-settles-hours-before-landmark-social-media-addiction-trial-starts/",
         "date": "2026-01-27T13:07:46-05:00",
         "auteur": "Ashley Belanger",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "Australian plumber is a YouTube sensation",
-        "lien": "https://arstechnica.com/culture/2026/01/australian-plumber-is-a-youtube-sensation/",
-        "date": "2026-01-27T12:37:58-05:00",
-        "auteur": "Jennifer Ouellette",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "AI Overviews gets upgraded to Gemini 3 with a dash of AI Mode",
-        "lien": "https://arstechnica.com/google/2026/01/ai-overviews-gets-upgraded-to-gemini-3-with-a-dash-of-ai-mode/",
-        "date": "2026-01-27T12:00:58-05:00",
-        "auteur": "Ryan Whitwam",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "Volvo invented the three-point seat belt 67 years ago; now it has improved it",
-        "lien": "https://arstechnica.com/cars/2026/01/how-volvos-new-adaptive-seat-belts-will-reduce-injuries-during-a-crash/",
-        "date": "2026-01-27T11:16:32-05:00",
-        "auteur": "Kristin Shaw",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working",
-        "lien": "https://arstechnica.com/gadgets/2026/01/apple-patches-ancient-ios-versions-to-keep-imessage-facetime-other-services-working/",
-        "date": "2026-01-27T10:49:53-05:00",
-        "auteur": "Andrew Cunningham",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "Trade wars muzzle allied talks on Trump\u2019s Golden Dome missile shield",
-        "lien": "https://arstechnica.com/space/2026/01/trade-wars-muzzle-allied-talks-on-trumps-golden-dome-missile-shield/",
-        "date": "2026-01-27T10:42:04-05:00",
-        "auteur": "Stephen Clark",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "Why NASA, IMSA, and tech companies are teaming up on tech transfer",
-        "lien": "https://arstechnica.com/cars/2026/01/why-nasa-imsa-and-tech-companies-are-teaming-up-on-tech-transfer/",
-        "date": "2026-01-27T10:17:13-05:00",
-        "auteur": "Jonathan M. Gitlin",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "Meet the mysterious electrides",
-        "lien": "https://arstechnica.com/science/2026/01/meet-the-mysterious-electrides/",
-        "date": "2026-01-27T09:48:01-05:00",
-        "auteur": "Knowable Magazine",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "As data from space spikes, an innovative ground station company seeks to cash in",
-        "lien": "https://arstechnica.com/space/2026/01/as-data-from-space-spikes-an-innovative-ground-station-company-seeks-to-cash-in/",
-        "date": "2026-01-27T09:16:32-05:00",
-        "auteur": "Eric Berger",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "OpenAI spills technical details about how its AI coding agent works",
-        "lien": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
-        "date": "2026-01-26T18:05:17-05:00",
-        "auteur": "Benj Edwards",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "Doctors face-palm as RFK Jr.\u2019s top vaccine advisor questions need for polio shot",
-        "lien": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
-        "date": "2026-01-26T16:31:13-05:00",
-        "auteur": "Beth Mole",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
-        "lien": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
-        "date": "2026-01-26T16:02:26-05:00",
-        "auteur": "Dan Goodin",
-        "source": "Ars Technica"
-    },
-    {
-        "title": "Apple\u2019s AirTag 2 is easier to find thanks to new chip",
-        "lien": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
-        "date": "2026-01-26T15:18:02-05:00",
-        "auteur": "Samuel Axon",
         "source": "Ars Technica"
     }
 ]
