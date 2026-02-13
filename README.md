@@ -10,147 +10,181 @@ df = pd.DataFrame(records)
 df.drop_duplicates(subset=['code'], inplace=True)
 df.dropna(subset=['product_name'], inplace=True)
 df['energy_kcal'] = df['energy_100g'] * 0.239006
-# 📰 NewsScraper — Pipeline ETL (TechCrunch / The Verge / Ars Technica)
-
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org)
-[![Requests](https://img.shields.io/badge/requests-2.32.5-orange.svg)](https://pypi.org/project/requests)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.14.3-purple.svg)](https://www.crummy.com/software/BeautifulSoup/)
-[![Supabase](https://img.shields.io/badge/Supabase-Postgres-5ed3a2.svg)](https://supabase.com)
-
-> Pipeline ETL léger pour extraire les dernières actualités depuis trois sites (TechCrunch, The Verge, Ars Technica), nettoyer et charger les articles dans une base Postgres (compatible Supabase).
+<div align="center">
+  <h1>📰 NewsScraper</h1>
+  <p><strong>Pipeline ETL</strong> — TechCrunch · The Verge · Ars Technica</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.11-blue.svg" alt="python"> 
+    <img src="https://img.shields.io/badge/requests-2.32.5-orange.svg" alt="requests"> 
+    <img src="https://img.shields.io/badge/BeautifulSoup-4.14.3-purple.svg" alt="bs4"> 
+    <img src="https://img.shields.io/badge/Supabase-Postgres-5ed3a2.svg" alt="supabase">
+  </p>
+  <p style="max-width:800px">Extract → Transform → Load : extraction multi-site, nettoyage via <strong>pandas</strong> et chargement vers Postgres (Supabase friendly). Logs locaux et fallback CSV/JSON si la BD est indisponible.</p>
+</div>
 
 ---
+---
+
 
 ## 🧭 Mini table des matières
+
 - [Aperçu](#aper%C3%A7u)
-- [Fonctionnalités](#fonctionnalit%C3%A9s)
+- [Fonctionnalités clés](#fonctionnalit%C3%A9s-cl%C3%A9s)
 - [Installation rapide](#installation-rapide)
-- [Usage](#usage)
-- [Architecture & fichiers clés](#architecture--fichiers-cl%C3%A9s)
-- [Détails ETL (Extract / Transform / Load)](#d%C3%A9tails-etl-extract--transform--load)
-- [Configuration (Supabase / .env)](#configuration-supabase--env)
-- [Schéma de la base de données (Postgres)](#sch%C3%A9ma-de-la-base-de-donn%C3%A9es-postgres)
-- [Journalisation & Debug](#journalisation--debug)
-- [Dépannage](#d%C3%A9pannage)
-- [Contribution](#contribution)
+- [Exemples d'utilisation](#exemples-dutilisation)
+- [Fichiers clés & architecture](#fichiers-cl%C3%A9s--architecture)
+- [Détails ETL](#d%C3%A9tails-etl)
+- [Configuration & Supabase (.env)](#configuration--supabase-env)
+- [Schéma SQL minimal](#sch%C3%A9ma-sql-minimal)
+- [Journalisation & debugging](#journalisation--debugging)
+- [Dépannage rapide](#d%C3%A9pannage-rapide)
+- [Contribuer](#contribuer)
+
+---
 
 ---
 
 ## Aperçu
 
-Ce dépôt contient un petit orchestrateur ETL : `main.py` exécute les étapes d'extraction (scraping), transformation (pandas) et chargement (SQLAlchemy vers Postgres). Les sources sont implémentées dans `sources/` et l'ETL dans `etl/`.
+Ce projet met en place un pipeline ETL léger qui :
 
-Les trois sites ciblés :
-- TechCrunch — `sources/extract_tech.py`
-- The Verge — `sources/extract_thev.py`
-- Ars Technica — `sources/extract_ar.py`
+- Scrape les dernières actualités de trois sites techno
+- Nettoie et normalise les métadonnées (date, auteur, url)
+- Charge les articles dans une base Postgres (Supabase)
+
+Sources implémentées :
+
+- TechCrunch — [sources/extract_tech.py](sources/extract_tech.py)
+- The Verge — [sources/extract_thev.py](sources/extract_thev.py)
+- Ars Technica — [sources/extract_ar.py](sources/extract_ar.py)
+
+---
+
+
+## Fonctionnalités clés
+
+- 🔎 Extraction HTML multi-page via `requests` + `BeautifulSoup`
+- 🧹 Transformation avec `pandas` : déduplication, parsing de dates, génération d'un `id` unique (SHA256)
+- 💾 Chargement via SQLAlchemy vers Postgres (compatible Supabase). Upsert pour éviter les doublons.
+- 🧾 Logging centralisé (console + fichier) via [config/logger.py](config/logger.py)
+- ♻️ Fallback : si la BD est indisponible, les données nettoyées sont sauvegardées en CSV/JSON dans `data/clean/`
+
 
 ---
 
-## Fonctionnalités
-
-- 🔎 Extraction HTML via `requests` + `BeautifulSoup` (multi-page)
-- 🧹 Nettoyage et normalisation avec `pandas` (déduplication, parsing date, id unique)
-- 💾 Chargement vers Postgres (SQLAlchemy). Conçu pour fonctionner avec Supabase.
-- 🧾 Logs vers console et fichier via `config/logger.py`.
-- ✅ Upsert (ON CONFLICT) pour sources/auteurs/articles.
-
----
 
 ## Installation rapide
 
 ```bash
-git clone <votre-repo> newsscraper
-cd newsscraper
+git clone <votre-repo> OpenFoodFacts
+cd OpenFoodFacts
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Créez un fichier `.env` (non commité) contenant au minimum :
+Créer un fichier `.env` (NE PAS committer) :
 
-```
+```env
 DATABASE_URL=postgresql://user:password@host:5432/dbname
-# ou l'URL fournie par Supabase (ne la partagez jamais publiquement)
+# Exemple: URL fournie par Supabase — gardez-la secrète
 ```
 
-Ajoutez `.env` à `.gitignore` si ce n'est pas déjà fait.
+Vérifiez que `.env` est dans `.gitignore`.
 
 ---
 
-## Usage
 
-- Exécuter le pipeline complet :
+## Exemples d'utilisation
+
+- Lancer le pipeline complet :
 
 ```bash
 python main.py
 ```
 
-- Exécuter une étape séparée :
+- Lancer uniquement l'extraction :
 
 ```bash
 python -m etl.Extract
+```
+
+- Lancer la transformation locale :
+
+```bash
 python -m etl.Transform
+```
+
+- Lancer le chargement (attention à `DATABASE_URL`) :
+
+```bash
 python -m etl.Load
 ```
 
-Fichiers importants : [main.py](main.py), [etl/Extract.py](etl/Extract.py), [etl/Transform.py](etl/Transform.py), [etl/Load.py](etl/Load.py), [config/logger.py](config/logger.py).
+Fichiers clés : [main.py](main.py), [etl/Extract.py](etl/Extract.py), [etl/Transform.py](etl/Transform.py), [etl/Load.py](etl/Load.py), [config/logger.py](config/logger.py).
 
 ---
 
-## Architecture & fichiers clés
 
-- `main.py` — orchestrateur qui appelle `extract_data()`, puis `etl.Transform.load_data()` et `transform_data()`, puis `etl.Load.load_to_db()`.
-- `etl/Extract.py` — combine les résultats des modules `sources/*` et écrit `data/raw/extracted_data.json`.
-- `etl/Transform.py` — charge `data/raw/extracted_data.json`, parse les dates, déduit un `id` SHA256 sur `source|lien`, supprime les duplicatas et écrit `data/clean/clean.csv`.
-- `etl/Load.py` — lit le DataFrame et effectue des upserts (`sources`, `authors`, `articles`) via SQLAlchemy et requêtes SQL textuelles (Postgres `ON CONFLICT`).
-- `sources/` — trois scrapers : `extract_tech.py`, `extract_thev.py`, `extract_ar.py`.
+## Fichiers clés & architecture
+
+- `main.py` — orchestrateur : Extract → Transform → Load
+- `etl/Extract.py` — agrége les articles extraits et écrit `data/raw/extracted_data.json`
+- `etl/Transform.py` — charge le JSON brut, normalise, génère `id` et écrit `data/clean/clean.csv`
+- `etl/Load.py` — effectue les upserts vers Postgres (utilise `DATABASE_URL`)
+- `sources/` — implémentations Scraper pour chaque site : [sources/extract_tech.py](sources/extract_tech.py), [sources/extract_thev.py](sources/extract_thev.py), [sources/extract_ar.py](sources/extract_ar.py)
+
 
 ---
 
-## Détails ETL (Extract / Transform / Load)
+
+## Détails ETL
 
 Extraction
-- Chaque module de `sources/` parcourt les premières pages (actuellement 1..5) et extrait `title`, `lien`, `date`, `auteur`, `source`.
-- Les responses sont agrégées dans `data/raw/extracted_data.json`.
+
+- Les scripts dans `sources/` parcourent les pages 1..5 (configurable) et extraient : `title`, `lien`, `date`, `auteur`, `source`.
+- Résultat agrégé dans `data/raw/extracted_data.json` par [etl/Extract.py](etl/Extract.py).
 
 Transformation
-- `etl/Transform.py`
-  - `drop_duplicates(subset=["source", "lien"])`
-  - `date` parsée avec `pd.to_datetime(..., errors='coerce', utc=True)` puis remplie par `scraped_at` si manquante
-  - `id` généré par SHA256 de `source.lower() + '|' + lien`
-  - export `data/clean/clean.csv`
+
+- `etl/Transform.py` :
+  - Supprime les doublons via `drop_duplicates(subset=["source","lien"])`.
+  - Parse `date` avec `pd.to_datetime(..., errors='coerce', utc=True)` et remplit avec `scraped_at` si absent.
+  - Génère `id` SHA256 sur `source.lower() + '|' + lien`.
+  - Exporte `data/clean/clean.csv`.
 
 Chargement
-- `etl/Load.py` attend une variable d'environnement `DATABASE_URL` (Postgres). Il construit un `engine` SQLAlchemy et fait :
-  1. upsert `sources` (RETURNING id)
-  2. upsert `authors` (RETURNING id)
-  3. insert/update `articles` (ON CONFLICT (id) DO UPDATE)
 
-Le code utilise `sqlalchemy.dialects.postgresql.insert` et des requêtes `text()` pour la portabilité Postgres.
+- `etl/Load.py` utilise `DATABASE_URL` (Postgres) pour créer un `engine` SQLAlchemy.
+- Processus : upsert `sources`, upsert `authors`, insert/update `articles` (ON CONFLICT sur `id`).
+
 
 ---
 
-## Configuration (Supabase)
 
-- Supabase fournit une URL Postgres que vous pouvez stocker dans `.env` sous `DATABASE_URL`.
-- NE PARTEZ JAMAIS VOTRE `DATABASE_URL` DANS LE DÉPÔT PUBLIC. Utilisez :
+## Configuration & Supabase (.env)
 
-```
-# .env (local, gitignored)
+- Supabase fournit une URL Postgres (stockez-la dans `.env` sous `DATABASE_URL`).
+- NE JAMAIS committer `DATABASE_URL` dans le dépôt.
+
+Exemple `.env` (local, gitignored) :
+
+```env
 DATABASE_URL=postgresql://user:password@db.host.supabase.co:5432/dbname
 ```
 
-- Pour déployer sur Supabase :
-  1. Créez un projet Supabase
-  2. Copiez l'URL Postgres dans `.env`
-  3. Créez les tables (voir schéma ci-dessous)
+Étapes rapides pour Supabase :
+
+1. Créez un projet Supabase
+2. Copiez l'URL Postgres dans `.env`
+3. Créez les tables (voir schéma SQL minimal)
 
 ---
 
-## Schéma de la base de données (Postgres)
 
-Extrait minimal (adapté au code dans `etl/Load.py`):
+## Schéma SQL minimal
+
+Copiez/executez ce SQL dans Supabase SQL Editor ou via psql :
 
 ```sql
 CREATE TABLE sources (
@@ -173,24 +207,42 @@ CREATE TABLE articles (
   scraped_at TIMESTAMP WITH TIME ZONE
 );
 
--- Indexes recommandés
 CREATE INDEX idx_articles_published_at ON articles(published_at);
 ```
 
 ---
 
-## Journalisation & Debug
 
-- Logger centralisé : `config/logger.py` écrit en console et dans `logs/scraper_YYYYMMDD.log`.
-- Si `etl.Load` échoue à cause d'un driver/manquant `DATABASE_URL`, `main.py` catchera `ModuleNotFoundError` et sauvegardera `data/clean/loaded_data.csv` et `loaded_data.json` en fallback.
+## Journalisation & debugging
+
+- Logger centralisé dans [config/logger.py](config/logger.py) : écriture console + `logs/scraper_YYYYMMDD.log`.
+- `main.py` capture les erreurs de driver/base et écrit un fallback CSV/JSON dans `data/clean/` si nécessaire.
+
+Conseil : augmentez le niveau de logs dans `config/logger.py` pour DEBUG localement.
 
 ---
 
+
 ## Dépannage rapide
 
-- `ModuleNotFoundError` → installer la dépendance (ex: `pip install psycopg2-binary` ou vérifier `requirements.txt`).
-- `requests` timeouts → vérifier votre connectivité réseau et User-Agent (déjà paramétré dans `sources/*`).
-- Si le site change son HTML, les sélecteurs BeautifulSoup dans `sources/*` doivent être mis à jour.
+- `ModuleNotFoundError` → installer la dépendance (`pip install psycopg2-binary` ou autre driver Postgres).
+- `requests` timeouts → vérifier connectivité et User-Agent dans `sources/*`.
+- Sélecteurs cassés → mettre à jour les sélecteurs BeautifulSoup dans `sources/*` lorsque le HTML des sites change.
+
+---
+
+## Contribuer
+
+- Fork → branche feature → PR
+- Ajoutez des tests pour toute logique de transformation
+
+---
+
+Si vous voulez, je peux maintenant :
+
+- générer un fichier `migrations/initial_schema.sql` basé sur le schéma ci-dessus, ou
+- ajouter un diagramme SVG du pipeline et des badges CI.
+
 
 ---
 
@@ -200,16 +252,3 @@ CREATE INDEX idx_articles_published_at ON articles(published_at);
 - Merci d'ajouter des tests pour toute transformation ajoutée et de documenter les changements.
 
 ---
-
-### Besoin d'aide ?
-Je peux :
-- générer un diagramme SVG du pipeline
-- ajouter badges CI / coverage
-- automatiser la création des tables via migration SQL
-
-Si vous voulez, je peux maintenant :
-- créer une migration SQL pour Supabase basée sur le schéma ci-dessus, ou
-- ajouter des badges CI (GitHub Actions) et un diagramme.
-
----
-
