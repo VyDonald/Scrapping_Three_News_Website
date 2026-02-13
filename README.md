@@ -230,20 +230,6 @@ Conseil : augmentez le niveau de logs dans `config/logger.py` pour DEBUG localem
 - Sélecteurs cassés → mettre à jour les sélecteurs BeautifulSoup dans `sources/*` lorsque le HTML des sites change.
 
 ---
-
-## Contribuer
-
-- Fork → branche feature → PR
-- Ajoutez des tests pour toute logique de transformation
-
----
-
-Si vous voulez, je peux maintenant :
-
-- générer un fichier `migrations/initial_schema.sql` basé sur le schéma ci-dessus, ou
-- ajouter un diagramme SVG du pipeline et des badges CI.
-
-
 ---
 
 ## Contribution
