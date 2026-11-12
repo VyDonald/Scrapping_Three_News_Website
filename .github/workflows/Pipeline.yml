@@ -8,7 +8,7 @@ on:
 
 jobs:
   run-etl:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     env:
       DATABASE_URL: ${{ secrets.DATABASE_URL }}
@@ -20,9 +20,9 @@ jobs:
 
       # 2️⃣ Configurer Python
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11.7'
+          python-version: '3.11'
 
       # 3️⃣ Installer les dépendances
       - name: Install dependencies
